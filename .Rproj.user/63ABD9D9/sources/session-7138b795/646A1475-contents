@@ -1,0 +1,12 @@
+
+# Install required packages
+install.packages("remotes")
+
+remotes::install_github("rstudio/distill")
+remotes::install_github("rstudio/rmarkdown")
+remotes::install_github("seankross/postcards")
+
+# Create your website theme
+
+library(distill)
+create_theme(name = "usda_theme")

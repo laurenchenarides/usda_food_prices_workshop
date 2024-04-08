@@ -1,7 +1,15 @@
 ---
-title: "USDA Data Usage Workshop"
-description: |
-  Welcome to the website. I hope you enjoy it!
+title: "Enhancing Data Discovery with DemocratizingData.ai"
+image: "iStock.jpg"
+links:
+  - label: Democratizing Data
+    url: "https://democratizingdata.ai/events/"
+  - label: HDSR Special Issue
+    url: "https://hdsr.mitpress.mit.edu/specialissue4"
+  - label: GitHub Repo
+    url: "https://github.com/laurenchenarides/usda_data_usage_workshop"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 

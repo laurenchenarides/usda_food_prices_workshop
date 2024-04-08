@@ -1,7 +1,11 @@
 name: "usda_data_usage_workshop"
 title: "USDA Data Usage Workshop"
+theme: usda_theme.css
 description: |
-  USDA Data Usage Workshop
+  This workshop will introduce the DemocratizingData.ai platform and the uses of its dashboard to research-oriented agricultural economists to gain insights from the usage of USDA data. The focus of the workshop is to gather feedback from the group about the current functionality of the USDA dashboard and potential future improvements. The workshop features focus groups and interactive discussions so that attendees can contribute to shaping the ongoing developments of the tool.
+  
+  The workshop is led by agricultural economists Allie Bauman, Alessandro Bonanno, Rebecca Cleary, and Lauren Chenarides from Colorado State University, and is supported by funding from the USDA Economic Research Service.
+
 output_dir: "_site"
 navbar:
   right:
