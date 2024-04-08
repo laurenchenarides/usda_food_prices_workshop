@@ -2,6 +2,7 @@
 # Create a website in RStudio using the distill package
 # Video: https://youtu.be/K5GtsTI8Tik?si=RiMonpFHqOe-AmHx 
 # Blog: https://rstudio.github.io/distill/website.html
+# Postcard Package: https://github.com/seankross/postcards
 # ========================================================
 
 # Install required packages

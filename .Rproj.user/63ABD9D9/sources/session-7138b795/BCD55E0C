@@ -1,0 +1,27 @@
+{
+    "id": "BCD55E0C",
+    "path": "~/GitProjectsWithR/usda_data_usage_workshop/welcome.Rmd",
+    "project_path": "welcome.Rmd",
+    "type": "r_markdown",
+    "hash": "2243511343",
+    "contents": "",
+    "dirty": false,
+    "created": 1712613323535.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "52,9",
+        "scrollLine": "26"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1712620167,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712620167310,
+    "read_only": false,
+    "read_only_alternatives": []
+}
