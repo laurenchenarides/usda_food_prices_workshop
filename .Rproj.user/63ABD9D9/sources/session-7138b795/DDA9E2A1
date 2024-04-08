@@ -3,7 +3,7 @@
     "path": "~/GitProjectsWithR/usda_data_usage_workshop/about.Rmd",
     "project_path": "about.Rmd",
     "type": "r_markdown",
-    "hash": "747736197",
+    "hash": "3862988465",
     "contents": "",
     "dirty": false,
     "created": 1712597249625.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "7,76",
+        "cursorPosition": "13,3",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712603483,
+    "lastKnownWriteTime": 1712605920,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712603483437,
+    "last_content_update": 1712605920643,
     "read_only": false,
     "read_only_alternatives": []
 }

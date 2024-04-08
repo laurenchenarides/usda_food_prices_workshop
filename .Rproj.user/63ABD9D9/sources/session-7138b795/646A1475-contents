@@ -1,3 +1,8 @@
+# ========================================================
+# Create a website in RStudio using the distill package
+# Video: https://youtu.be/K5GtsTI8Tik?si=RiMonpFHqOe-AmHx 
+# Blog: https://rstudio.github.io/distill/website.html
+# ========================================================
 
 # Install required packages
 install.packages("remotes")
@@ -10,3 +15,9 @@ remotes::install_github("seankross/postcards")
 
 library(distill)
 create_theme(name = "usda_theme")
+
+# Command line code
+# https://chris.beams.io/posts/git-commit/
+# git add -A
+# git commit -m"insert changes here"
+# git push -u origin main
