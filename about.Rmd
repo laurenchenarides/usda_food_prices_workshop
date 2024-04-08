@@ -5,7 +5,7 @@ description: |
   
   The workshop is led by agricultural economists Drs. Allie Bauman, Alessandro Bonanno, Rebecca Cleary, and [Lauren Chenarides](https://www.linkedin.com/in/laurenchenarides/) from Colorado State University. The workshop facilitator is Dr. [Mayla Boguslav](https://www.linkedin.com/in/mayla-boguslav-phd-30402239/).
   
-  The workshop supported by funding from the USDA Economic Research Service.
+  The workshop is supported by funding from the USDA Economic Research Service.
 
 ---
 
