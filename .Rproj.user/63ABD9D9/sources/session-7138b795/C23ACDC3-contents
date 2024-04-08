@@ -1,0 +1,12 @@
+name: "usda_data_usage_workshop"
+title: "USDA Data Usage Workshop"
+description: |
+  USDA Data Usage Workshop
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
