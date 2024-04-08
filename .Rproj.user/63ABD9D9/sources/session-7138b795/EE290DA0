@@ -3,7 +3,7 @@
     "path": "~/GitProjectsWithR/usda_data_usage_workshop/usda_theme.css",
     "project_path": "usda_theme.css",
     "type": "css",
-    "hash": "0",
+    "hash": "1007246541",
     "contents": "",
     "dirty": false,
     "created": 1712603842486.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "62,28",
-        "scrollLine": "47"
+        "cursorPosition": "102,1",
+        "scrollLine": "69"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712604585,
+    "lastKnownWriteTime": 1712612461,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712604585421,
+    "last_content_update": 1712612461938,
     "read_only": false,
     "read_only_alternatives": []
 }

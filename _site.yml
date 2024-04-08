@@ -11,6 +11,12 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Welcome & Start Here"
+      href: about.html
+    - text: "Breakout Room #1"
+      href: about.html
+    - text: "Breakout Room #2"
+      href: about.html
     - text: "About"
       href: about.html
 output: distill::distill_article

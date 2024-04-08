@@ -9,9 +9,33 @@ links:
   - label: GitHub Repo
     url: "https://github.com/laurenchenarides/usda_data_usage_workshop"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
+
+## About this Workshop
+
+The purpose of this workshop is to introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/) platform and the uses of its dashboard to research-oriented agricultural economists. The DemocratizingData.ai platform has been developed to track data usage statistics for USDA data assets. The goal of the workshop is to gather feedback from invited participants about the current functionality of the USDA dashboard and potential future improvements. The format of the workshop is guided focus groups and interactive discussions designed for attendees to contribute to shaping the ongoing developments of the tool.
+
+
+
+## Event Details
+
+**Monday, June 10, 2024, noon - 1:30 PM Eastern** | Zoom
+
+| Time               | Session       | Location    |
+|-----------------------|------------------|-------------|
+| 12:00-12:10     | Welcome Remarks          | Group        |
+| 12:10-12:45          |  Ideal System         | Breakout Session #1  |
+| 12:45-12:50          |  *Break*         | *On Your Own*  |
+| 12:50-1:25             |  Role Plan         | Breakout Session #2  |
+| 1:25-1:30    | Concluding Remarks          | Group Discussion  |
+
+
+<br><br>
+For more information about how to participate, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu).
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)

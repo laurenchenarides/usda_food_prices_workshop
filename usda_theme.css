@@ -79,3 +79,25 @@ d-appendix {
 body {
   background-color: #f4f4f4;
 }
+
+/* Table customization */
+table {
+  font-size: 0.9rem; /* Smaller font size for tables */
+  border-collapse: collapse; /* Collapse borders */
+  width: 100%; /* Optional: makes the table width 100% of its container */
+  margin-bottom: 20px; /* Optional: adds some space below the table */
+}
+
+table, th, td {
+  border: 1px solid #ddd; /* Adds border to the table, th, and td elements */
+}
+
+th, td {
+  padding: 8px; /* Adds padding inside each table cell */
+  text-align: left; /* Aligns text to the left; adjust as needed */
+}
+
+th {
+  background-color: #f4f4f4; /* Optional: sets a background color for table headers */
+  color: #333; /* Optional: sets the text color for table headers */
+}
