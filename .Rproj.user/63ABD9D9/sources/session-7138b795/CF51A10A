@@ -1,0 +1,27 @@
+{
+    "id": "CF51A10A",
+    "path": "~/GitProjectsWithR/usda_data_usage_workshop/grants.Rmd",
+    "project_path": "grants.Rmd",
+    "type": "r_markdown",
+    "hash": "1057415655",
+    "contents": "",
+    "dirty": false,
+    "created": 1712622422755.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1712622490,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1712622491003,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -3,7 +3,7 @@
     "path": "~/GitProjectsWithR/creating_a_website.R",
     "project_path": null,
     "type": "r_source",
-    "hash": "2506484781",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1712602909455.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,27",
+        "cursorPosition": "4,20",
         "scrollLine": "0"
     },
     "folds": "",

@@ -1,0 +1,30 @@
+---
+title: "Scenario: Using the Dashboard to Facilitate Grant Writing"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+*Purpose:* You're drafting a grant proposal and need exploratory analysis to motivate the research and explain its scientific novelty. How can the tool assist you in this scenario?
+
+**Tasks:**
+
+1. **Comparing Datasets:**
+    - How can the tool help you compare datasets on this topic, including those that are not the most popular?
+
+2. **Exploring Data Sources:**
+    - How did you find the dataset?
+    - What language/topics/terms did you input to find it?
+
+
+## Reflection Questions
+
+Consider the following questions:
+
+- What is missing from the tool or process?
+- What limitations or problems have we encountered?
+- What features of the tool did you find surprising or particularly useful?
+- Would you use this tool in your own research? Why or why not?
+- What additional functionalities would you like to see in this tool?

@@ -1,28 +1,21 @@
 ---
-title: "breakout2"
-output: distill::distill_article
+title: "Data Discovery Tool Exploration: Role Play Scenarios"
+links:
+  - label: Publishing
+    href: publishing.html
+  - label: Writing Grants
+    href: grants.html
+  - label: Finding Collaborators
+    href: collaborations.html
+output:
+  postcards::solana
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+In this part of our workshop, we have designed a series of role-play exercises to simulate real-world scenarios you might encounter in your research. These scenarios will help us explore the utility and functionality of the prototype data discovery tool funded by the USDA. Each scenario is crafted to highlight different aspects of the tool and how it can assist in various research activities such as publishing, grant writing, and collaboration.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-```{r cars}
-summary(cars)
-```
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Through this exercise, we aim to understand the tool's potential impact on your research workflows and decision-making processes. Please follow along as we navigate through each scenario, reflecting on the specific questions and tasks presented.
