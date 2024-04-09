@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant data can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. The sheer volume of data available poses a significant challenge, but it also offers opportunities for those who can navigate this complex information ecosystem efficiently to develop technology advancements. 
 
-This session aims to explore these opportunities by conceptualizing an ideal tool for data discovery. Through this thought experiment, we will explore the potential impact such a tool could have on your research workflows, collaboration opportunities, and ultimately, the advancement of knowledge.
+This session aims to explore these opportunities by conceptualizing an ideal tool for data discovery. Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
 
 ## Getting Started
 
