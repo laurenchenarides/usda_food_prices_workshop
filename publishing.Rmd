@@ -31,3 +31,7 @@ Consider the following questions:
 - What features of the tool did you find surprising or particularly useful?
 - Would you use this tool in your own research? Why or why not?
 - What additional functionalities would you like to see in this tool?
+
+<div style="text-align: center;">
+  <a href="breakout2.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Scenarios</a>
+</div>
