@@ -1,21 +1,17 @@
 ---
 title: "Data Discovery Tool Exploration: Role Play Scenarios"
-links:
-  - label: Publishing
-    href: publishing.html
-  - label: Writing Grants
-    href: grants.html
-  - label: Finding Collaborators
-    href: collaborations.html
-output:
-  postcards::solana
-site: distill::distill_website
+output: distill::distill_article
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Session Objective 
+
 In this part of our workshop, we have designed a series of role-play exercises to simulate real-world scenarios you might encounter in your research. These scenarios will help us explore the utility and functionality of the prototype data discovery tool. Each scenario is crafted to highlight different aspects of the tool and how it can assist in various research activities such as publishing, grant writing, and collaboration.
 
 Through this exercise, we aim to understand the tool's potential impact on your research workflows and decision-making processes. Please follow along as we navigate through each scenario, reflecting on the specific questions and tasks presented.
+
+
+<div class="row"> <div class="col-4"> <a href="publishing.html" class="btn btn-primary btn-block">Publishing</a> </div> <div class="col-4"> <a href="grants.html" class="btn btn-primary btn-block">Writing Grants</a> </div> <div class="col-4"> <a href="collaborations.html" class="btn btn-primary btn-block">Finding Collaborators</a> </div> </div>

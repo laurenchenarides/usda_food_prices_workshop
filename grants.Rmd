@@ -7,7 +7,7 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-*Purpose:* You're drafting a grant proposal and need exploratory analysis to motivate the research and explain its scientific novelty. How can the tool assist you in this scenario?
+**Purpose:** You're drafting a grant proposal and need exploratory analysis to motivate the research and explain its scientific novelty. How can the tool assist you in this scenario?
 
 **Tasks:**
 
