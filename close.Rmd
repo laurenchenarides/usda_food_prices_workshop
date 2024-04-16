@@ -1,0 +1,53 @@
+---
+title: "Welcome to Democratizing Data"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Thank You for Joining Us!
+
+We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard funded by the USDA. This tool, specifically designed to enhance the search-and-discovery process for USDA data assets, is in its developmental phase. Its developers are seeking feedback from prospective users to refine and improve the dashboard to better serve researchers in their search for datasets, identification of data experts, and discovery of publications using USDA data.
+
+### A Special Welcome from Julia Lane
+
+[![Welcome Message from Julia Lane](http://via.placeholder.com/640x360)](URL "Welcome Message from Julia Lane")
+
+*Click the image above to watch a welcome video from Julia Lane, one of the creators of the Democratizing Data project.*   
+
+## Why Your Participation Matters
+
+**Research Value**: Your engagement is central to the development process. As a research-oriented agricultural economist, your insights and feedback will directly influence the development of this platform, ensuring it aligns with the actual needs of the community. Your contributions today will inform the platform’s future enhancements, making it more intuitive and valuable for researchers like you.
+
+**Networking and Knowledge Sharing Value**: This workshop is designed to be interactive and discussion-based, bringing together research-active agricultural economists. It represents a unique opportunity to connect, share knowledge, and learn from your peers—some of whom you may already know and others you are yet to meet. We hope these interactions foster a sense of community and collaboration.
+
+**Community Impact**: The exclusivity of this workshop, limited to 40 agricultural economists, highlights the curated nature of this event. Your nomination to participate is a testament to the value we believe you bring to these discussions. Together, we have the potential to shape a tool that will serve not just our immediate needs but also set a benchmark for data discovery and application in policy oriented research.
+
+## Moving Forward
+We value your perspective in shaping the development of a tool. We look forward to your active participation, insightful discussions, and feedback during this workshop.
+
+
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!-- Back to Top Button -->
+<div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
+  <a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a>
+</div>
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("back-to-top").style.display = "block";
+  } else {
+    document.getElementById("back-to-top").style.display = "none";
+  }
+}
+</script>

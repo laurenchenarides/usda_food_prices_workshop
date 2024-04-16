@@ -13,10 +13,10 @@ navbar:
       href: index.html
     - text: "Welcome & Start Here"
       href: welcome.html
-    - text: "Breakout Room #1"
-      href: breakout1.html
-    - text: "Breakout Room #2"
-      href: breakout2.html
+    - text: "Dashboard Demo & Activities"
+      href: breakout.html
+    - text: "Closing Remarks"
+      href: close.html
     - text: "About"
       href: about.html
     - text: "Resources"

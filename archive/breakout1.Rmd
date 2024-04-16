@@ -1,0 +1,105 @@
+---
+title: "Exploring the Future of Data Search: A Thought Experiment"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introductions
+
+Welcome, everyone! Before we dive into the first session, let's start off with a quick icebreaker. 
+
+Take a look at this 'sheep-scale'. Each sheep represents a different mood or feeling. 
+
+![On this sheep-scale, how do you feel today?](sheep.jpg)
+
+Please introduce yourself by sharing:
+
+- Your name
+
+- The institution or organization you're affiliated with
+
+- Your "sheep score" – choose the sheep that best represents how you feel today
+
+
+## Session Overview
+
+In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant data can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
+
+We recognize the challenges associated with sorting through vast amounts of available data. Initiatives, like DemocratizingData.ai, are being developed to simplify this process. These efforts require contributions from the community, which is why we have convened this workshop.
+
+This session aims to explore these opportunities by conceptualizing an ideal tool for data discovery. Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
+
+## Thought Experiment
+
+***Imagine a tool that could instantly reveal the datasets, researchers, institutions, and focus areas behind the publications driving your research. How much time could you save, and how could this change the way you approach your research?***
+
+As we begin this thought experiment, consider yourself not just as a user, but as a key contributor whose insights could significantly influence the development of this dashboard.
+
+<!-- ADD GROUP BREAKOUT ROOM'S BOARD -->
+
+### Reflect on Your Current Process
+
+1. **Identify Your Needs**
+   - Reflect on the last time you were in search of data for your research. What were the key pieces of information you were trying to find?
+   - Modality: List - white board with sticky notes (on your own)
+   - Time Limit: 
+   
+   Consider aspects such as:
+     - Statistics or specific data points
+     - Limitations or scope of the datasets
+     - Coverage or inclusiveness of the data
+
+2. **Understand Your Motivations**
+   - Why were you searching for this data? 
+   - What questions were you asking yourself during this process?
+   - Modality: Discussion (while looking at the list)
+   - Time Limit: 
+   
+   Examples:
+     - Were you looking to see how others have used the dataset?
+     - Were you curious about the publications or researchers associated with the dataset?
+
+### Envisioning the Ideal Tool
+
+3. **Time-Saving Features**
+   - Given the piece of information in question #1, what feature would save you time or enhance your search to find the ideal dataset? 
+   - How would this features change your research process?
+   - Modality: Board that is discussion-based
+   - Time Limit: *how do we get at this quickly while brainstorming?*
+
+4. **Broadening Your Research Network**
+   - Consider how a tool that identifies data experts and institutions involved in similar research areas could impact your work. 
+   - Would this facilitate collaboration? 
+   - Would it offer new insights?
+   - Modality: Poll
+
+5. **Access to Publications**
+   - How valuable would it be to have direct links to research articles using specific USDA datasets? 
+   - Would this influence your choice of datasets?
+   - Modality: Poll
+   
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!-- Back to Top Button -->
+<div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
+  <a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a>
+</div>
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("back-to-top").style.display = "block";
+  } else {
+    document.getElementById("back-to-top").style.display = "none";
+  }
+}
+</script>
