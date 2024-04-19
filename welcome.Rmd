@@ -9,7 +9,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Thank You for Joining Us!
 
-We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard funded by the USDA. This tool, specifically designed to enhance the search-and-discovery process for USDA data assets, is in its developmental phase. Its developers are seeking feedback from prospective users to refine and improve the dashboard to better serve researchers in their search for datasets, identification of data experts, and discovery of publications using USDA data.
+We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard, funded by the USDA, to track data usage statistics for USDA data assets. The USDA and their partners are developing a dashboard to track *who* and *how* USDA-produced datasets are used by the public, an initiative inspired by the [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174).
+
+The purpose of this workshop is to collect feedback from prospective users of the dashboard, and to use these comments to refine and improve the dashboard to better serve the needs of the research community.
 
 ### A Special Welcome from Julia Lane
 
@@ -27,8 +29,6 @@ We are delighted to have you participate in this workshop, aimed at exploring a 
 
 ## Moving Forward
 We value your perspective in shaping the development of a tool. We look forward to your active participation, insightful discussions, and feedback during this workshop.
-
-
 
 
 <!-- ################## -->

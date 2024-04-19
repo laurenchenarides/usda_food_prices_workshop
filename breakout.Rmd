@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Future of Data Search: A Thought Experiment"
+title: "Dashboard Demo and Breakout Group Activities"
 output: distill::distill_article
 ---
 
@@ -11,35 +11,60 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome, everyone! Before we dive into the first session, let's start off with a quick icebreaker. 
 
-Take a look at this 'sheep-scale'. Each sheep represents a different mood or feeling. 
-
-![On this sheep-scale, how do you feel today?](sheep.jpg)
-
 Please introduce yourself by sharing:
 
 - Your name
 
 - The institution or organization you're affiliated with
 
-- Your "sheep score" – choose the sheep that best represents how you feel today
+- Your "sheep score" – Each sheep represents a different mood or feeling. Choose the sheep that best represents how you feel today
+
+![On this sheep-scale, how do you feel today?](sheep.jpg)
 
 
-## Session Overview
+## Activity #1
 
-In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant data can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
+In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
 
-We recognize the challenges associated with sorting through vast amounts of available data. Initiatives, like DemocratizingData.ai, are being developed to simplify this process. These efforts require contributions from the community, which is why we have convened this workshop.
+We recognize the challenges associated with sorting through vast amounts of available datasets. Initiatives, like DemocratizingData.ai, are being developed to simplify components of this process. These efforts require contributions from the community, which is why we have convened this workshop.
 
-This session aims to explore these opportunities by conceptualizing an ideal tool for data discovery. Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
+This first activity aims to explore these opportunities by conceptualizing an ideal tool for tracking dataset usage statistics. Understanding dataset usage statistics informs the public about the relevance and impact of various datasets, and provides information to researchers about the most widely-used (and under-utilized) resources for their work. 
+
+<!--
+Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
+-->
 
 ## Thought Experiment
-
+<!--
 ***Imagine a tool that could instantly reveal the datasets, researchers, institutions, and focus areas behind the publications driving your research. How much time could you save, and how could this change the way you approach your research?***
-
 As we begin this thought experiment, consider yourself not just as a user, but as a key contributor whose insights could significantly influence the development of this dashboard.
+-->
 
-<!-- ADD GROUP BREAKOUT ROOM'S BOARD -->
+**Scenario:** Assume that you are new to a certain field of study and you want to do research in this area. You seek out an expert in that field and ask them to suggest datasets you could use to answer your research question. They suggest two datasets you could use. You may only select one.
 
+**Objective:** We will now walk through a series of questions to understand your decision-making process in determining which, of the two, datasets you would ultimately choose.
+
+1. What key pieces of information would you need to compare the two datasets?
+
+2. What questions would you be asking yourself during this process?
+
+3. Does a tool exist that could help you compare the datasets?
+
+    - If yes, what is the tool and how have you used it?
+
+    - If not, what features would you like to see in a tool to help you make this decision?
+
+4. Consider a feature that identifies dataset-specific experts and their institutions.
+   - How valuable would this feature be in making your decision?
+   - In what ways could this information offer insights?
+   - Would knowing this answer influence your choice of dataset?
+
+5. Consider a feature that has direct links to research articles using the suggested datasets.
+   - How valuable would this feature be in making your decision?
+   - In what ways could this information offer insights?
+   - Would knowing this answer influence your choice of dataset?
+
+<!--
 ### Reflect on Your Current Process
 
 1. **Identify Your Needs**
@@ -47,10 +72,6 @@ As we begin this thought experiment, consider yourself not just as a user, but a
    - Modality: List - white board with sticky notes (on your own)
    - Time Limit: 
    
-   Consider aspects such as:
-     - Statistics or specific data points
-     - Limitations or scope of the datasets
-     - Coverage or inclusiveness of the data
 
 2. **Understand Your Motivations**
    - Why were you searching for this data? 
@@ -81,8 +102,33 @@ As we begin this thought experiment, consider yourself not just as a user, but a
    - Would this influence your choice of datasets?
    - Modality: Poll
    
+-->
 
 
+## Activity #2
+
+In this second activity, we will introduce you to a dashboard whose functions are to: 
+
+- Identify experts who use USDA-produced datasets 
+
+- Retrieve publications using USDA-produced datasets
+
+- Search for dataset users and publications by topic area
+
+Then, we will walk through a series of role-play exercises to simulate real-world scenarios you might encounter throughout your research process. These scenarios will help us explore the utility and functionality of the prototype dashboard. Each scenario is crafted to highlight different aspects of the dashboard and how it can assist in various research activities such as finding collaborators, writing grants, doing the research and publishing.
+
+**Objective:** To understand the dashboard's potential impact on your research workflows and decision-making processes. 
+
+## Scenarios
+
+Please follow along as we navigate through each scenario, reflecting on the specific questions and tasks presented.
+
+<div class="row"> 
+<div class="col-4"> <a href="collaborations.html" class="btn btn-primary btn-block">Find Collaborators</a> </div> 
+<div class="col-4"> <a href="grants.html" class="btn btn-primary btn-block">Write Grants</a> </div> 
+<div class="col-4"> <a href="research.html" class="btn btn-primary btn-block">Do the Research</a> </div> 
+<div class="col-4"> <a href="publishing.html" class="btn btn-primary btn-block">Choose Publication Outlets</a> </div> 
+</div>
 <!-- ################## -->
 
 <div style="padding-bottom: 60px;"></div>

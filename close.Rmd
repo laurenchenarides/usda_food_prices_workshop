@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Democratizing Data"
+title: "Thank You for Contributing"
 output: distill::distill_article
 ---
 
@@ -7,26 +7,18 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Thank You for Joining Us!
+## TEMP PAGE
 
-We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard funded by the USDA. This tool, specifically designed to enhance the search-and-discovery process for USDA data assets, is in its developmental phase. Its developers are seeking feedback from prospective users to refine and improve the dashboard to better serve researchers in their search for datasets, identification of data experts, and discovery of publications using USDA data.
 
-### A Special Welcome from Julia Lane
+### Thank You from Spiro Stefanou
 
-[![Welcome Message from Julia Lane](http://via.placeholder.com/640x360)](URL "Welcome Message from Julia Lane")
+[![Thank You Message from Spiro Stefanou](http://via.placeholder.com/640x360)](URL "Thank You Message from Spiro Stefanou, USDA-ERS Administrator")
 
-*Click the image above to watch a welcome video from Julia Lane, one of the creators of the Democratizing Data project.*   
+*Click the image above to watch a welcome video from Spiro Stefanou, Administrator of the USDA Economic Research Service.*   
 
-## Why Your Participation Matters
-
-**Research Value**: Your engagement is central to the development process. As a research-oriented agricultural economist, your insights and feedback will directly influence the development of this platform, ensuring it aligns with the actual needs of the community. Your contributions today will inform the platform’s future enhancements, making it more intuitive and valuable for researchers like you.
-
-**Networking and Knowledge Sharing Value**: This workshop is designed to be interactive and discussion-based, bringing together research-active agricultural economists. It represents a unique opportunity to connect, share knowledge, and learn from your peers—some of whom you may already know and others you are yet to meet. We hope these interactions foster a sense of community and collaboration.
-
-**Community Impact**: The exclusivity of this workshop, limited to 40 agricultural economists, highlights the curated nature of this event. Your nomination to participate is a testament to the value we believe you bring to these discussions. Together, we have the potential to shape a tool that will serve not just our immediate needs but also set a benchmark for data discovery and application in policy oriented research.
 
 ## Moving Forward
-We value your perspective in shaping the development of a tool. We look forward to your active participation, insightful discussions, and feedback during this workshop.
+
 
 
 

@@ -15,10 +15,8 @@ navbar:
       href: welcome.html
     - text: "Dashboard Demo & Activities"
       href: breakout.html
+    - text: "Group Share"
+      href: share.html
     - text: "Closing Remarks"
       href: close.html
-    - text: "About"
-      href: about.html
-    - text: "Resources"
-      href: resources.html
 output: distill::distill_article

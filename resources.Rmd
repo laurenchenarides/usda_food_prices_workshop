@@ -1,5 +1,5 @@
 ---
-title: "Resources"
+title: "Additional Resources"
 output: distill::distill_article
 ---
 
