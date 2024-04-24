@@ -1,0 +1,24 @@
+---
+title: "Scenario: How Can the Dashboard Help You Find Collaborators?"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Purpose:** You are looking to collaborate with other researchers who have used specific datasets in their work. 
+
+**How can the tool facilitate finding potential collaborators?**
+
+**Tasks:**
+
+1. **Locating Collaborators:**
+    - Use the tool to find other researchers who have used the datasets you are interested in. What is their background?
+
+2. **Exploring Publications:**
+    - Where have these potential collaborators published their work?
+
+<div style="text-align: center;">
+  <a href="breakout.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Scenarios</a>
+</div>

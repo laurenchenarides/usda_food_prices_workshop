@@ -1,0 +1,25 @@
+---
+title: "Scenario: How Can the Dashboard Help You Write Grants?"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**Purpose:** You're drafting a grant proposal and need exploratory analysis to motivate the research and explain its scientific novelty. 
+
+**How can the tool assist you in this scenario?**
+
+**Tasks:**
+
+1. **Comparing Datasets:**
+    - How can the tool help you compare datasets on this topic, including those that are not the most popular?
+
+2. **Exploring Data Sources:**
+    - How did you find the dataset?
+    - What language/topics/terms did you input to find it?
+
+<div style="text-align: center;">
+  <a href="breakout.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Scenarios</a>
+</div>

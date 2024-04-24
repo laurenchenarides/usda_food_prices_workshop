@@ -1,13 +1,20 @@
 ---
 title: "Dashboard Demo and Breakout Group Activities"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introductions
+## Introductions 
+
+**(5 minutes)**
+
+**We kindly ask that you turn on your cameras.**
 
 Welcome, everyone! Before we dive into the first session, let's start off with a quick icebreaker. 
 
@@ -21,8 +28,7 @@ Please introduce yourself by sharing:
 
 ![On this sheep-scale, how do you feel today?](sheep.jpg)
 
-
-## Activity #1
+## Activity #1 
 
 In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
 
@@ -34,7 +40,9 @@ This first activity aims to explore these opportunities by conceptualizing an id
 Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
 -->
 
-## Thought Experiment
+### Thought Experiment
+
+**(15 minutes)**
 <!--
 ***Imagine a tool that could instantly reveal the datasets, researchers, institutions, and focus areas behind the publications driving your research. How much time could you save, and how could this change the way you approach your research?***
 As we begin this thought experiment, consider yourself not just as a user, but as a key contributor whose insights could significantly influence the development of this dashboard.
@@ -44,27 +52,39 @@ As we begin this thought experiment, consider yourself not just as a user, but a
 
 **Objective:** We will now walk through a series of questions to understand your decision-making process in determining which, of the two, datasets you would ultimately choose.
 
+
+| Breakout Group   | Link to Idea Board | 
+|--------|----------------|
+| Group 1  | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
+| Group 2  | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
+| Group 3  | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
+| Group 4  | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
+
+
 1. What key pieces of information would you need to compare the two datasets?
 
-2. What questions would you be asking yourself during this process?
+    - Add your responses as sticky notes to the "Pieces of Information" Idea Board.
 
-3. Does a tool exist that could help you compare the datasets?
+2. What *tools* exist to help you compare datasets? What *features* in a tool exist or would you like to see exist to help you compare datasets? 
 
-    - If yes, what is the tool and how have you used it?
+    - Add your responses as sticky notes to the "Existing Tools" and "Features" Idea Board.
 
-    - If not, what features would you like to see in a tool to help you make this decision?
+3. Consider a feature that identifies dataset-specific experts and their institutions.
 
-4. Consider a feature that identifies dataset-specific experts and their institutions.
-   - How valuable would this feature be in making your decision?
-   - In what ways could this information offer insights?
-   - Would knowing this answer influence your choice of dataset?
+    - How valuable would this feature be in making your decision? [Poll]
+    - Would knowing this answer influence your choice of dataset? [Poll]
 
+4. Consider a feature that has direct links to research articles using the suggested datasets.
+
+    - How valuable would this feature be in making your decision? [Poll]
+    - Would knowing this answer influence your choice of dataset? [Poll]
+
+<!--
 5. Consider a feature that has direct links to research articles using the suggested datasets.
    - How valuable would this feature be in making your decision?
    - In what ways could this information offer insights?
    - Would knowing this answer influence your choice of dataset?
-
-<!--
+   
 ### Reflect on Your Current Process
 
 1. **Identify Your Needs**
@@ -104,33 +124,71 @@ As we begin this thought experiment, consider yourself not just as a user, but a
    
 -->
 
+## Activity #2 
 
-## Activity #2
+In this second activity, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
 
-In this second activity, we will introduce you to a dashboard whose functions are to: 
+- Identifying users of USDA-produced datasets by region, institution, and field
 
-- Identify experts who use USDA-produced datasets 
-
-- Retrieve publications using USDA-produced datasets
-
-- Search for dataset users and publications by topic area
-
-Then, we will walk through a series of role-play exercises to simulate real-world scenarios you might encounter throughout your research process. These scenarios will help us explore the utility and functionality of the prototype dashboard. Each scenario is crafted to highlight different aspects of the dashboard and how it can assist in various research activities such as finding collaborators, writing grants, doing the research and publishing.
+- Providing information on publications and citations featuring USDA-produced datasets
 
 **Objective:** To understand the dashboard's potential impact on your research workflows and decision-making processes. 
 
-## Scenarios
+### Site Walkthrough 
 
-Please follow along as we navigate through each scenario, reflecting on the specific questions and tasks presented.
+**(7 minutes)**
 
+<iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+
+
+### Choose a Scenario 
+
+**(13 minutes)**
+
+Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how it can assist in various research activities.
+
+Please navigate through the assigned scenario on your own, reflecting on the specific questions and tasks presented. We will reconvene to reflect on your experience with the dashboard.
+
+**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
+
+**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
+
+
+| Breakout Group   | Link to Scenario | 
+|--------|----------------|
+| Group 1  | [Scenario 1](scenario1.html")         | 
+| Group 2  | [Scenario 2](scenario2.html")         | 
+| Group 3  | [Scenario 3](scenario3.html")         | 
+| Group 4  | [Scenario 4](scenario4.html")         | 
+
+<!--
 <div class="row"> 
-<div class="col-4"> <a href="collaborations.html" class="btn btn-primary btn-block">Find Collaborators</a> </div> 
-<div class="col-4"> <a href="grants.html" class="btn btn-primary btn-block">Write Grants</a> </div> 
-<div class="col-4"> <a href="research.html" class="btn btn-primary btn-block">Do the Research</a> </div> 
-<div class="col-4"> <a href="publishing.html" class="btn btn-primary btn-block">Choose Publication Outlets</a> </div> 
-</div>
-<!-- ################## -->
+<div class="col-4"> <a href="scenario1.html" class="btn btn-primary btn-block">Group 1</a> </div> 
+<div class="col-4"> <a href="scenario2.html" class="btn btn-primary btn-block">Group 2</a> </div> 
+<div class="col-4"> <a href="scenario3.html" class="btn btn-primary btn-block">Group 3</a> </div> 
+<div class="col-4"> <a href="scenario4.html" class="btn btn-primary btn-block">Group 4</a> </div> 
+</div> <br>
+-->
 
+### Reflection 
+
+**(10 minutes)**
+
+**HOW DO WE WANT TO GO THROUGH THESE?**
+
+Consider the following questions:
+
+- What features of the dashboard did you find particularly useful or surprising?
+- What limitations or problems did you encounter while navigating the dashboard?
+- What features would you add to the dashboard?
+- Would you use this tool in your own research? Why or why not?
+
+<!--
+- What additional functionalities would you like to see in this tool?
+-->
+
+
+<!--===================================-->
 <div style="padding-bottom: 60px;"></div>
 
 <!-- Back to Top Button -->
@@ -149,3 +207,4 @@ function scrollFunction() {
   }
 }
 </script>
+<!--===================================-->

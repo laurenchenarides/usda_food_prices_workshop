@@ -32,7 +32,7 @@ site: distill::distill_website
 |--------|----------------|
 | 12:00-12:10  | [Welcome Remarks](https://usda-data-usage-workshop.netlify.app/welcome)          | 
 | 12:10-1:05   |  [Dashboard Demo and Activities](https://usda-data-usage-workshop.netlify.app/breakout)         | 
-| 1:05-1:25    |  [Group Share](https://usda-data-usage-workshop.netlify.app/breakout2)         | 
+| 1:05-1:25    |  [Group Share](https://usda-data-usage-workshop.netlify.app/share)         | 
 | 1:25-1:30    | [Concluding Remarks](https://usda-data-usage-workshop.netlify.app/close)         | 
 
 

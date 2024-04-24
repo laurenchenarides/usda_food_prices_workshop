@@ -1,6 +1,9 @@
 ---
 title: "Thank You for Contributing"
-output: distill::distill_article
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
 ---
 
 ```{r setup, include=FALSE}
