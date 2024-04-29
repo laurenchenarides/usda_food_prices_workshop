@@ -156,10 +156,10 @@ Please navigate through the assigned scenario on your own, reflecting on the spe
 
 | Breakout Group   | Link to Scenario | 
 |--------|----------------|
-| Group 1  | [Scenario 1](scenario.html")         | 
-| Group 2  | [Scenario 2](scenario.html")         | 
-| Group 3  | [Scenario 3](scenario.html")         | 
-| Group 4  | [Scenario 4](scenario.html")         | 
+| Group 1  | [Scenario 1](scenario.html)         | 
+| Group 2  | [Scenario 2](scenario.html)         | 
+| Group 3  | [Scenario 3](scenario.html)         | 
+| Group 4  | [Scenario 4](scenario.html)         | 
 
 <!--
 <div class="row"> 
