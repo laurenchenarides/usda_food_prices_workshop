@@ -6,32 +6,65 @@ output: distill::distill_article
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<!--
+**Purpose:** Imagine you're in the process of drafting a research paper and you need to identify relevant datasets for your analysis. The goal is to use the dashboard to find datasets that allow you to answer your research question. 
+-->
 
-**Purpose:** Imagine you're in the process of drafting a research paper and you need to identify relevant datasets for your analysis. The goal is to use the data discovery tool to find datasets that allow you to answer your research question. 
+##Activity
 
-**How can the tool assist you in this scenario?**
+
+**GIVE THEM A DATASET**
+
+**HAVE THEM FIND THE "RIGHT ANSWER"**
+
+
+**Scenario:** You are going to be using [insert dataset here] in your research. You're not quite sure how to use this dataset. Let's see if we can figure out who we can ask for help, what publications we can read to help us utilize the dataset, and possibly other data usage statistics to get us on the right track.
+
+Example dataset: Farm to School
 
 **Tasks:**
 
-1. **Identify Datasets:**
-    - What USDA-produced datasets exist on your topic of interest? Use the tool to list the datasets you find.
-    - How are the datasets classified (according to which fields)?
+**As you are navigating the dashboard to answer these questions, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
 
-2. **Identify Dataset Experts:**
-    - Who is using the datasets you identified, and what are their backgrounds?
-    - Which regions or states have the most active users of the datasets you found?
+1. **Locate your assigned dataset:** Given the USDA-produced dataset have you been assigned, navigate to the location on the page where you can filter through the list of datasets.
 
-3. **Dataset Utilization:**
-    - How have these datasets been used (in what publications)? 
-    - How many citations have the datasets you found received?
 
-4. **Reflection Questions:**
-    - What features of the dashboard did you find particularly useful or surprising?
-    - What limitations or problems did you encounter while navigating the dashboard?
-    - What features would you add to the dashboard?
-    - Would you use this tool in your own research? Why or why not?
-    
+2. **Identify an expert:** Who can we ask for help?
+
+Answer: Becca
+
+
+3. **Identify five papers we can read:** What papers can we read?
+
+Answer: Big Hunger
+
+
+4. Where is a good place to do a literature review?
+
+Answer: Journal of Hunger and Environmental Nutrition
+
+
+5. Where might publish? 
+
+Answer: 
+
+6. But, what if I want to target an Ag Econ journal?
+
+Answer: Go to "All Science Journal Classification Subfields", Select "Economics and Econometrics"
+
+
+7. If time allows, clear your filter and pick a new dataset. 
+
+
+##Reflection Questions
+
+**After you've gone through the dashboard and answered the questions, we'll reconvene as a group to answer the following reflection questions.**
+
+  - What features of the dashboard did you find particularly useful or surprising?
+  - What limitations or problems did you encounter while navigating the dashboard?
+  - What features would you add to the dashboard?
+
 
 <div style="text-align: center;">
-  <a href="breakout.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Scenarios</a>
+  <a href="breakout.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Breakout</a>
 </div>

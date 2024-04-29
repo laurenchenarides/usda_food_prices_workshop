@@ -137,9 +137,11 @@ In this second activity, we will walk you through a dashboard that provides data
 ### Site Walkthrough 
 
 **(7 minutes)**
-
+<!--
 <iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
+-->
 
+<iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 ### Choose a Scenario 
 

@@ -7,4 +7,18 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## TEMP PAGE
+## Group Share 
+
+**(12 minutes)**
+
+Each note taker, please summarize themes from your group's discussion:
+
+- What features of the dashboard did you find particularly useful or surprising?
+- What limitations or problems did you encounter while navigating the dashboard?
+- What features would you add to the dashboard?
+
+## Final Question
+
+**(8 minutes)**
+
+- Would you use this tool in your own research? Why or why not?
