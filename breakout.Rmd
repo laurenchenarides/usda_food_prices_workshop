@@ -98,15 +98,15 @@ Now, we will walk you through a dashboard that provides data usage information a
 
 ## Activity #2 
 
-Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how it can assist in various research activities.
+Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how you can use it to collect data usage statistics.
 
 ### Using the Dashboard 
 
 **(23 minutes)**
 
-Please select the scenario assigned to your breakout group. Reflecting on the specific questions and tasks presented. We will reconvene to reflect on your experience with the dashboard.
+Please navigate to the activity page below. Answer the specific questions associated with the tasks presented. We will reconvene as a small group to reflect on your experience with the dashboard.
 
-Go to [Activty #2](scenario.html)
+Go to [Activity #2](scenario.html)
 
 <!--
 | Breakout Group   | Link to Scenario | 
