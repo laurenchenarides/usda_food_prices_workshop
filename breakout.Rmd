@@ -85,20 +85,20 @@ Now, we will walk you through a dashboard that provides data usage information a
 
 - Providing information on publications and citations featuring USDA-produced datasets
 
-### User Guide for the Current Version of the Dashboard
+### Workshop User Guide
 <iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
+*The guide above walks through the current version of the Democratizing Data dashboard.*  
 
-#### Democratizing Data User Guide
+
+### Democratizing Data User Guide
 <iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
-*The page above is the user guide for the Democratizing Data dashboard.*  
+*The guide above provides additional information developed by the Democratizing Data team.*  
 
 ## Activity #2 
 
 Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how it can assist in various research activities.
-
-**Objective:** To understand the dashboard's potential impact on your research workflows and decision-making processes. 
 
 ### Using the Dashboard 
 
@@ -106,13 +106,16 @@ Now you will explore the utility and functionality of the prototype dashboard on
 
 Please select the scenario assigned to your breakout group. Reflecting on the specific questions and tasks presented. We will reconvene to reflect on your experience with the dashboard.
 
+Go to [Activty #2](scenario.html)
+
+<!--
 | Breakout Group   | Link to Scenario | 
 |--------|----------------|
 | Group 1  | [Scenario 1](scenario.html)         | 
 | Group 2  | [Scenario 2](scenario.html)         | 
 | Group 3  | [Scenario 3](scenario.html)         | 
 | Group 4  | [Scenario 4](scenario.html)         | 
-
+-->
 
 
 <!--===================================-->
