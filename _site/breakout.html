@@ -2497,11 +2497,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <ul>
 <li><a href="#thought-experiment" id="toc-thought-experiment">Thought Experiment</a></li>
 </ul></li>
+<li><a href="#dashboard-walkthrough" id="toc-dashboard-walkthrough">Dashboard Walkthrough</a>
+<ul>
+<li><a href="#user-guide-for-the-current-version-of-the-dashboard" id="toc-user-guide-for-the-current-version-of-the-dashboard">User Guide for the Current Version of the Dashboard</a></li>
+</ul></li>
 <li><a href="#activity-2" id="toc-activity-2">Activity #2</a>
 <ul>
-<li><a href="#site-walkthrough" id="toc-site-walkthrough">Site Walkthrough</a></li>
-<li><a href="#choose-a-scenario" id="toc-choose-a-scenario">Choose a Scenario</a></li>
-<li><a href="#reflection" id="toc-reflection">Reflection</a></li>
+<li><a href="#using-the-dashboard" id="toc-using-the-dashboard">Using the Dashboard</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -2524,15 +2526,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p>In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project.</p>
 <p>We recognize the challenges associated with sorting through vast amounts of available datasets. Initiatives, like DemocratizingData.ai, are being developed to simplify components of this process. These efforts require contributions from the community, which is why we have convened this workshop.</p>
 <p>This first activity aims to explore these opportunities by conceptualizing an ideal tool for tracking dataset usage statistics. Understanding dataset usage statistics informs the public about the relevance and impact of various datasets, and provides information to researchers about the most widely-used (and under-utilized) resources for their work.</p>
-<!--
-Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
--->
 <h3 id="thought-experiment">Thought Experiment</h3>
-<p><strong>(15 minutes)</strong>
-<!--
-***Imagine a tool that could instantly reveal the datasets, researchers, institutions, and focus areas behind the publications driving your research. How much time could you save, and how could this change the way you approach your research?***
-As we begin this thought experiment, consider yourself not just as a user, but as a key contributor whose insights could significantly influence the development of this dashboard.
---></p>
+<p><strong>(15 minutes)</strong></p>
 <p><strong>Scenario:</strong> Assume that you are new to a certain field of study and you want to do research in this area. You seek out an expert in that field and ask them to suggest datasets you could use to answer your research question. They suggest two datasets you could use. You may only select one.</p>
 <p><strong>Objective:</strong> We will now walk through a series of questions to understand your decision-making process in determining which, of the two, datasets you would ultimately choose.</p>
 <table>
@@ -2585,7 +2580,73 @@ As we begin this thought experiment, consider yourself not just as a user, but a
 <li>Would knowing this answer influence your choice of dataset? [Poll]</li>
 </ul></li>
 </ol>
-<!--
+<h2 id="dashboard-walkthrough">Dashboard Walkthrough</h2>
+<p><strong>(7 minutes)</strong></p>
+<p>Now, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:</p>
+<ul>
+<li><p>Identifying users of USDA-produced datasets by region, institution, and field</p></li>
+<li><p>Providing information on publications and citations featuring USDA-produced datasets</p></li>
+</ul>
+<h3 id="user-guide-for-the-current-version-of-the-dashboard">User Guide for the Current Version of the Dashboard</h3>
+<iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0">
+</iframe>
+<h4 id="democratizing-data-user-guide">Democratizing Data User Guide</h4>
+<iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0">
+</iframe>
+<p><em>The page above is the user guide for the Democratizing Data dashboard.</em></p>
+<h2 id="activity-2">Activity #2</h2>
+<p>Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how it can assist in various research activities.</p>
+<p><strong>Objective:</strong> To understand the dashboard’s potential impact on your research workflows and decision-making processes.</p>
+<h3 id="using-the-dashboard">Using the Dashboard</h3>
+<p><strong>(23 minutes)</strong></p>
+<p>Please select the scenario assigned to your breakout group. Reflecting on the specific questions and tasks presented. We will reconvene to reflect on your experience with the dashboard.</p>
+<table>
+<thead>
+<tr class="header">
+<th>Breakout Group</th>
+<th>Link to Scenario</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Group 1</td>
+<td><a href="scenario.html">Scenario 1</a></td>
+</tr>
+<tr class="even">
+<td>Group 2</td>
+<td><a href="scenario.html">Scenario 2</a></td>
+</tr>
+<tr class="odd">
+<td>Group 3</td>
+<td><a href="scenario.html">Scenario 3</a></td>
+</tr>
+<tr class="even">
+<td>Group 4</td>
+<td><a href="scenario.html">Scenario 4</a></td>
+</tr>
+</tbody>
+</table>
+<!--===================================-->
+<div style="padding-bottom: 60px;">
+
+</div>
+<!-- Back to Top Button -->
+<div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
+<p><a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a></p>
+</div>
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("back-to-top").style.display = "block";
+  } else {
+    document.getElementById("back-to-top").style.display = "none";
+  }
+}
+</script>
+<!--===================================-->
+<!-- **********OLD TEXT**********
 5. Consider a feature that has direct links to research articles using the suggested datasets.
    - How valuable would this feature be in making your decision?
    - In what ways could this information offer insights?
@@ -2628,53 +2689,14 @@ As we begin this thought experiment, consider yourself not just as a user, but a
    - Would this influence your choice of datasets?
    - Modality: Poll
    
+
+Through this first activity, we will delve into how such a tool could transform your research workflows, enhance collaboration opportunities, and significantly improve research outcomes.
+
+***Imagine a tool that could instantly reveal the datasets, researchers, institutions, and focus areas behind the publications driving your research. How much time could you save, and how could this change the way you approach your research?***
+As we begin this thought experiment, consider yourself not just as a user, but as a key contributor whose insights could significantly influence the development of this dashboard.
+
+- What additional functionalities would you like to see in this tool?
 -->
-<h2 id="activity-2">Activity #2</h2>
-<p>In this second activity, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:</p>
-<ul>
-<li><p>Identifying users of USDA-produced datasets by region, institution, and field</p></li>
-<li><p>Providing information on publications and citations featuring USDA-produced datasets</p></li>
-</ul>
-<p><strong>Objective:</strong> To understand the dashboard’s potential impact on your research workflows and decision-making processes.</p>
-<h3 id="site-walkthrough">Site Walkthrough</h3>
-<p><strong>(7 minutes)</strong>
-<!--
-<iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
---></p>
-<iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0">
-</iframe>
-<h3 id="choose-a-scenario">Choose a Scenario</h3>
-<p><strong>(13 minutes)</strong></p>
-<p>Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how it can assist in various research activities.</p>
-<p>Please navigate through the assigned scenario on your own, reflecting on the specific questions and tasks presented. We will reconvene to reflect on your experience with the dashboard.</p>
-<p><strong>UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE</strong></p>
-<p><strong>USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS</strong></p>
-<table>
-<thead>
-<tr class="header">
-<th>Breakout Group</th>
-<th>Link to Scenario</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Group 1</td>
-<td><a href="scenario.html">Scenario 1</a></td>
-</tr>
-<tr class="even">
-<td>Group 2</td>
-<td><a href="scenario.html">Scenario 2</a></td>
-</tr>
-<tr class="odd">
-<td>Group 3</td>
-<td><a href="scenario.html">Scenario 3</a></td>
-</tr>
-<tr class="even">
-<td>Group 4</td>
-<td><a href="scenario.html">Scenario 4</a></td>
-</tr>
-</tbody>
-</table>
 <!--
 <div class="row"> 
 <div class="col-4"> <a href="scenario1.html" class="btn btn-primary btn-block">Group 1</a> </div> 
@@ -2683,39 +2705,6 @@ As we begin this thought experiment, consider yourself not just as a user, but a
 <div class="col-4"> <a href="scenario4.html" class="btn btn-primary btn-block">Group 4</a> </div> 
 </div> <br>
 -->
-<h3 id="reflection">Reflection</h3>
-<p><strong>(10 minutes)</strong></p>
-<p><strong>HOW DO WE WANT TO GO THROUGH THESE?</strong></p>
-<p>Consider the following questions:</p>
-<ul>
-<li>What features of the dashboard did you find particularly useful or surprising?</li>
-<li>What limitations or problems did you encounter while navigating the dashboard?</li>
-<li>What features would you add to the dashboard?</li>
-<li>Would you use this tool in your own research? Why or why not?</li>
-</ul>
-<!--
-- What additional functionalities would you like to see in this tool?
--->
-<!--===================================-->
-<div style="padding-bottom: 60px;">
-
-</div>
-<!-- Back to Top Button -->
-<div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
-<p><a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a></p>
-</div>
-<script>
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("back-to-top").style.display = "block";
-  } else {
-    document.getElementById("back-to-top").style.display = "none";
-  }
-}
-</script>
-<!--===================================-->
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
