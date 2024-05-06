@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Data Discovery with DemocratizingData.ai"
-image: "iStock.jpg"
+image: "iStock-small.jpg"
 links:
   - label: Democratizing Data
     url: "https://democratizingdata.ai/events/"
@@ -15,13 +15,13 @@ site: distill::distill_website
 
 ## About this Workshop
 
-**Why Are We Here?** To introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/) platform and the uses of its dashboard to research-oriented agricultural economists. 
+**Why Are We Here?** To introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/) platform, its dashboard, and its uses to researchers in agricultural economics. 
 
-**What Is It?** The DemocratizingData.ai platform is being developed to track data usage statistics for datasets produced by the USDA. 
+**What Is It?** The DemocratizingData.ai platform aims to track data usage statistics for all data products produced by the USDA; researchers can access these statistics through the dashboard.
 
 **What Is Our Goal Today?** To gather feedback from invited participants about the current functionality of the USDA dashboard and potential future improvements. 
 
-**How Will We Get There?** The format of the workshop is guided focus groups and interactive discussions designed for attendees to contribute to shaping the ongoing developments of the tool.
+**How Will We Get There?** Attendees of this workshop will participate in guided focus groups and facilitated discussions, providing inputs that will contribute to shaping the development of the tool. We will gather your feedback about the current functionality of the dashboard and suggestions on potential future improvements.
 
 
 ## Event Details

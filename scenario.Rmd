@@ -17,6 +17,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **HAVE THEM FIND THE "RIGHT ANSWER"**
 
+**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
+
+**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
+
 
 **Scenario:** You are going to be using [insert dataset here] in your research. You're not quite sure how to use this dataset. Let's see if we can figure out who we can ask for help, what publications we can read to help us utilize the dataset, and possibly other data usage statistics to get us on the right track.
 
