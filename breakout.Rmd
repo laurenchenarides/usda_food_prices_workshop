@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introductions 
 
-**(5 minutes)**
+<font size="8">**Time: 5 minutes**</font>
 
 **We kindly ask that you turn on your cameras.**
 
@@ -24,28 +24,32 @@ Please introduce yourself by sharing:
 
 - The institution or organization you're affiliated with
 
-- Your "sheep score" – Each sheep represents a different mood or feeling. Choose the sheep that best represents how you feel today
+- Your "sheep score" – Each sheep represents a different mood or feeling. Choose the sheep that best represents how you feel today.
 
 ![On this sheep-scale, how do you feel today?](sheep.jpg)
 
 ## Activity #1 
 
+<font size="8">**Time: 15 minutes**</font>
+
 In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
 
 We recognize the challenges associated with sorting through vast amounts of available datasets. Initiatives, like DemocratizingData.ai, are being developed to simplify components of this process. These efforts require contributions from the community, which is why we have convened this workshop.
 
-This first activity aims to explore these opportunities by conceptualizing an ideal tool for tracking dataset usage statistics. Understanding dataset usage statistics informs the public about the relevance and impact of various datasets, and provides information to researchers about the most widely-used (and under-utilized) resources for their work. 
-
+This first activity aims to explore these opportunities by conceptualizing an ideal tool for tracking dataset usage statistics. Understanding these statistics informs the public about the relevance and impact of various datasets, and provides information to researchers about the most widely-used (and under-utilized) resources for their work. 
 
 
 ### Thought Experiment
 
-**(15 minutes)**
+To conceptualize this ideal tool, we will XXX
 
 **Scenario:** Assume that you are new to a certain field of study and you want to do research in this area. You seek out an expert in that field and ask them to suggest datasets you could use to answer your research question. They suggest two datasets you could use. You may only select one.
 
 **Objective:** We will now walk through a series of questions to understand your decision-making process in determining which, of the two, datasets you would ultimately choose.
 
+**Instructions:** The tool we will use for answering the questions is through Idea Boards. Give a brief overview. . . How to add a sticky note. . .
+
+Please navigate to your group's Idea Board:
 
 | Breakout Group   | Link to Idea Board | 
 |--------|----------------|
@@ -55,29 +59,35 @@ This first activity aims to explore these opportunities by conceptualizing an id
 | Group 4  | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
 
 
+### Questions
+
 1. What key pieces of information would you need to compare the two datasets?
 
-    - Add your responses as sticky notes to the "Pieces of Information" Idea Board.
+    - Add your responses as sticky notes to the "Pieces of Information" Idea Board. 
+    - (3 minutes)
 
-2. What *tools* exist to help you compare datasets? What *features* in a tool exist or would you like to see exist to help you compare datasets? 
+2. What *tools* exist to help you compare datasets? 
 
-    - Add your responses as sticky notes to the "Existing Tools" and "Features" Idea Board.
+    - Add your responses as sticky notes to the "Existing Tools" Idea Board. 
+    - (3 minutes)
 
-3. Consider a feature that identifies dataset-specific experts and their institutions.
+3. What *features* in a tool exist or would you like to see exist to help you compare datasets? 
 
-    - How valuable would this feature be in making your decision? [Poll]
-    - Would knowing this answer influence your choice of dataset? [Poll]
+    - Add your responses as sticky notes to the "Features" Idea Board. 
+    - (3 minutes)
+    
 
-4. Consider a feature that has direct links to research articles using the suggested datasets.
+### Quick Poll
 
-    - How valuable would this feature be in making your decision? [Poll]
-    - Would knowing this answer influence your choice of dataset? [Poll]
+- Consider a feature that identifies dataset-specific experts and their institutions. How valuable would this feature be in making your decision?
+
+- Consider a feature that has direct links to research articles using the suggested datasets. How valuable would this feature be in making your decision?
 
 
 
 ## Dashboard Walkthrough
 
-**(7 minutes)**
+<font size="8">**Time: 7 minutes**</font>
 
 Now, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
 
@@ -98,15 +108,13 @@ Now, we will walk you through a dashboard that provides data usage information a
 
 ## Activity #2 
 
+<font size="8">**Time: 23 minutes**</font>
+
 Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how you can use it to collect data usage statistics.
 
 ### Using the Dashboard 
 
-**(23 minutes)**
-
 Please navigate to the activity page below. Answer the specific questions associated with the tasks presented. We will reconvene as a small group to reflect on your experience with the dashboard.
-
-Go to [Activity #2](scenario.html)
 
 <!--
 | Breakout Group   | Link to Scenario | 
@@ -121,7 +129,12 @@ Go to [Activity #2](scenario.html)
 <!--===================================-->
 <div style="padding-bottom: 60px;"></div>
 
-<!-- Back to Top Button -->
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="scenario.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Activity #2</a>
+</div>
+
+<!-- Back to Top Button 
 <div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
   <a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a>
 </div>
@@ -137,6 +150,8 @@ function scrollFunction() {
   }
 }
 </script>
+-->
+
 <!--===================================-->
 
 

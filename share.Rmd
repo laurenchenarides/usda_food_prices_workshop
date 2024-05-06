@@ -1,5 +1,5 @@
 ---
-title: "Group Share"
+title: "Large Group Share"
 output: distill::distill_article
 ---
 
@@ -9,16 +9,25 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Reflection Questions 
 
-**(12 minutes)**
+<font size="8">**Time: 12 minutes**</font>
+<font size="8">**Lead: NAME**</font>
 
 Each note taker, please summarize themes from your group's discussion:
 
-- What features of the dashboard did you find particularly useful or surprising?
-- What limitations or problems did you encounter while navigating the dashboard?
-- What features would you add to the dashboard?
+- What features of the dashboard did you find particularly useful or surprising? (*Group 1 starts*)
+- What limitations or problems did you encounter while navigating the dashboard? (*Group 2 starts*)
+- What features would you add to the dashboard? (*Group 3 starts*)
 
 ## Final Question
 
-**(8 minutes)**
+<font size="8">**Time: 8 minutes**</font>
+<font size="8">**Lead: NAME**</font>
 
-- Would you use this tool in your own research? Why or why not?
+- Would you use this tool in your own research? Why or why not? (*Free talk; Please also make use of the chat feature.*)
+
+
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="close.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Concluding Remarks</a>
+</div>
