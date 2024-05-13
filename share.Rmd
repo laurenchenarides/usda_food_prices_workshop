@@ -9,8 +9,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Reflection Questions 
 
-<font size="8">**Time: 12 minutes**</font>
-<font size="8">**Lead: NAME**</font>
+<span style="font-size: 20px; font-weight: bold;">**Time: 12 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Led by: **</span>
 
 Each note taker, please summarize themes from your group's discussion:
 
@@ -20,8 +20,8 @@ Each note taker, please summarize themes from your group's discussion:
 
 ## Final Question
 
-<font size="8">**Time: 8 minutes**</font>
-<font size="8">**Lead: NAME**</font>
+<span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span>
+<span style="font-size: 20px; font-weight: bold;">**Led by: **</span>
 
 - Would you use this tool in your own research? Why or why not? (*Free talk; Please also make use of the chat feature.*)
 
