@@ -20,7 +20,7 @@ We are delighted to have you participate in this workshop, aimed at exploring a 
 
 *Click the image above to watch a welcome video from Julia Lane, one of the creators of the Democratizing Data project.*   
 
-## Why Your Participation Matters
+### Why Your Participation Matters
 
 **Research Value**: Your engagement is central to the development process. As a research-oriented agricultural economist, your insights and feedback will directly influence the development of this platform, ensuring it aligns with the actual needs of the community. Your contributions today will inform the platform’s future enhancements, making it more intuitive and valuable for researchers like you.
 

@@ -30,7 +30,7 @@ Please introduce yourself by sharing:
 
 ## Activity #1 
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 15 minutes**</span>
+<span style="font-size: 20px; font-weight: bold;">**Total Time: 15 minutes**</span>
 
 In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
 
@@ -98,10 +98,11 @@ Please navigate to your group's Idea Board:
 -->
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdnKX47weC9VLq76sE34F7qCVHoKQtYLIEmlUaDhKl1KT8pw/viewform?embedded=true" width="640" height="1083" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+*[Link to poll](https://forms.gle/xSY1q7oLGKZ7CfAk9)*
 
 ## Dashboard Walkthrough
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 7 minutes**</span>
+<span style="font-size: 20px; font-weight: bold;">**Total Time: 7 minutes**</span>
 
 Now, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
 
@@ -118,32 +119,90 @@ Now, we will walk you through a dashboard that provides data usage information a
 ### Democratizing Data User Guide
 <iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
-*The guide above provides additional information developed by the Democratizing Data team.*  
+*The guide above provides additional information developed by the Democratizing Data team. [Link to guide](https://democratizingdata.gitbook.io/userguide/09-usagedashboard)*  
 
 ## Activity #2 
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 23 minutes**</span>
+<span style="font-size: 20px; font-weight: bold;">**Total Time: 23 minutes**</span>
 
 Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how you can use it to collect data usage statistics.
 
 ### Using the Dashboard 
 
-Please navigate to the activity page below. Answer the specific questions associated with the tasks presented. We will reconvene as a small group to reflect on your experience with the dashboard.
+<span style="font-size: 20px; font-weight: bold;">**Time: 15 minutes**</span>
 
-<!--
-| Breakout Group   | Link to Scenario | 
+**Objective:** You will use the dashboard to find information about the dataset assigned to your breakout group (see table below). You will be asked a series of questions that are aimed to find specific data usage statistics for your assigned dataset. Answer the specific questions associated with the tasks presented. We will reconvene as a small group to reflect on your experience with the dashboard.
+
+
+| Breakout Group   | Assigned Dataset | 
 |--------|----------------|
-| Group 1  | [Scenario 1](scenario.html)         | 
-| Group 2  | [Scenario 2](scenario.html)         | 
-| Group 3  | [Scenario 3](scenario.html)         | 
-| Group 4  | [Scenario 4](scenario.html)         | 
--->
+| Group 1  |   Census of Agriculture      | 
+| Group 2  |   FoodAPS      | 
+| Group 3  |   Current Population Survey -- Food Security Supplement      | 
+| Group 4  |   Food Access Research Atlas      | 
 
+### Tasks
+
+**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
+**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
+**HAVE THEM FIND THE "RIGHT ANSWER"**
+
+
+**As you navigate the dashboard to answer the questions below, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
+
+1. **Locate your assigned dataset:** Given the USDA-produced dataset have you been assigned, navigate to the location on the page where you can filter through the list of datasets.
+
+Example dataset: Farm to School Census
+
+2. **Identify an expert:** Who can we ask for help?
+
+Answer: Becca Jablonski
+
+
+3. **Identify five papers we can read:** What papers can we read?
+
+Answer: Big Hunger
+
+
+4. Where is a good place to do a literature review?
+
+Answer: Journal of Hunger and Environmental Nutrition
+
+
+5. Where might publish? 
+
+Answer: 
+
+6. But, what if I want to target an Ag Econ journal?
+
+Answer: Go to "All Science Journal Classification Subfields", Select "Economics and Econometrics"
+
+
+7. If time allows, clear your filter and pick a new dataset. 
+
+
+## Reflection Questions
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span>
+
+**After you have gone through the dashboard and answered the questions, we will reconvene as a group to answer the following reflection questions.**
+
+  - What features of the dashboard did you find particularly useful or surprising?
+  - What limitations or problems did you encounter while navigating the dashboard?
+  - What features would you add to the dashboard?
+
+Thank you for sharing
 
 <!--===================================-->
 <div style="padding-bottom: 60px;"></div>
 
+
 <!--===================================-->
+<div style="text-align: center;">
+  <a href="share.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Large Group Share</a>
+</div>
+
+<!--===================================
 <div style="text-align: center;">
   <a href="scenario.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Activity #2</a>
 </div>
@@ -167,7 +226,6 @@ function scrollFunction() {
 -->
 
 <!--===================================-->
-
 
 <!-- **********OLD TEXT**********
 5. Consider a feature that has direct links to research articles using the suggested datasets.
