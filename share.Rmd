@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Reflection Questions 
 
 <span style="font-size: 20px; font-weight: bold;">**Time: 12 minutes**</span> <br>
-<span style="font-size: 20px; font-weight: bold;">**Led by: **</span>
+<span style="font-size: 20px; font-weight: bold;">**Led by: Alessandro Bonanno**</span>
 
 Each note taker, please summarize themes from your group's discussion:
 
@@ -20,8 +20,8 @@ Each note taker, please summarize themes from your group's discussion:
 
 ## Final Question
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span>
-<span style="font-size: 20px; font-weight: bold;">**Led by: **</span>
+<span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
 
 - Would you use this tool in your own research? Why or why not? (*Free talk; Please also make use of the chat feature.*)
 
