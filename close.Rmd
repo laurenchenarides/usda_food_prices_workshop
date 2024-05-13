@@ -10,8 +10,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## TEMP PAGE
-
+## Closing Remarks 
 
 ### Thank You from Spiro Stefanou
 
@@ -20,8 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 *Click the image above to watch a welcome video from Spiro Stefanou, Administrator of the USDA Economic Research Service.*   
 
 
-## Moving Forward
-We value your perspective in shaping the development of a tool.
+We value your time and perspectives in shaping the development of this dashboard.
 
 
 <!-- ################## -->
