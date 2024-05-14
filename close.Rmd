@@ -12,14 +12,20 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Closing Remarks 
 
+We value your time and perspectives in shaping the development of this dashboard.
+
 ### Thank You from Spiro Stefanou
 
 [![Thank You Message from Spiro Stefanou](http://via.placeholder.com/640x360)](URL "Thank You Message from Spiro Stefanou, USDA-ERS Administrator")
 
 *Click the image above to watch a welcome video from Spiro Stefanou, Administrator of the USDA Economic Research Service.*   
 
+### What's Your Sheep Score Now?
 
-We value your time and perspectives in shaping the development of this dashboard.
+Now that ewe've gone through this workshop, enter your sheep score in the chat.
+
+![Sheep up the good work!](sheep.jpg)
+
 
 
 <!-- ################## -->

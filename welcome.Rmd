@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <span style="font-size: 20px; font-weight: bold;">**Time: 5 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
 
-We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard, funded by the USDA, to track data usage statistics for USDA data assets. The USDA and their partners are developing a dashboard to track *who* and *how* USDA-produced datasets are used by the public, an initiative inspired by the [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174). The purpose of this workshop is to collect feedback from prospective users of the dashboard, and to use these comments to refine and improve the dashboard to better serve the needs of the research community.
+We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard, funded by the USDA, to track data usage statistics for USDA datasets. The USDA and their partners are developing a dashboard to track *who* and *how* USDA-produced datasets are used by the public, an initiative inspired by the [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174). The purpose of this workshop is to collect feedback from prospective users of the dashboard, and to use these comments to refine and improve the dashboard to better serve the needs of the research community.
 
 ### A Special Welcome from Julia Lane
 
@@ -31,29 +31,94 @@ We are delighted to have you participate in this workshop, aimed at exploring a 
 
 **Community Impact**: The exclusivity of this workshop, limited to 40 agricultural economists, highlights the curated nature of this event. Your nomination to participate is a testament to the value we believe you bring to these discussions. Together, we have the potential to shape a tool that will serve not just our immediate needs but also set a benchmark for data discovery and application in policy oriented research.
 
-## Workshop Flow
+## Workshop Details
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 2 minutes**</span> <br>
+### Team Introductions
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 3 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Allie Bauman**</span>
 
-The workshop is being led by a team from Colorado State University. The majority of the workshop will be spent in breakout groups. Each breakout group will have a discussant and a note taker. You will be assigned to a breakout group based on your research area or sub-discipline specialty. Participants will take part in two activities within their breakout rooms. All participants will reconvene to share their experience toward the end of the workshop. The workshop moderator will keep track of time and inform breakout groups how much time remains within the breakout rooms.
+The workshop is being led by a team from Colorado State University: 
+
+<table>
+  <tr>
+    <td><img src="path_to_allie_bauman_thumbnail.jpg" alt="Allie Bauman" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Allie Bauman</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_rebecca_cleary_thumbnail.jpg" alt="Brooke Fitzgerald" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Brooke Fitzgerald</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_rebecca_cleary_thumbnail.jpg" alt="Rebecca Cleary" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Rebecca Cleary</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_rebecca_cleary_thumbnail.jpg" alt="Ta&iacute;s de Menezes" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Ta&iacute;s de Menezes</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_alessandro_bonanno_thumbnail.jpg" alt="Alessandro Bonanno" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Alessandro Bonanno</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_rebecca_cleary_thumbnail.jpg" alt="Mackenzie Gill" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Mackenzie Gill</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_lauren_chenarides_thumbnail.jpg" alt="Lauren Chenarides" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Lauren Chenarides</span></td>
+  </tr>
+  <tr>
+    <td><img src="path_to_rebecca_cleary_thumbnail.jpg" alt="Sione Ikeme" style="width:60px;height:60px;"></td>
+    <td><span style="font-size: 16px; font-weight: bold;">Sione Ikeme</span></td>
+  </tr>  <tr>
+  <td><img src="images/mayla.jpg" alt="Mayla Boguslav" style="width:90px;height:60px;"></td>
+  <td><span style="font-size: 16px; font-weight: bold;">Mayla Boguslav</span></td>
+  </tr>
+</table>
+
+### Workshop Etiquette
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 1 minute**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Led by: Rebecca Cleary**</span>
+
+To ensure a smooth and productive workshop experience for everyone, please follow these Zoom etiquette guidelines:
+
+1. Keep video on when possible: Keeping your video on helps maintain engagement and create a more interactive environment.
+
+2. Formal instructions for raise your hands: Use the "Raise Hand" feature to ask questions or make comments. The discussant will call on you when it's your turn.
+
+3. Be on mute unless you're speaking: This helps reduce background noise and ensure that the speaker is heard clearly.
+
+4. Respect comments: Please respect the contributions of others and avoid interrupting when someone else is speaking.
+
+5. Ask for clarification in the chat: If you have questions or need further explanation, please use the chat feature to ask for clarification.
+
 
 ### Breakout Groups
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 3 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Time: 1 minute**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Rebecca Cleary**</span>
 
-You will now be organized into one of four breakout groups.
+The majority of the workshop will be spent in breakout groups. You will be assigned to one of four breakout groups. Assignments are based on your research area or sub-discipline specialty. Participants will take part in two activities within their breakout rooms. All participants will reconvene to share their experience toward the end of the workshop. The workshop moderator will keep track of time and inform breakout groups how much time remains within the breakout rooms.
 
-| Breakout Group   | Team Lead | Note Taker | 
+Each breakout group will have a discussant and a note taker, assigned below:
+
+| Breakout Group   | Discussant | Note Taker | 
 |--------|----------------|----------------|
 | Group 1  |   Allie Bauman  |  Brooke Fitzgerald    |
 | Group 2  |   Becky Cleary      |  Ta&iacute;s de Menezes  |
 | Group 3  |   Alessandro Bonanno    |   Mackenzie Gill  |
 | Group 4  |   Lauren Chenarides   | Sione Ikeme   |
+| Moderator  |   Mayla Boguslav   |    |
 
 
-***We value your perspective in shaping the development of a tool. We look forward to your active participation, insightful discussions, and feedback during this workshop.***
+
+**We value your perspective in shaping the development of a tool. We look forward to your active participation, insightful discussions, and feedback during this workshop.**
+
+***Please hang tight, as you will now be moved into to your breakout rooms.***
+
 
 <!-- ################## -->
 

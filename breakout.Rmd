@@ -10,7 +10,17 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-**At this point, we kindly ask that you turn on your cameras.**
+**As a reminder, we kindly ask that you follow these Zoom etiquette guidelines.**
+
+1. Keep video on.
+
+2. Use the "Raise Hand" feature.
+
+3. Be on mute unless you're speaking.
+
+4. Respect comments.
+
+5. Ask for clarification in the chat.
 
 ## Introductions 
 
@@ -43,12 +53,22 @@ This first activity aims to explore these opportunities by conceptualizing an id
 
 To conceptualize this ideal tool, we will engage in a role-playing scenario designed to mimic the decision-making process researchers face when selecting datasets for their studies.
 
-**Scenario:** Assume that you are new to a certain field of study and you want to do research in this area. You seek out an expert in that field and ask them to suggest datasets you could use to answer your research question. They suggest two datasets you could use. You may only select one.
+**Scenario:** Assume you have become aware of a new (to you) dataset and you want to understand whether it is useful for your research and how others have used it.
 
-**Objective:** We will now walk through a series of questions to understand your decision-making process in determining which, of the two, datasets you would ultimately choose.
+**Objective:** We will now walk through a series of questions to understand your decision-making process in determining its usefulness to you.
 
 **Instructions:** For answering the questions, we'll use Idea Boards, an online collaboration tool that allows participants to share their thoughts and insights through sticky notes. 
 
+Here’s a quick guide on how to use Idea Boards:
+
+Please navigate to your group's Idea Board:
+
+| Breakout Group   | Link to Idea Board | 
+|--------|----------------|
+| Group 1  | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
+| Group 2  | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
+| Group 3  | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
+| Group 4  | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
 Here’s a quick guide on how to use Idea Boards:
 
 - Navigate to the provided link to access our group’s Idea Board.
@@ -59,32 +79,23 @@ Here’s a quick guide on how to use Idea Boards:
 
 - You can type your thoughts and click 'Save' to share them with the group.
 
-- Feel free to move your notes around, edit them as the discussion evolves, or ``up vote'' other sticky notes.
-
-Please navigate to your group's Idea Board:
-
-| Breakout Group   | Link to Idea Board | 
-|--------|----------------|
-| Group 1  | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
-| Group 2  | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
-| Group 3  | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
-| Group 4  | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
+- Feel free to move your notes around, edit them as the discussion evolves, or "up vote" other sticky notes.
 
 
 ### Questions
 
-1. What key pieces of information would you need to compare the two datasets?
+1. What key pieces of information would you want to know about the usage of this dataset?
 
     - Add your responses as sticky notes to the "Pieces of Information" Idea Board. 
     - Time: 3 minutes
 
-2. What *tools* exist to help you compare datasets? 
+2. Are there tools / resources that can provide you with the information you want?  
 
-    - Add your responses as sticky notes to the "Existing Tools" Idea Board. 
+    - Add your responses as sticky notes to the "Tools / Resources" Idea Board. 
     - Time: 3 minutes
 
-3. What *features* in a tool exist or would you like to see exist to help you compare datasets? 
-
+3. What features in a tool / resource exist or would you like to see exist to help you compare datasets? 
+what features should / does a tool / resource have to help you decide if the dataset is useful? 
     - Add your responses as sticky notes to the "Features" Idea Board. 
     - Time: 3 minutes
     
