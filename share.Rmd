@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <span style="font-size: 20px; font-weight: bold;">**Time: 12 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Alessandro Bonanno**</span>
 
-Each note taker, please summarize themes from your group's discussion:
+Each note taker, please summarize themes from your group's discussion.  
 
 - What features of the dashboard did you find particularly useful or surprising? (*Group 1 starts*)
 - What limitations or problems did you encounter while navigating the dashboard? (*Group 2 starts*)
@@ -23,7 +23,9 @@ Each note taker, please summarize themes from your group's discussion:
 <span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
 
-- Would you use this tool in your own research? Why or why not? (*Free talk; Please also make use of the chat feature.*)
+For the remainder of our time, we invite all participants to share their answers to the following question. Please use the "Raise Hand" feature in Zoom or write your comment in the chat.
+
+- Would you use this tool in your own research? Why or why not? (*Open discussion*)
 
 
 

@@ -97,7 +97,7 @@ When instructed, please navigate to your group's Idea Board:
     - Add your responses as sticky notes to the "Tools / Resources" Idea Board. 
     - Time: 3 minutes
 
-3. what features does, or should, a tool / resource have to help you decide if the dataset is useful? 
+3. What features does, or should, a tool / resource have to help you decide if the dataset is useful? 
 
     - Add your responses as sticky notes to the "Features" Idea Board. 
     - Time: 3 minutes
@@ -174,7 +174,7 @@ Now you will explore the utility and functionality of the prototype dashboard on
 2. **Identify an expert:** Who can we ask for help?
    - <details><summary>Answer</summary>Becca Jablonski</details>
 
-3. **Identify five papers we can read:** What papers can we read that have used this dataset?
+3. **Identify five papers:** What papers can we read that have used this dataset?
    - <details><summary>Answer</summary>Big Hunger</details>
 
 4. **Explore publications by citation count:** What journal has the most publications featuring this dataset?
