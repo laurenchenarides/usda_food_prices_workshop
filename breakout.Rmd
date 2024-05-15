@@ -51,38 +51,41 @@ This first activity aims to explore these opportunities by conceptualizing an id
 
 ### Thought Experiment
 
-To conceptualize this ideal tool, we will engage in a role-playing scenario designed to mimic the decision-making process researchers face when selecting datasets for their studies.
+To conceptualize this ideal tool, we will go through a role-playing scenario.
 
 **Scenario:** Assume you have become aware of a new (to you) dataset and you want to understand whether it is useful for your research and how others have used it.
 
-**Objective:** We will now walk through a series of questions to understand your decision-making process in determining its usefulness to you.
+**Objective:** We will walk through a series of questions to understand your decision-making process in determining the usefulness of this dataset to you.
 
 **Instructions:** For answering the questions, we'll use Idea Boards, an online collaboration tool that allows participants to share their thoughts and insights through sticky notes. 
 
-Here’s a quick guide on how to use Idea Boards:
+*Short tutorial on how to use an Idea Board.*
 
-Please navigate to your group's Idea Board:
+When instructed, please navigate to your group's Idea Board:
 
-| Breakout Group   | Link to Idea Board | 
-|--------|----------------|
-| Group 1  | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
-| Group 2  | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
-| Group 3  | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
-| Group 4  | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
-Here’s a quick guide on how to use Idea Boards:
+| Breakout Group   | Discussant  | Link to Idea Board | 
+|--------|--------|----------------|
+| Group 1  | Allie Bauman | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
+| Group 2  | Rebecca Cleary | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
+| Group 3  | Alessandro Bonanno | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
+| Group 4  | Lauren Chenarides | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
+
+#### A short guide on how to use Idea Boards:
 
 - Navigate to the provided link to access our group’s Idea Board.
 
-- Once there, you’ll find different columns or sections, each representing a specific question or part of our discussion.
+- Once there, you’ll find different columns, each corresponding to a specific question or part of our discussion.
 
-- To add your input, click on the ‘Add Note’ button or double-click in the column where you want to post your sticky note.
+- To add your input, click on the ‘Add Sticky’ button (the green plus sign) in the column where you want to post your sticky note.
 
-- You can type your thoughts and click 'Save' to share them with the group.
+- You will see a new sticky note appear - start typing your comment.
 
-- Feel free to move your notes around, edit them as the discussion evolves, or "up vote" other sticky notes.
+- Feel free to move your notes around, edit them as the discussion evolves, or "up vote" sticky notes written by others in your group.
 
 
 ### Questions
+
+**Scenario:** Assume you have become aware of a new (to you) dataset and you want to understand whether it is useful for your research and how others have used it.
 
 1. What key pieces of information would you want to know about the usage of this dataset?
 
@@ -94,8 +97,8 @@ Here’s a quick guide on how to use Idea Boards:
     - Add your responses as sticky notes to the "Tools / Resources" Idea Board. 
     - Time: 3 minutes
 
-3. What features in a tool / resource exist or would you like to see exist to help you compare datasets? 
-what features should / does a tool / resource have to help you decide if the dataset is useful? 
+3. what features does, or should, a tool / resource have to help you decide if the dataset is useful? 
+
     - Add your responses as sticky notes to the "Features" Idea Board. 
     - Time: 3 minutes
     
@@ -115,7 +118,7 @@ what features should / does a tool / resource have to help you decide if the dat
 
 <span style="font-size: 20px; font-weight: bold;">**Total Time: 7 minutes**</span>
 
-Now, we will walk you through a dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
+Now, we will walk you through a prototype dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
 
 - Identifying users of USDA-produced datasets by region, institution, and field
 
@@ -145,23 +148,46 @@ Now you will explore the utility and functionality of the prototype dashboard on
 **Objective:** You will use the dashboard to find information about the dataset assigned to your breakout group (see table below). You will be asked a series of questions that are aimed to find specific data usage statistics for your assigned dataset. Answer the specific questions associated with the tasks presented. We will reconvene as a small group to reflect on your experience with the dashboard.
 
 
-| Breakout Group   | Assigned Dataset | 
-|--------|----------------|
-| Group 1  |   Census of Agriculture      | 
-| Group 2  |   FoodAPS      | 
-| Group 3  |   Current Population Survey -- Food Security Supplement      | 
-| Group 4  |   Food Access Research Atlas      | 
+| Breakout Group   | Discussant   | Assigned Dataset | 
+|--------|--------|----------------|
+| Group 1  |   Allie Bauman | Census of Agriculture      | 
+| Group 2  |   Rebecca Cleary | FoodAPS      | 
+| Group 3  |   Alessandro Bonanno | Current Population Survey -- Food Security Supplement      | 
+| Group 4  |   Lauren Chenarides | Food Access Research Atlas      | 
 
 ### Tasks
 
-**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
-**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
-**HAVE THEM FIND THE "RIGHT ANSWER"**
-
+<span style="font-size: 20px; font-weight: bold;">[**>>>Link to Dashboard<<<**](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/)</span>
 
 **As you navigate the dashboard to answer the questions below, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
 
-1. **Locate your assigned dataset:** Given the USDA-produced dataset have you been assigned, navigate to the location on the page where you can filter through the list of datasets.
+**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
+
+**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
+
+**HAVE THEM FIND THE "RIGHT ANSWER"**
+
+1. **Locate your assigned dataset:** Navigate to the location on the page where you can filter through the list of USDA-produced datasets.
+   - Example dataset: Farm to School Census
+   - <details><summary>Answer</summary>Located under the "Agriculture" section on the data portal.</details>
+
+2. **Identify an expert:** Who can we ask for help?
+   - <details><summary>Answer</summary>Becca Jablonski</details>
+
+3. **Identify five papers we can read:** What papers can we read that have used this dataset?
+   - <details><summary>Answer</summary>Big Hunger</details>
+
+4. **Explore publications by citation count:** What journal has the most publications featuring this dataset?
+   - <details><summary>Answer</summary>Journal of Hunger and Environmental Nutrition</details>
+
+5. **Explore publications by specific sub-field:** What other journals, specific to Agricultural Economics, have published manuscripts using this dataset?
+   - <details><summary>Answer</summary>Go to "All Science Journal Classification Subfields", Select "Economics and Econometrics"</details>
+
+6. **If time allows:** Clear your filter and pick a new dataset.
+   - <details><summary>Hint</summary>Try exploring datasets related to "Rural Development".</details>
+   
+<!--
+1. **Locate your assigned dataset:** Given the USDA dataset have you been assigned, navigate to the location on the page where you can filter through the list of datasets.
 
 Example dataset: Farm to School Census
 
@@ -190,7 +216,7 @@ Answer: Go to "All Science Journal Classification Subfields", Select "Economics 
 
 
 7. If time allows, clear your filter and pick a new dataset. 
-
+-->
 
 ### Reflection Questions
 
