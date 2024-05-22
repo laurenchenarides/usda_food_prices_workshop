@@ -26,7 +26,7 @@ site: distill::distill_website
 
 ## Event Details
 
-**Monday, June 10, 2024, noon - 1:30 PM Eastern** | Zoom
+**Monday, June 10, 2024, noon - 1:30 PM Eastern** | [Link to Zoom](https://zoom.us/j/98860894544)
 
 | Time   | Session        |
 |--------|----------------|
