@@ -15,7 +15,7 @@ site: distill::distill_website
 
 ## About this Workshop
 
-**Why Are We Here?** To introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/) platform, its dashboard, and its uses to researchers in agricultural economics. 
+**Why Are We Here?** To introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/){target="_blank"} platform, its dashboard, and its uses to researchers in agricultural economics. 
 
 **What Is It?** The DemocratizingData.ai platform aims to track data usage statistics for all data products produced by the USDA; researchers can access these statistics through the dashboard.
 
@@ -26,7 +26,7 @@ site: distill::distill_website
 
 ## Event Details
 
-**Monday, June 10, 2024, noon - 1:30 PM Eastern** | [Link to Zoom](https://zoom.us/j/98860894544)
+**Monday, June 10, 2024, noon - 1:30 PM Eastern** | [Link to Zoom](https://zoom.us/j/98860894544){target="_blank"}
 
 | Time   | Session        |
 |--------|----------------|
@@ -46,7 +46,7 @@ site: distill::distill_website
 
 <br>
 
-For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu).
+For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu){target="_blank"}.
 
 
 

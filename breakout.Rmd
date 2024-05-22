@@ -65,10 +65,10 @@ When instructed, please navigate to your group's Idea Board:
 
 | Breakout Group   | Discussant  | Link to Idea Board | 
 |--------|--------|----------------|
-| Group 1  | Allie Bauman | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531)         | 
-| Group 2  | Rebecca Cleary | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537)         | 
-| Group 3  | Alessandro Bonanno | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539)         | 
-| Group 4  | Lauren Chenarides | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540)         | 
+| Group 1  | Allie Bauman | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531){target="_blank"}         | 
+| Group 2  | Rebecca Cleary | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537){target="_blank"}         | 
+| Group 3  | Alessandro Bonanno | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539){target="_blank"}         | 
+| Group 4  | Lauren Chenarides | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540){target="_blank"}         | 
 
 #### A short guide on how to use Idea Boards:
 
@@ -107,14 +107,14 @@ When instructed, please navigate to your group's Idea Board:
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfdnKX47weC9VLq76sE34F7qCVHoKQtYLIEmlUaDhKl1KT8pw/viewform?embedded=true" width="640" height="1083" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-*[Link to poll](https://forms.gle/xSY1q7oLGKZ7CfAk9)*
+*[Link to poll](https://forms.gle/xSY1q7oLGKZ7CfAk9){target="_blank"}*
 
 
 ## Activity #2 
 
 <span style="font-size: 20px; font-weight: bold;">**Total Time: 30 minutes**</span>
 
-For the next activity, we will walk you through a prototype dashboard that provides data usage information about USDA datasets. ([Access the dashboard here.](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/))
+For the next activity, we will walk you through a prototype dashboard that provides data usage information about USDA datasets. ([Access the dashboard here.](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/){target="_blank"})
 
 The primary functions of the dashboard include:
 
@@ -148,7 +148,7 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
   <summary><strong>Democratizing Data User Guide</strong></summary>
   <iframe src="https://democratizingdata.gitbook.io/userguide/09-usagedashboard" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
-  *The guide above provides additional information developed by the Democratizing Data team. [Link to guide](https://democratizingdata.gitbook.io/userguide/09-usagedashboard)* 
+  *The guide above provides additional information developed by the Democratizing Data team. [Link to guide](https://democratizingdata.gitbook.io/userguide/09-usagedashboard){target="_blank"}* 
 </details>
 
 ### On Your Own
@@ -168,7 +168,7 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
 | Group 3  |   Alessandro Bonanno | Current Population Survey -- Food Security Supplement      | 
 | Group 4  |   Lauren Chenarides | Food Access Research Atlas      | 
 
-<center><span style="font-size: 20px; font-weight: bold;">[**>>>Link to Dashboard<<<**](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/)</span></center><br>
+<center><span style="font-size: 20px; font-weight: bold;">[**>>>Link to Dashboard<<<**](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/){target="_blank"}</span></center><br>
 
 
 #### Questions

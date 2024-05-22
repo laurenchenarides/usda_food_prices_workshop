@@ -16,7 +16,7 @@ We value your time and perspectives in shaping the development of this dashboard
 
 ### Thank You from Spiro Stefanou
 
-[![Thank You Message from Spiro Stefanou](http://via.placeholder.com/640x360)](URL "Thank You Message from Spiro Stefanou, USDA-ERS Administrator")
+[![Thank You Message from Spiro Stefanou](http://via.placeholder.com/640x360)](URL "Thank You Message from Spiro Stefanou, USDA-ERS Administrator"){target="_blank"}
 
 *Click the image above to watch a welcome video from Spiro Stefanou, Administrator of the USDA Economic Research Service.*   
 
