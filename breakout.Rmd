@@ -124,15 +124,14 @@ For the next activity, we will walk you through a prototype dashboard that provi
 
 <span style="font-size: 20px; font-weight: bold;">**Time: 7 minutes**</span>
 
+Let's go through a complete walkthrough using an example dataset: **Farm to School Census**. This will help everyone familiarize themselves with the dashboard and the types of questions we will be exploring.
+
 <iframe src="https://scribehow.com/embed/Access_USDA_Data_Usage_Dashboards_for_Research_Analysis__xNPUiaS3QMeTl187zzpacQ" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
 
 *The guide above walks through the current version of the Democratizing Data dashboard.*  
 
 
 #### Questions
-
-Let's go through a complete walkthrough using the example dataset: **Farm to School Census**. This will help everyone familiarize themselves with the dashboard and the types of questions we will be exploring.
-
 
 | Task | Task Description                                                                                   | Answer                                                                       |
 |-------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -158,7 +157,7 @@ Let's go through a complete walkthrough using the example dataset: **Farm to Sch
 
 **Objective:** Respond to a series of targeted questions to uncover detailed data usage statistics. After completing the tasks, we will regroup to share insights and discuss your experiences.
 
-**Group Assignments:** Each group will now focus on a different dataset, as we have practiced together. Answer the same set of questions as demonstrated with the Farm to School Census. Please navigate the dashboard on your own, answering the same set of questions, before sharing your findings at the end of the session. The datasets for each group are as follows:
+**Group Assignments:** Each group will focus on a different dataset. Answer the same set of questions as we have practiced with the Farm to School Census. Please navigate the dashboard on your own before sharing your findings at the end of the session. The datasets for each group are as follows:
 
 | Breakout Group   | Discussant   | Assigned Dataset | 
 |--------|--------|----------------|
