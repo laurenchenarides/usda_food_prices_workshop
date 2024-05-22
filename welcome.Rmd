@@ -12,12 +12,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Thank You for Joining Us!
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 5 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Time: 2 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
 
 We are delighted to have you participate in this workshop, aimed at exploring a prototype dashboard, funded by the USDA, to track data usage statistics for USDA datasets. The USDA and their partners are developing a dashboard to track *who* and *how* USDA-produced datasets are used by the public, an initiative inspired by the [Foundations for Evidence-Based Policymaking Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174). The purpose of this workshop is to collect feedback from prospective users of the dashboard, and to use these comments to refine and improve the dashboard to better serve the needs of the research community.
 
 ### A Special Welcome from Julia Lane
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 3 minutes**</span> <br>
 
 `r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Julia-Lane-image.png" alt="Julia Lane" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a href="https://julialane.org/" style="font-size: 16px; font-weight: bold;">Julia Lane</a></div></div>')`
 
