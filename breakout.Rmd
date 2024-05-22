@@ -114,7 +114,9 @@ When instructed, please navigate to your group's Idea Board:
 
 <span style="font-size: 20px; font-weight: bold;">**Total Time: 30 minutes**</span>
 
-For the next activity, we will walk you through a prototype dashboard that provides data usage information about USDA datasets. The primary functions of the dashboard include:
+For the next activity, we will walk you through a prototype dashboard that provides data usage information about USDA datasets. ([Access the dashboard here.](https://democratizingdata.ai/agencies/usda-landing/usda-pubs/))
+
+The primary functions of the dashboard include:
 
 - Identifying users of USDA-produced datasets by region, institution, and field
 
@@ -188,9 +190,9 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
 
 **After you have gone through the dashboard and answered the questions, let's review the following questions as a group. Note takers, please document the responses to share with the larger group.**
 
-  - What features of the dashboard did you find particularly useful or surprising?
-  - What limitations or problems did you encounter while navigating the dashboard?
-  - What features would you add to the dashboard?
+  1. What features of the dashboard did you find particularly useful or surprising?
+  2. What limitations or problems did you encounter while navigating the dashboard?
+  3. What features would you add to the dashboard?
 
 Thank you for sharing. We will now reconvene with the rest of the participants to share your reflections from these activities.
 

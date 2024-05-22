@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Each note taker, please summarize themes from your group's discussion.  
 
-- What features of the dashboard did you find particularly useful or surprising? (*Group 1 starts*)
-- What limitations or problems did you encounter while navigating the dashboard? (*Group 2 starts*)
-- What features would you add to the dashboard? (*Group 3 starts*)
+1. What features of the dashboard did you find particularly useful or surprising? (*Group 1 starts*)
+2. What limitations or problems did you encounter while navigating the dashboard? (*Group 2 starts*)
+3. What features would you add to the dashboard? (*Group 3 starts*)
 
 ## Final Question
 
@@ -25,7 +25,7 @@ Each note taker, please summarize themes from your group's discussion.
 
 For the remainder of our time, we invite all participants to share their answers to the following question. Please use the "Raise Hand" feature in Zoom or write your comment in the chat.
 
-- Would you use this tool in your own research? Why or why not? (*Open discussion*)
+4. Would you use this tool in your own research? Why or why not? (*Open discussion*)
 
 
 
