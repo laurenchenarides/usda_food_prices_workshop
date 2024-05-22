@@ -19,9 +19,8 @@ We are delighted to have you participate in this workshop, aimed at exploring a 
 
 ### A Special Welcome from Julia Lane
 
-[![Welcome Message from Julia Lane](http://via.placeholder.com/640x360)](URL "Welcome Message from Julia Lane")
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Julia-Lane-image.png" alt="Julia Lane" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a href="https://julialane.org/" style="font-size: 16px; font-weight: bold;">Julia Lane</a></div></div>')`
 
-*Click the image above to watch a welcome video from Julia Lane, one of the creators of the Democratizing Data project.*   
 
 ### Why Your Participation Matters
 
@@ -47,12 +46,12 @@ The workshop is being led by a team from Colorado State University:
   <a href="https://scholar.google.com/citations?user=KsJSnW4AAAAJ&hl=en" style="font-size: 16px; font-weight: bold;">Allie Bauman</a>
 </div>
 <div style="text-align: center; margin: 10px;">
-  <img src="path\_to\_rebecca\_cleary\_thumbnail.jpg" alt="Brooke Fitzgerald" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+  <img src="images/brooke.jpg" alt="Brooke Fitzgerald" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
   <br>
-  <span style="font-size: 16px; font-weight: bold;">Brooke Fitzgerald</span>
+  <a href="https://www.linkedin.com/in/brookeannefitzgerald/" style="font-size: 16px; font-weight: bold;">Brooke Fitzgerald</a>
 </div>
 <div style="text-align: center; margin: 10px;">
-  <img src="path\_to\_rebecca\_cleary\_thumbnail.jpg" alt="Rebecca Cleary" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+  <img src="images/becky.jpg" alt="Rebecca Cleary" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
   <br>
   <a href="https://scholar.google.com/citations?user=5epEG0wAAAAJ&hl=en" style="font-size: 16px; font-weight: bold;">Rebecca Cleary</a>
 </div>
@@ -62,7 +61,7 @@ The workshop is being led by a team from Colorado State University:
   <a href="https://scholar.google.com/citations?user=9xUKUroAAAAJ&hl=en&oi=ao" style="font-size: 16px; font-weight: bold;">Ta&iacute;s de Menezes</a>
 </div>
 <div style="text-align: center; margin: 10px;">
-  <img src="path\_to\_alessandro\_bonanno\_thumbnail.jpg" alt="Alessandro Bonanno" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+  <img src="images/ale.jpg" alt="Alessandro Bonanno" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
   <br>
   <a href="https://scholar.google.com/citations?user=TYjq1G4AAAAJ&hl=en" style="font-size: 16px; font-weight: bold;">Alessandro Bonanno</a>
 </div>
@@ -77,9 +76,9 @@ The workshop is being led by a team from Colorado State University:
   <a href="https://www.linkedin.com/in/laurenchenarides/" style="font-size: 16px; font-weight: bold;">Lauren Chenarides</a>
 </div>
 <div style="text-align: center; margin: 10px;">
-  <img src="path\_to\_rebecca\_cleary\_thumbnail.jpg" alt="Sione Ikeme" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+  <img src="images/sione.jpg" alt="Sione Ikeme" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
   <br>
-  <span style="font-size: 16px; font-weight: bold;">Sione Ikeme</span>
+  <a href="https://www.linkedin.com/in/sionegael-ikeme-486aa9180/?locale=en_US" style="font-size: 16px; font-weight: bold;">Sione Ikeme</a>
 </div>
 <div style="text-align: center; margin: 10px;">
   <img src="images/mayla.jpg" alt="Mayla Boguslav" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
