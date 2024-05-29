@@ -16,9 +16,7 @@ We value your time and perspectives in shaping the development of this dashboard
 
 ### Thank You from Spiro Stefanou
 
-[![Thank You Message from Spiro Stefanou](http://via.placeholder.com/640x360)](URL "Thank You Message from Spiro Stefanou, USDA-ERS Administrator"){target="_blank"}
-
-*Click the image above to watch a welcome video from Spiro Stefanou, Administrator of the USDA Economic Research Service.*   
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/spiro-stefanou/" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
 
 ### What's Your Sheep Score Now?
 
