@@ -138,7 +138,7 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
 
 | Task | Task Description                                                                                   | Answer                                                                       |
 |-------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1           | Locate your dataset: Navigate to where you can filter USDA-produced datasets.             | Located under the "Agriculture" section on the data portal.                  |
+| 1           | Locate your dataset: Navigate to where you can filter USDA-produced datasets.             | Select "Farm to School Census" for this tutorial                  |
 | 2           | Identify an expert: Who can we ask for help?                                                       | Becca Jablonski                                                              |
 | 3           | Identify five papers: What papers can we read that have used this dataset?                         | Big Hunger                                                                   |
 | 4           | Explore publications by citation count: What journal has the most publications using this dataset? | Journal of Hunger and Environmental Nutrition                                |
