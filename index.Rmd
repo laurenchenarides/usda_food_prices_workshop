@@ -28,6 +28,8 @@ site: distill::distill_website
 
 **Monday, June 10, 2024, noon - 1:30 PM Eastern** | [Link to Zoom](https://zoom.us/j/98860894544){target="_blank"}
 
+***Please note that the workshop is being recorded. By entering the Zoom meeting you are consenting to being recorded.***
+
 | Time   | Session        |
 |--------|----------------|
 | 12:00-12:10  | [Welcome Remarks](https://usda-data-usage-workshop.netlify.app/welcome)          | 

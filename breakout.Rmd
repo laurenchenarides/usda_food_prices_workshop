@@ -22,29 +22,42 @@ knitr::opts_chunk$set(echo = TRUE)
 
 5. Ask for clarification in the chat.
 
+
+## What to Expect
+
+We will remain in the breakout groups for the next 50 minutes. The structure of the breakout room is as follows:
+
+| Activity   | Time Allotted        |
+|--------|----------------|
+| Introductions  |    5 minutes   | 
+| Activity #1   |   15 minutes     | 
+| Activity #2    |  22 minutes      | 
+| Reflection Questions   |  8 minutes   | 
+
+
+
 ## Introductions 
 
-<span style="font-size: 20px; font-weight: bold;">**Time: 5 minutes**</span>
+<span style="font-size: 20px; font-weight: bold;">**Total Time: 5 minutes**</span>
 
 Welcome, everyone! Let's start off with a quick icebreaker. 
 
 Please introduce yourself by sharing:
 
-- Your name
+- Your name.
 
-- The institution or organization you're affiliated with
+- The institution or organization you're affiliated with.
 
-- Your "sheep score" – Each sheep represents a different mood or feeling. Choose the sheep that best represents how you feel today.
+- Think of a paper you're currently working on. Share the dataset you're using and how you're accessing it.
 
-![On this sheep-scale, how do you feel today?](sheep.jpg)
 
 ## Activity #1 
 
 <span style="font-size: 20px; font-weight: bold;">**Total Time: 15 minutes**</span>
 
-In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right tool for your research project. 
+In today’s rapidly evolving research landscape, the ability to quickly and effectively find relevant datasets can be the difference between publishing in a top field journal or spending months finding the right publication home; securing funding for that highly competitive research grant or not; and spending hours instead of days searching for the right dataset for your research project. 
 
-We recognize the challenges associated with sorting through vast amounts of available datasets. Initiatives, like DemocratizingData.ai, are being developed to simplify components of this process. These efforts require contributions from the community, which is why we have convened this workshop.
+We recognize the challenges associated with sorting through vast amounts of available datasets. Initiatives, like the one being featured today (DemocratizingData.ai), are being developed to simplify components of this process. These efforts require contributions from the community, which is why we have convened this workshop.
 
 This first activity aims to explore these opportunities by conceptualizing an ideal tool for tracking dataset usage statistics. Understanding these statistics informs the public about the relevance and impact of various datasets, and provides information to researchers about the most widely-used (and under-utilized) resources for their work. 
 
@@ -126,10 +139,9 @@ The primary functions of the dashboard include:
 
 <span style="font-size: 20px; font-weight: bold;">**Time: 7 minutes**</span>
 
-Let's go through a complete walkthrough using an example dataset: **Farm to School Census**. This will help everyone familiarize themselves with the dashboard and the types of questions we will be exploring.
+Let's walk through the dashboard using an example dataset: **Farm to School Census**. This will help everyone familiarize themselves with the dashboard and the types of questions we will be exploring. Please note that there are many features of this dashboard, so the purpose of this tutorial is to give you a framework of how to use the tool. You will have the opportunity to explore this dashboard in greater depth on your own.
 
 <iframe src="https://scribehow.com/embed/USDA_Democratizing_Data_Dashboard_Walkthrough__FR1eu5ANT-CNix1Z0VTaxg" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
-
 
 *The guide above walks through the current version of the Democratizing Data dashboard.*  
 
@@ -158,9 +170,9 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
 
 **Overview:** Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how you can use it to collect data usage statistics.
 
-**Objective:** Respond to a series of targeted questions to uncover detailed data usage statistics. After completing the tasks, we will regroup to share insights and discuss your experiences.
+**Objective:** To assess the relevance and usefulness of the statistics provided by the prototype dashboard, and to evaluate how effectively the dashboard meets the needs of a research-oriented user community, focusing specifically on the utility of the statistics displayed.
 
-**Group Assignments:** Each group will focus on a different dataset. Answer the same set of questions as we have practiced with the Farm to School Census. Please navigate the dashboard on your own before sharing your findings at the end of the session. The datasets for each group are as follows:
+**Group Assignments:** Each group will focus on a different dataset. Answer the same set of questions as we have practiced with the Farm to School Census. Please navigate the dashboard on your own. The datasets for each group are as follows:
 
 | Breakout Group   | Discussant   | Assigned Dataset | 
 |--------|--------|----------------|
@@ -173,17 +185,38 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
 
 
 #### Questions
+
+Respond to the series of questions to uncover detailed data usage statistics. After completing the tasks, we will regroup to share insights and discuss your experiences.
+
+**As you navigate the dashboard to answer the questions, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
+
 1. **Locate your assigned dataset:** Navigate to the location on the page where you can filter USDA-produced datasets.
+
+- **Prompt:** As you filter through the datasets, please describe the ease or difficulty you encounter in locating your assigned dataset. Are the filtering options intuitive? Share any suggestions via the Zoom chat.
 
 2. **Identify an expert:** Who can we ask for help?
 
+- **Prompt:** When identifying an expert to consult about the dataset, please note how accessible this information is on the dashboard. Is the contact information sufficiently detailed? Do you know someone who has used this dataset? Can you find this person in the list? How could this feature be enhanced to better support your research needs?
+
 3. **Identify five papers:** What papers can we read that have used this dataset?
 
-4. **Explore publications by citation count:** What journal has the most publications featuring this dataset?
+- **Prompt:** As you search for papers that have used this dataset, comment on the search functionality. Is the information easy to find? Are the search results well-organized and relevant? Please provide specific examples of any challenges you face.
 
-5. **Explore publications by specific sub-field:** What other journals, specific to Agricultural Economics, have published manuscripts using this dataset?
+4. **Explore publications by citation count:** What journal has the most publications featuring this dataset? What journal has the most citations featuring this dataset?
 
-**As you navigate the dashboard to answer the questions, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
+- **Prompt:** As you examine the journals ranked by publication or citation count, please evaluate how this information helps you assess the impact of the dataset. Are these metrics clear and useful? Suggest how this feature could be more informative.
+
+5. **Explore publications by specific sub-field:** What other journals, related to Agricultural Economics, have published manuscripts using this dataset?
+
+- **Prompt:** Review the journals related to Agricultural Economics using the "Classification and Research Areas" sub-fields. Do you find the segmentation by sub-field helpful? Please discuss any gaps or additional sub-fields that should be included to refine this tool.
+
+6. **Explore classifications and research areas:** From the dropdown list in the "Classification and Research Areas" section of the dashboard, which classification schema do you find most relevant to your work? 
+
+- **Prompt:** Reflect on the relevance of the current classification schema to your work. Are there terms or classifications missing that could enhance the dashboard’s utility? Suggest any other terms or classifications that you believe would better represent or describe the research disciplines related to this dataset.
+
+7. **Explore additional dashboard components:** Investigate other features and statistics available on the dashboard that have not been covered in the previous questions. 
+
+- **Prompt:** As you explore other components of the dashboard, please comment on any statistics or features you find particularly insightful, or features that would improve the utility of the dashboard. How do these components contribute to your understanding of the dataset's usage? Please provide feedback on any additional insights you discover during your exploration. Share how these elements could enhance your understanding or usage of the dataset. 
    
 ### Reflection Questions
 
@@ -194,6 +227,7 @@ Let's go through a complete walkthrough using an example dataset: **Farm to Scho
   1. What features of the dashboard did you find particularly useful or surprising?
   2. What limitations or problems did you encounter while navigating the dashboard?
   3. What features would you add to the dashboard?
+  4. Is there anything else that you would like to share about your experience using the dashboard?
 
 Thank you for sharing. We will now reconvene with the rest of the participants to share your reflections from these activities.
 
