@@ -170,7 +170,7 @@ Let's walk through the dashboard using an example dataset: **Farm to School Cens
 
 **Overview:** Now you will explore the utility and functionality of the prototype dashboard on your own. This activity is designed to highlight different aspects of the dashboard and how you can use it to collect data usage statistics.
 
-**Objective:** To assess the relevance and usefulness of the statistics provided by the prototype dashboard, and to evaluate how effectively the dashboard meets the needs of a research-oriented user community, focusing specifically on the utility of the statistics displayed.
+**Objective:** To assess the relevance and usefulness of the statistics provided by the prototype dashboard, and to evaluate how effectively the dashboard meets the needs of a research-oriented user community, focusing specifically on the statistics collected and displayed.
 
 **Group Assignments:** Each group will focus on a different dataset. Answer the same set of questions as we have practiced with the Farm to School Census. Please navigate the dashboard on your own. The datasets for each group are as follows:
 
