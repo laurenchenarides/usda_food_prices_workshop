@@ -65,10 +65,10 @@ When instructed, please navigate to your group's Idea Board:
 
 | Breakout Group   | Discussant  | Link to Idea Board | 
 |--------|--------|----------------|
-| Group 1  | Allie Bauman | [Idea Board 1](https://ideaboardz.com/for/Group%201/5264531){target="_blank"}         | 
-| Group 2  | Rebecca Cleary | [Idea Board 2](https://ideaboardz.com/for/Group%202/5264537){target="_blank"}         | 
-| Group 3  | Alessandro Bonanno | [Idea Board 3](https://ideaboardz.com/for/Group%203/5264539){target="_blank"}         | 
-| Group 4  | Lauren Chenarides | [Idea Board 4](https://ideaboardz.com/for/Group%204/5264540){target="_blank"}         | 
+| Group 1  | Allie Bauman | [Idea Board 1](https://ideaboardz.com/for/Group%201/5295004){target="_blank"}         | 
+| Group 2  | Rebecca Cleary | [Idea Board 2](https://ideaboardz.com/for/Group%202/5295006){target="_blank"}         | 
+| Group 3  | Alessandro Bonanno | [Idea Board 3](https://ideaboardz.com/for/Group%203/5295007){target="_blank"}         | 
+| Group 4  | Lauren Chenarides | [Idea Board 4](https://ideaboardz.com/for/Group%204/5295009){target="_blank"}         | 
 
 #### A short guide on how to use Idea Boards:
 
