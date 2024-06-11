@@ -1,13 +1,13 @@
 ---
-title: "Enhancing Data Discovery with DemocratizingData.ai"
-image: "iStock-small.jpg"
+title: "Workshop on Food Prices and Forecasting Sponsored by ERS (PC52)"
+image: "food_price-banner.jpg"
 links:
-  - label: Democratizing Data
-    url: "https://democratizingdata.ai/events/"
-  - label: HDSR Special Issue
-    url: "https://hdsr.mitpress.mit.edu/specialissue4"
+  - label: 2024 AAEA Annual Meeting
+    url: "https://www.aaea.org/meetings/2024-aaea-annual-meeting/events/ticketed-events/pre--and-post-conference-workshops/workshop-on-food-prices-and-forecasting-sponsored-by-ers-pc52"
+  - label: Food Price Outlook
+    url: "https://www.ers.usda.gov/data-products/food-price-outlook/"
   - label: GitHub Repo
-    url: "https://github.com/laurenchenarides/usda_data_usage_workshop"
+    url: "https://github.com/laurenchenarides/usda_food_prices_workshop"
 output:
   postcards::trestles
 site: distill::distill_website

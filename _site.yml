@@ -1,10 +1,10 @@
-name: "usda_data_usage_workshop"
-title: "USDA Data Usage Workshop"
+name: "usda_food_prices_workshop"
+title: "PC52: Workshop on Food Prices and Forecasting"
 theme: usda_theme.css
 description: |
-  This workshop will introduce the DemocratizingData.ai platform and the uses of its dashboard to research-oriented agricultural economists to gain insights from the usage of USDA data. The focus of the workshop is to gather feedback from the group about the current functionality of the USDA dashboard and potential future improvements. The workshop features focus groups and interactive discussions so that attendees can contribute to shaping the ongoing developments of the tool.
+  This workshop gathers top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices.
   
-  The workshop is led by agricultural economists Allie Bauman, Alessandro Bonanno, Rebecca Cleary, and Lauren Chenarides from Colorado State University, and is supported by funding from the USDA Economic Research Service.
+  The workshop is led by Lauren Chenarides (Colorado State University), Megan Sweitzer (USDA Economic Research Service), Matt MacLachlan (Cornell University), and is supported by funding from the USDA Economic Research Service. The workshop assistant is Ta&iacute;s de Menezes.
 
 output_dir: "_site"
 navbar:
