@@ -26,9 +26,9 @@ site: distill::distill_website
 
 ## Event Details
 
-**Monday, June 10, 2024, noon - 1:30 PM Eastern** | [Link to Zoom](https://zoom.us/j/98860894544){target="_blank"}
+**Wednesday, July 31, 2024, 8:00AM - 6:00PM ** 
+**Thursday, August 1, 2024, 8:00AM - 12:30PM ** 
 
-***Please note that the workshop is being recorded. By entering the Zoom meeting you are consenting to being recorded.***
 
 | Time   | Session        |
 |--------|----------------|

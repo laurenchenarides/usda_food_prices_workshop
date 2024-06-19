@@ -4,19 +4,21 @@ theme: usda_theme.css
 description: |
   This workshop gathers top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices.
   
-  The workshop is led by Lauren Chenarides (Colorado State University), Megan Sweitzer (USDA Economic Research Service), Matt MacLachlan (Cornell University), and is supported by funding from the USDA Economic Research Service. The workshop assistant is Ta&iacute;s de Menezes.
+  The workshop is led by Lauren Chenarides (Colorado State University), Megan Sweitzer (USDA Economic Research Service), Matt MacLachlan (Cornell University), and is supported by funding from the USDA Economic Research Service. The workshop assistant is Tais de Menezes.
 
 output_dir: "_site"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Welcome & Start Here"
-      href: welcome.html
-    - text: "Dashboard Demo & Activities"
-      href: breakout.html
-    - text: "Group Share"
-      href: share.html
-    - text: "Closing Remarks"
-      href: close.html
+    - text: "Day 1"
+      href: day1.html
+    - text: "Day 2"
+      href: day2.html
+    - text: "Discussion Topics"
+      href: topics.html
+    - text: "Special Issue"
+      href: journal.html
+    - text: "People"
+      href: people.html
 output: distill::distill_article
