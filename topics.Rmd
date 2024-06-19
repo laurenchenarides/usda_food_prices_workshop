@@ -1,0 +1,35 @@
+---
+title: "Discussion Topics"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reflection Questions 
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 12 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Led by: Alessandro Bonanno**</span>
+
+Each note taker, please summarize themes from your group's discussion.  
+
+1. What features of the dashboard did you find particularly useful or surprising? (*Group 1 starts*)
+2. What limitations or problems did you encounter while navigating the dashboard? (*Group 2 starts*)
+3. What features would you add to the dashboard? (*Group 3 starts*)
+
+## Final Question
+
+<span style="font-size: 20px; font-weight: bold;">**Time: 8 minutes**</span> <br>
+<span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
+
+For the remainder of our time, we invite all participants to share their answers to the following question. Please use the "Raise Hand" feature in Zoom or write your comment in the chat.
+
+4. Would you use this tool in your own research? Why or why not? (*Open discussion*)
+
+
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="close.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Concluding Remarks</a>
+</div>

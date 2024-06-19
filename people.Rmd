@@ -1,0 +1,52 @@
+---
+title: "People"
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Closing Remarks 
+
+<span style="font-size: 20px; font-weight: bold;">**Total Time: 5 minutes**</span>
+
+We value your time and perspectives in shaping the development of this dashboard.
+
+### Thank You from Spiro Stefanou
+
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/spiro-stefanou/" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
+
+
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
+</div>
+
+
+<!-- Back to Top Button 
+<div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">
+  <a href="#top" onclick="document.body.scrollTop = 0; document.documentElement.scrollTop = 0; return false;" style="text-decoration: none; color: white; background-color: black; padding: 10px;">Back to Top</a>
+</div>
+
+<script>
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    document.getElementById("back-to-top").style.display = "block";
+  } else {
+    document.getElementById("back-to-top").style.display = "none";
+  }
+}
+</script>
+-->
