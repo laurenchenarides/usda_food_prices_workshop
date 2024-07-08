@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 | 1:15 PM - 2:00 PM    | Methods for Evaluating and Forecasting Food Price Changes - Panel        | Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
 | 2:00 PM - 2:15 PM    | Moderated Discussion/Q&A                                                 | Matthew MacLachlan, Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
 | 2:15 PM - 2:30 PM    | Break                                                                    | |
-| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting                | Kaitlyn Lee, Jude Bayham,  Xiaoli Etienne |
+| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting                | Kaitlyn Lee, Jude Bayham,  and Xiaoli Etienne |
 | 3:30 PM - 3:45 PM    | Break]                                                                   | |
 | 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                            | Lauren Chenarides, Julian Alston, and Anne Byrne |
 | 4:45 PM - 5:00 PM    | Concluding Remarks                                                       | |

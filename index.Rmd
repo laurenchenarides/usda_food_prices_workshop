@@ -69,7 +69,10 @@ site: distill::distill_website
 <br>
 
 
-##QR Code
+## QR Code
+Scan the QR code to register for the workshop.
+
+
 
 For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu){target="_blank"}.
 

@@ -379,12 +379,12 @@ htmltools::HTML('
 
 htmltools::HTML('
 <div style="display: flex; align-items: center;">
-  <strong style="margin-right: 10px;">Abby Okrent</strong>
-  <img src="images/Abby_Okrent.jpg" alt="Abby Okrent" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+  <strong style="margin-right: 10px;">Abigail Okrent</strong>
+  <img src="images/Abby_Okrent.jpg" alt="Abigail Okrent" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
 </div>
 ')
 
-**Bio:** Abby Okrent...
+**Bio:** Abigail Okrent is a senior economist in the Diet, Safety, and Health Economics Branch of the Food Economics Division at the Economic Research Service (ERS). Her research focuses on consumer food choices and analyzing the complex linkages between these choices and nutrition and health outcomes. Abigail received her M.S. (2006) and Ph.D. (2010) in Agricultural and Resource Economics from the University of California, Davis. She also received a B.A. in Economics from Hobart and William Smith Colleges in 2000. Abigail returned to ERS in 2021 after working as a senior analyst at the National Science Foundation (NSF). Prior to NSF, Abigail worked in the Food Markets Branch of the Food Economics Division at ERS. As a research agricultural economist, Abigail conducted research on using scanner data in food policy analysis as well as on the impacts of U.S. farm and food policies on obesity and social welfare. Abigail was also an economist at the U.S. Department of Commerce’s Bureau of Economic Analysis.  
 
 <!-- ################## -->
 
