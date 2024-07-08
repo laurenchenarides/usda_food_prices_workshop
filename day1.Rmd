@@ -10,8 +10,52 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Thank You for Joining Us!
+## Agenda
 
+| Time | Description | Speakers/Moderators | 
+|--------|----------------|----------------|
+| 8:00 AM - 8:30 AM    | Registration and Coffee                                                  | |
+| 8:30 AM - 8:40 AM    | Introduction                                                             | Spiro Stefanou |
+| 8:40 AM - 9:10 AM    | Keynote Speaker                                                          | David Ortega |
+| 9:10 AM - 9:40 AM    | U.S. Inflation in the Context of International Price Changes             | John Baffes |
+| 9:40 AM - 10:10 AM   | Policy Responses to Food Price Inflation                                 | Seth Meyer |
+| 10:10 AM - 10:30 AM  | Moderated Discussion/Q&A                                                 | Spiro Stefanou, David Ortega, John Baffes, and  Seth Meyer |
+| 10:30 AM - 10:45 AM  | Break                                                                    | |
+| 10:45 AM - 11:45 AM  | Retrospective Analysis on Food Price Inflation                           | Michael Adjemian, Francisco Scott, Metin Çakir |
+| 11:45 AM - 1:00 PM   | Lunch Break                                                              | |
+| 1:00 PM - 1:15 PM    | Methods for Evaluating and Forecasting Food Price Changes - Introduction | Matthew MacLachlan |
+| 1:15 PM - 2:00 PM    | Methods for Evaluating and Forecasting Food Price Changes - Panel        | Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
+| 2:00 PM - 2:15 PM    | Moderated Discussion/Q&A                                                 | Matthew MacLachlan, Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
+| 2:15 PM - 2:30 PM    | Break                                                                    | |
+| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting                | Kaitlyn Lee, Jude Bayham,  Xiaoli Etienne |
+| 3:30 PM - 3:45 PM    | Break]                                                                   | |
+| 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                            | Lauren Chenarides, Julian Alston, and Anne Byrne |
+| 4:45 PM - 5:00 PM    | Concluding Remarks                                                       | |
+| 5:00 PM - 6:00 PM    | Networking Reception                                                     | |
+
+
+
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
+</div>
+
+
+
+
+
+
+
+
+<!-- ################## -->
+
+<!-- 
 <span style="font-size: 20px; font-weight: bold;">**Time: 2 minutes**</span> <br>
 <span style="font-size: 20px; font-weight: bold;">**Led by: Lauren Chenarides**</span>
 
@@ -36,9 +80,6 @@ We welcome them to the workshop!
 
 <span style="font-size: 20px; font-weight: bold;">**Time: 3 minutes**</span> <br>
 
-<!--
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Julia-Lane-image.png" alt="Julia Lane" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://julialane.org/" style="font-size: 16px; font-weight: bold;">Julia Lane</a></div></div>')`
--->
 
 `r htmltools::HTML('<div style="display: flex; justify-content: left-align; align-items: center;"><div style="text-align: center; margin: 10px;"><img src="images/Julia-Lane-image.png" alt="Julia Lane" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://julialane.org/" style="font-size: 16px; font-weight: bold;">Julia Lane</a>
   </div>
@@ -157,14 +198,17 @@ Each breakout group will have a discussant and a note taker, assigned below:
 ***Please hang tight, as you will now be moved into to your breakout rooms.***
 
 
-<!-- ################## -->
 
 <div style="padding-bottom: 60px;"></div>
 
-<!--===================================-->
 <div style="text-align: center;">
   <a href="breakout.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Breakout Group Activities</a>
 </div>
+
+-->
+
+
+
 
 <!-- Back to Top Button 
 <div id="back-to-top" style="position: fixed; bottom: 20px; right: 20px; display: none;">

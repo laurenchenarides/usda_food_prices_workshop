@@ -10,6 +10,38 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Agenda
+
+
+| Time | Description | Speakers/Moderators | 
+|--------|----------------|----------------|
+| 8:00 AM - 8:30 AM    | Registration and Coffee                                              | |
+| 8:30 AM - 9:30 AM    | Public Data Resources                                                | Steve Reed, Megan Sweitzer, and Ana Aizcorbe |
+| 9:30 AM - 9:45 AM    | Break                                                                | |
+| 9:45 AM - 10:45 AM   | Private Data Collection and Research                                 | Catherine Cullinane-Thomas, Mary Muth, Leo Feler, and Doug Edmonds |
+| 10:45 AM - 12:00 PM  | Breakout Sessions                                                    | Chen Zhen, Simon Somogyi, James MacDonald, Abby Okrent, ... |
+| 12:00 PM - 12:30 PM  | Closing Remarks                                                      | |
+
+
+
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
+</div>
+
+
+
+
+
+
+<!--
+
 **As a reminder, we kindly ask that you follow these Zoom etiquette guidelines.**
 
 1. Keep video on.
@@ -231,14 +263,10 @@ Respond to the series of questions to uncover detailed data usage statistics. Af
 
 Thank you for sharing. We will now reconvene with the rest of the participants to share your reflections from these activities.
 
-<!--===================================-->
-<div style="padding-bottom: 60px;"></div>
+-->
 
 
-<!--===================================-->
-<div style="text-align: center;">
-  <a href="share.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Large Group Share</a>
-</div>
+
 
 <!--===================================
 <div style="text-align: center;">

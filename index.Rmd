@@ -15,30 +15,50 @@ site: distill::distill_website
 
 ## About this Workshop
 
-**Why Are We Here?** To introduce the [DemocratizingData.ai](https://democratizingdata.ai/tools/dashboards/){target="_blank"} platform, its dashboard, and its uses to researchers in agricultural economics. 
+**Description** Increases in food price inflation and volatility in recent years have renewed focus on the determinants and impacts of food price changes, as well as on the importance of reliable food  price forecasts. The USDA Food Price Outlook (FPO) tracks and forecasts food price changes and FPO forecasts inform USDA agencies, industry, academia, and the public and rank second in  web traffic among ERS data products. Even after recent refinements, the current FPO approach  to forecasting food prices could be further improved by incorporating market conditions such as  energy costs, wages, labor availability, transportation congestion, and market concentration,  which have recently been cited as drivers of record-breaking inflation rates. Macroeconomic  conditions that potentially affect retail demand, including the money supply, exchange rates, and core inflation, have only been examined in a pre-pandemic context, and it is unclear whether  these same mechanisms can explain current inflationary trends. To address these shortcomings and identify new research areas, the workshop will gather top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices. 
 
-**What Is It?** The DemocratizingData.ai platform aims to track data usage statistics for all data products produced by the USDA; researchers can access these statistics through the dashboard.
+**Target Audience** Experts from government, academia, and industry in evaluating and forecasting food prices.
 
-**What Is Our Goal Today?** To gather feedback from invited participants about the current functionality of the USDA dashboard and potential future improvements. 
-
-**How Will We Get There?** Attendees of this workshop will participate in guided focus groups and facilitated discussions, providing inputs that will contribute to shaping the development of the tool. We will gather your feedback about the current functionality of the dashboard and suggestions on potential future improvements.
+**Expected Outcomes** The workshop's main goals are to present and discuss the research that has been developed under the Strategic Priority Grant on the topic of food prices and forecasting that was sponsored by the USDA-ERS, foster the establishment of research partnerships between attendees, and to gather papers for the publication of a journal special issue.
 
 
 ## Event Details
 
 **Wednesday, July 31, 2024, 8:00AM - 6:00PM ** 
-**Thursday, August 1, 2024, 8:00AM - 12:30PM ** 
-
 
 | Time   | Session        |
-|--------|----------------|
-| 12:00-12:10  | [Welcome Remarks](https://usda-data-usage-workshop.netlify.app/welcome)          | 
-| 12:10-1:05   |  [Dashboard Demo and Activities](https://usda-data-usage-workshop.netlify.app/breakout)         | 
-| 1:05-1:25    |  [Group Share](https://usda-data-usage-workshop.netlify.app/share)         | 
-| 1:25-1:30    | [Concluding Remarks](https://usda-data-usage-workshop.netlify.app/close)         | 
+|--------|----------------------------------|
+| 8:00 AM - 8:30 AM    | Registration and Coffee                                              | 
+| 8:30 AM - 8:40 AM    | Introduction                                                         | 
+| 8:40 AM - 9:10 AM    | Keynote Speaker                                                      | 
+| 9:10 AM - 9:40 AM    | U.S. Inflation in the Context of International Price Changes         | 
+| 9:40 AM - 10:10 AM   | Policy Responses to Food Price Inflation                             | 
+| 10:10 AM - 10:30 AM  | Moderated Discussion/Q&A                                             | 
+| 10:30 AM - 10:45 AM  | Break                                                                | 
+| 10:45 AM - 11:45 AM  | Retrospective Analysis on Food Price Inflation                       | 
+| 11:45 AM - 1:00 PM   | Lunch Break                                                          | 
+| 1:00 PM - 2:15 PM    | Methods for Evaluating and Forecasting Food Price Changes            | 
+| 2:15 PM - 2:30 PM    | Break                                                                | 
+| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting            | 
+| 3:30 PM - 3:45 PM    | Break]                                                               | 
+| 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                        |
+| 4:45 PM - 5:00 PM    | Concluding Remarks                                                   |
+| 5:00 PM - 6:00 PM    | Networking Reception                                                 |
 
 
-## Learn More
+**Thursday, August 1, 2024, 8:00AM - 12:30PM ** 
+
+| Time   | Session        |
+|--------|----------------------------------|
+| 8:00 AM - 8:30 AM    | Registration and Coffee                                              | 
+| 8:30 AM - 9:30 AM    | Public Data Resources                                                |
+| 9:30 AM - 9:45 AM    | Break                                                                |
+| 9:45 AM - 10:45 AM   | Private Data Collection and Research                                 |
+| 10:45 AM - 12:00 PM  | Breakout Sessions                                                    |
+| 12:00 PM - 12:30 PM  | Closing Remarks                                                      |
+
+
+## Post-Workshop Survey
 
 <div class="row"> 
 <div class="col-4"> <a href="about.html" class="btn btn-primary btn-block">About Us</a> </div> 
@@ -47,6 +67,9 @@ site: distill::distill_website
 </div>
 
 <br>
+
+
+##QR Code
 
 For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu){target="_blank"}.
 
@@ -60,3 +83,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+
+
+
+
+<!--
+# Prepare the docs directory
+system('powershell -command "Remove-Item -Recurse -Force docs/*"')
+system('powershell -command "Copy-Item -Recurse -Force _site/* docs/"')
+-->
