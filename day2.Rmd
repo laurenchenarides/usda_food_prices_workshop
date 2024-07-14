@@ -14,13 +14,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 | Time | Description | Speakers/Moderators | 
-|--------|----------------|----------------|
-| 8:00 AM - 8:30 AM    | Registration and Coffee                                              | |
-| 8:30 AM - 9:30 AM    | Public Data Resources                                                | Steve Reed, Megan Sweitzer, and Ana Aizcorbe |
-| 9:30 AM - 9:45 AM    | Break                                                                | |
-| 9:45 AM - 10:45 AM   | Private Data Collection and Research                                 | Catherine Cullinane-Thomas, Mary Muth, Leo Feler, and Doug Edmonds |
-| 10:45 AM - 12:00 PM  | Breakout Sessions                                                    | Chen Zhen, Simon Somogyi, James MacDonald, Abby Okrent, ... |
-| 12:00 PM - 12:30 PM  | Closing Remarks                                                      | |
+|----------------------|---------------------------------------------|------------------------------------------|
+| 8:00 AM - 8:30 AM    | Registration and Coffee                     | |
+| 8:30 AM - 9:30 AM    | Public Data Resources                       | [Steve Reed](reed.html), [Megan Sweitzer](sweitzer.html), and [Ana Aizcorbe](aizcorbe.html) |
+| 9:30 AM - 9:45 AM    | Break                                       | |
+| 9:45 AM - 10:45 AM   | Private Data Collection and Research        | [Catherine Cullinane-Thomas](thomas.html), [Mary Muth](muth.html), [Leo Feler](feler.html), and [Doug Edmonds](edmonds.html) |
+| 10:45 AM - 12:00 PM  | Breakout Sessions                           | [Ana Aizcorbe](aizcorbe.html), [John Baffes](baffes.html), [Jude Bayham](bayham.html), [Anne Byrne](byrne.html), [Metin Çakir](cakir.html), [Kailin Kroetz](kroetz.html), [James MacDonald](macdonald.html), [Matthew Maclachlan](maclachlan.html), [Abigail Okrent](okrent.html), [Aaron Smith](smith.html), [Simon Somogyi](somogyi.html), [Chen Zhen](zhen.html) |
+| 12:00 PM - 12:30 PM  | Closing Remarks                             | |
 
 
 

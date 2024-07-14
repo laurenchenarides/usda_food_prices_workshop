@@ -13,27 +13,25 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Agenda
 
 | Time | Description | Speakers/Moderators | 
-|--------|----------------|----------------|
+|----------------------|---------------------------------------|------------------------------------------|
 | 8:00 AM - 8:30 AM    | Registration and Coffee                                                  | |
-| 8:30 AM - 8:40 AM    | Introduction                                                             | Spiro Stefanou |
-| 8:40 AM - 9:10 AM    | Keynote Speaker                                                          | David Ortega |
-| 9:10 AM - 9:40 AM    | U.S. Inflation in the Context of International Price Changes             | John Baffes |
-| 9:40 AM - 10:10 AM   | Policy Responses to Food Price Inflation                                 | Seth Meyer |
-| 10:10 AM - 10:30 AM  | Moderated Discussion/Q&A                                                 | Spiro Stefanou, David Ortega, John Baffes, and  Seth Meyer |
+| 8:30 AM - 8:40 AM    | Introduction                                                             | [Spiro Stefanou](spiro.html) |
+| 8:40 AM - 9:10 AM    | Keynote Speaker                                                          | [David Ortega](ortega.html) |
+| 9:10 AM - 9:40 AM    | U.S. Inflation in the Context of International Price Changes             | [John Baffes](baffes.html) |
+| 9:40 AM - 10:10 AM   | Policy Responses to Food Price Inflation                                 | [Seth Meyer](meyer.html) |
+| 10:10 AM - 10:30 AM  | Moderated Discussion/Q&A                                                 | [Spiro Stefanou](spiro.html), [David Ortega](ortega.html), [John Baffes](baffes.html), and  [Seth Meyer](meyer.html) |
 | 10:30 AM - 10:45 AM  | Break                                                                    | |
-| 10:45 AM - 11:45 AM  | Retrospective Analysis on Food Price Inflation                           | Michael Adjemian, Francisco Scott, Metin Çakir |
+| 10:45 AM - 11:45 AM  | Retrospective Analysis on Food Price Inflation                           | [Michael Adjemian](adjemian.html), [Francisco Scott](scott.html), [Metin Çakir](cakir.html) |
 | 11:45 AM - 1:00 PM   | Lunch Break                                                              | |
-| 1:00 PM - 1:15 PM    | Methods for Evaluating and Forecasting Food Price Changes - Introduction | Matthew MacLachlan |
-| 1:15 PM - 2:00 PM    | Methods for Evaluating and Forecasting Food Price Changes - Panel        | Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
-| 2:00 PM - 2:15 PM    | Moderated Discussion/Q&A                                                 | Matthew MacLachlan, Rahgav Goyal, Aparna Mathur, and  Aaron Smith |
+| 1:00 PM - 1:15 PM    | Methods for Evaluating and Forecasting Food Price Changes - Introduction | [Matthew MacLachlan](maclachlan.html) |
+| 1:15 PM - 2:00 PM    | Methods for Evaluating and Forecasting Food Price Changes - Panel        | [Rahgav Goyal](goyal.html), [Aparna Mathur](mathur.html), and  [Aaron Smith](smith.html) |
+| 2:00 PM - 2:15 PM    | Moderated Discussion/Q&A                                                 | [Matthew MacLachlan](maclachlan.html), [Rahgav Goyal](goyal.html), [Aparna Mathur](mathur.html), and  [Aaron Smith](smith.html) |
 | 2:15 PM - 2:30 PM    | Break                                                                    | |
-| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting                | Kaitlyn Lee, Jude Bayham,  and Xiaoli Etienne |
-| 3:30 PM - 3:45 PM    | Break]                                                                   | |
-| 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                            | Lauren Chenarides, Julian Alston, and Anne Byrne |
+| 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting                | [Matthew MacLachlan](maclachlan.html), [Kaitlyn Malakoff](malakoff.html), [Jude Bayham](bayham.html),  and [Xiaoli Etienne](etienne.html) |
+| 3:30 PM - 3:45 PM    | Break                                                                    | |
+| 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                            | [Lauren Chenarides](chenarides.html), [Julian Alston](alston.html), and [Anne Byrne](byrne.html) |
 | 4:45 PM - 5:00 PM    | Concluding Remarks                                                       | |
 | 5:00 PM - 6:00 PM    | Networking Reception                                                     | |
-
-
 
 
 

@@ -1,0 +1,32 @@
+---
+title: "Doug Edmonds"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Doug_Edmonds.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Doug has spent 30 years working with large private data sets. His career spans Engineering (designing Jet Engine Combustion systems), Advertising (Reminding people why BMW's are great cars), Research (performing statistical analysis on survey data as well as behavioral data) and Software (writing analytics and AI applications for retailers). He is currently the co-Founder of DecaData, a data firm, and DecaSIM, a firm building an enterprise  application for Retail Merchandising Teams. 
+
+**Presentation Title:** CPI at Home
+
+**Abstract:** A presentation on the steps we take to translate a 10 billion row data set into a forecast of the BLS CPI Food-At-Home Component. This presentation will cover the source of the data, the structure of the data, how we wrangle it and what steps we take to produce our industry leading estimate. 
+
+
+:::
+
+
+
+
+
+
+
+
+

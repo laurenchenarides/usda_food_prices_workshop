@@ -7,6 +7,40 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Breakout Sessions
+
+Attendees will be divided into groups of 6 to 7 participants with a mix of university faculty, graduate students, government employees, and private sector professionals to discuss and identify stakeholders’ needs, underutilized information, and potential improvements in evaluating and forecasting food prices. 
+
+
+<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
+
+| Topic  | Discussants |
+|------------------------------------------|-----------------------------------------------------------------------------------|
+| Concentration                            | [James MacDonald](macdonald.html), [Metin Çakir](cakir.html)                      |
+| Forecasting                              | [Aaron Smith](smith.html), [Matthew MacLachlan](maclachlan.html)                   |
+| Impacts of Price Changes                 | [Anne Byrne](byrne.html), [Abigail Okrent](okrent.html)                        |
+| Input Price Pass-Through                 | [Jude Bayham](bayham.html), [Kailin Kroetz](kroetz.html)                        |
+| International                            | [Simon Somogyi](somogyi.html), [John Baffes](baffes.html)                        |
+| Price Indexes                            | [Chen Zhen](zhen.html), [Ana Aizcorbe](aizcorbe.html)                           |
+
+
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
+</div>
+
+
+
+
+
+
+<!--
+
 ## Reflection Questions 
 
 <span style="font-size: 20px; font-weight: bold;">**Time: 12 minutes**</span> <br>
@@ -27,9 +61,14 @@ For the remainder of our time, we invite all participants to share their answers
 
 4. Would you use this tool in your own research? Why or why not? (*Open discussion*)
 
-
+-->
 
 <!--===================================-->
+<!--
+
 <div style="text-align: center;">
   <a href="close.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Concluding Remarks</a>
 </div>
+
+
+-->

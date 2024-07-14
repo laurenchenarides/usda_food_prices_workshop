@@ -1,0 +1,31 @@
+---
+title: "Jude Bayham"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Jude_Bayham.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Jude Bayham is an Associate Professor in the Department of Agricultural and Resource Economics at Colorado State University and in the Department of Epidemiology at Colorado School of Public Health.  He is an environmental and resource economist who works at the intersection of the environment, human health, and policy.
+
+**Presentation Title:** Bottlenecks and Beef Prices 
+
+**Abstract:** Food prices rose dramatically in 2022 focusing attention on the reasons for the rapid increase. One possible reason is supply shocks that occur upstream of retail. We study supply shocks in the US beef supply chain and their consequences on US beef wholesale prices. We are particularly interested in the rate at which a price shock dissipates and returns to a stable level. We use the local projections model (Jorda, 2005) to estimate impulse response functions to short- and long-term shocks. We leverage COVID-19 related labor shortages as short-term shocks and drought as long-term shocks. Impulse response functions can help food price forecasters understand how long a shock will affect food prices.   
+
+:::
+
+
+
+
+
+
+
+
+

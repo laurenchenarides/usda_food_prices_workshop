@@ -10,6 +10,16 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Especial Issue
+
+
+
+
+
+
+
+<!--
+
 ## Closing Remarks 
 
 <span style="font-size: 20px; font-weight: bold;">**Total Time: 5 minutes**</span>
@@ -20,7 +30,7 @@ We value your time and perspectives in shaping the development of this dashboard
 
 `r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/spiro-stefanou/" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
 
-
+-->
 
 
 <!-- ################## -->

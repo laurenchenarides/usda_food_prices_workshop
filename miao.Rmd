@@ -1,0 +1,28 @@
+---
+title: "Yiyuan Miao"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Yiyuan_Miao.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Yiyuan Miao is a Ph.D. candidate in Food Economics and Management at the Renmin University of China. She is currently doing research on consumer demand and behavioral economics, focusing on facilitating the transition towards sustainable agri-food systems and improving nutrition. She has a visiting scholar at the University of Alberta, Canada. She will present a paper at the 2024 AAEA meeting that discusses stated preferences by comparing cross-cultural surveys. 
+
+
+:::
+
+
+
+
+
+
+
+
+

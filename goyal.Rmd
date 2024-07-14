@@ -1,0 +1,32 @@
+---
+title: "Raghav Goyal"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Raghav_Goyal.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Dr. Raghav Goyal is an Assistant Professor at Louisiana State University (LSU). As an early-stage researcher and new investigator, his research focuses on applying machine learning techniques in applied economics, forecasting, price analysis, and data analytics. Dr. Goyal’s work, which regularly incorporates econometric and computational programming methods, has been published in leading field journals.
+
+**Presentation Title:** Pending
+
+**Abstract:** Pending
+
+
+:::
+
+
+
+
+
+
+
+
+

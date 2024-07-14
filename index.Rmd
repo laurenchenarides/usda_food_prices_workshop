@@ -24,10 +24,10 @@ site: distill::distill_website
 
 ## Event Details
 
-**Wednesday, July 31, 2024, 8:00AM - 6:00PM ** 
+[**Wednesday, July 31, 2024, 8:00AM - 6:00PM**](day1.html) 
 
-| Time   | Session        |
-|--------|----------------------------------|
+| Time  | Session        |
+|----------------------|----------------------------------------------------------------------|
 | 8:00 AM - 8:30 AM    | Registration and Coffee                                              | 
 | 8:30 AM - 8:40 AM    | Introduction                                                         | 
 | 8:40 AM - 9:10 AM    | Keynote Speaker                                                      | 
@@ -40,16 +40,16 @@ site: distill::distill_website
 | 1:00 PM - 2:15 PM    | Methods for Evaluating and Forecasting Food Price Changes            | 
 | 2:15 PM - 2:30 PM    | Break                                                                | 
 | 2:30 PM - 3:30 PM    | Understanding Determinants of Food Prices for Forecasting            | 
-| 3:30 PM - 3:45 PM    | Break]                                                               | 
+| 3:30 PM - 3:45 PM    | Break                                                                | 
 | 3:45 PM - 4:45 PM    | Impacts of Food Price Changes                                        |
 | 4:45 PM - 5:00 PM    | Concluding Remarks                                                   |
 | 5:00 PM - 6:00 PM    | Networking Reception                                                 |
 
 
-**Thursday, August 1, 2024, 8:00AM - 12:30PM ** 
+[**Thursday, August 1, 2024, 8:00AM - 12:30PM **](day2.html) 
 
 | Time   | Session        |
-|--------|----------------------------------|
+|----------------------|----------------------------------------------------------------------|
 | 8:00 AM - 8:30 AM    | Registration and Coffee                                              | 
 | 8:30 AM - 9:30 AM    | Public Data Resources                                                |
 | 9:30 AM - 9:45 AM    | Break                                                                |
@@ -58,6 +58,8 @@ site: distill::distill_website
 | 12:00 PM - 12:30 PM  | Closing Remarks                                                      |
 
 
+
+<!--
 ## Post-Workshop Survey
 
 <div class="row"> 
@@ -69,13 +71,15 @@ site: distill::distill_website
 <br>
 
 
-## QR Code
-Scan the QR code to register for the workshop.
+-->
+
+## Registration
+You can register for the workshop [here](https://www.aaea.org/meetings/2024-aaea-annual-meeting/registration-travel/registration).
 
 
-
+<!--
 For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu){target="_blank"}.
-
+-->
 
 
 ```{r setup, include=FALSE}
