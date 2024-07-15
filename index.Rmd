@@ -1,6 +1,6 @@
 ---
-title: "Workshop on Food Prices and Forecasting Sponsored by ERS (PC52)"
-image: "food_price-banner.jpg"
+title: "Workshop on Food Prices and Forecasting Sponsored by ERS (PC52)<br><u>https://bit.ly/3Lm9zX8</u>"
+image: "images/bit.ly_3Lm9zX8.png"
 links:
   - label: 2024 AAEA Annual Meeting
     url: "https://www.aaea.org/meetings/2024-aaea-annual-meeting/events/ticketed-events"
@@ -12,8 +12,6 @@ output:
   postcards::trestles
 site: distill::distill_website
 ---
-
-Link to workshop website: https://bit.ly/3Lm9zX8
 
 ## About this Workshop
 
@@ -60,7 +58,7 @@ Link to workshop website: https://bit.ly/3Lm9zX8
   }
 </style>
 
-# Event Details
+## Event Details
 
 [**Wednesday, July 31, 2024, 8:00AM - 6:00PM**](day1.html){target="_blank"}
 

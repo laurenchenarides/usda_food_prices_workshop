@@ -1,0 +1,28 @@
+---
+title: "Duoyu Wang"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Duoyu_Wang.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Duoyu Wang is a Ph.D. candidate in Agricultural and Resource Economics at Colorado State University. Her research focuses on the economic dynamics of food markets and nutritional outcomes. She has a Master’s Degree in Economics from the University of Southern California. Duoyu’s research examines how pricing and SNAP programs influence consumer behavior and nutritional quality. Her research applies advanced econometric models to explore interactions between consumer choices and policy interventions, aiming to reduce nutritional disparities, particularly among vulnerable populations.
+
+
+:::
+
+
+
+
+
+
+
+
+

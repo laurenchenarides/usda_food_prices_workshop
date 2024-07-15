@@ -1,0 +1,28 @@
+---
+title: "Jungkeon Jo"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Jungkeon_Jo.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Jungkeon Jo is a Ph.D. candidate in the Department of Agricultural and Applied Economics at the University of Georgia. His research is mainly in the areas of the economics of commodity markets, agribusiness, agricultural supply chains, and food price inflation. He investigates shocks to agricultural commodity production and supply chains, assessing their impact on the commodity market and the broader economy. Jungkeon Jo is also exploring how recent food price fluctuations, driven by demand and supply shocks, disproportionately affect U.S. households based on income levels. He aims to pursue a career in academia to continue his research.
+
+
+:::
+
+
+
+
+
+
+
+
+
