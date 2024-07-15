@@ -21,4 +21,6 @@ navbar:
       href: journal.html
     - text: "People"
       href: people.html
+    - text: "Places"
+      href: places.html
 output: distill::distill_article

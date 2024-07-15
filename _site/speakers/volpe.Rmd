@@ -1,0 +1,28 @@
+---
+title: "Ricky Volpe"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Richard_Volpe.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Ricky Volpe is an associate professor in the Agribusiness Department at California Polytechnic State University. Ricky teaches courses on food retail and supply chain management, transportation and logistics, and data analysis. He also maintains an active research agenda using a variety of large data sets to study issues related to market structure, firm performance, food prices, consumers’ food choices, and health outcomes. He also works closely with industry leaders in food retailing, wholesaling, and distribution to facilitate collaboration on public-private partnerships, student internships, and scholarships. Ricky received his Ph.D. in Agricultural and Resource Economics from UC Davis in 2010. He then spent four years working as an economist at the USDA Economic Research Service in Washington, D.C. There he researched a variety of topics, including food price formation, competitiveness in the food industry, and the healthiness of grocery purchases in the U.S. Ricky was also responsible for forecasting retail food price inflation at the national level.
+
+
+:::
+
+
+
+
+
+
+
+
+

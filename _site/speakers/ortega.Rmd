@@ -1,0 +1,32 @@
+---
+title: "David Ortega"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/David_Ortega.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** David L. Ortega is a professor and the Noel W. Stuckman Chair in Food Economics and Policy at Michigan State University. His research program focuses on understanding consumer, producer, and agribusinesses decision-making to better inform food policies and marketing strategies. Dr. Ortega provides timely analysis of forces and events affecting the agricultural and food sector. He has been called to provide expert testimony before federal and state agencies, including the U.S. Senate and House agriculture committees. He is a frequent contributor to food price inflation reporting at The New York Times and NPR, and is regularly interviewed by prominent media outlets, including ABC News, NBC News, PBS, USA Today, CNN, PBS, Forbes, Politico, The Wall Street Journal, Financial Times, Newsweek, and the Detroit Free Press, to name a few. Dr. Ortega earned his Ph.D. in Agricultural Economics from Purdue University.
+
+**Presentation Title:** Shocks, Supply Chain Disruptions and Food Prices
+
+**Abstract:** From 2021 to 2022, U.S. consumers experienced the largest annual increase in food prices in 40 years, posing significant challenges, particularly for low-income households. This keynote address delves into the multifaceted factors behind this surge, including the COVID-19 pandemic, the Russia-Ukraine conflict, climate change, and animal diseases. It will also examine how these issues have disrupted the food supply chain and impacted consumer spending. The presentation will highlight the complexity of isolating individual effects on retail food prices and discuss the overall impact of food price inflation on consumers. Researchers, policymakers, and industry stakeholders will gain valuable insights to enhance discussions on food price inflation, improve forecasting, and develop strategies to strengthen the resilience of the food supply chain amid ongoing global challenges.
+
+
+:::
+
+
+
+
+
+
+
+
+

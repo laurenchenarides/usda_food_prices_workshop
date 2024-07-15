@@ -3,7 +3,7 @@ title: "Workshop on Food Prices and Forecasting Sponsored by ERS (PC52)"
 image: "food_price-banner.jpg"
 links:
   - label: 2024 AAEA Annual Meeting
-    url: "https://www.aaea.org/meetings/2024-aaea-annual-meeting/events/ticketed-events/pre--and-post-conference-workshops/workshop-on-food-prices-and-forecasting-sponsored-by-ers-pc52"
+    url: "https://www.aaea.org/meetings/2024-aaea-annual-meeting/events/ticketed-events"
   - label: Food Price Outlook
     url: "https://www.ers.usda.gov/data-products/food-price-outlook/"
   - label: GitHub Repo
@@ -13,18 +13,174 @@ output:
 site: distill::distill_website
 ---
 
+Link to workshop website: https://bit.ly/3Lm9zX8
+
 ## About this Workshop
 
-**Description** Increases in food price inflation and volatility in recent years have renewed focus on the determinants and impacts of food price changes, as well as on the importance of reliable food  price forecasts. The USDA Food Price Outlook (FPO) tracks and forecasts food price changes and FPO forecasts inform USDA agencies, industry, academia, and the public and rank second in  web traffic among ERS data products. Even after recent refinements, the current FPO approach  to forecasting food prices could be further improved by incorporating market conditions such as  energy costs, wages, labor availability, transportation congestion, and market concentration,  which have recently been cited as drivers of record-breaking inflation rates. Macroeconomic  conditions that potentially affect retail demand, including the money supply, exchange rates, and core inflation, have only been examined in a pre-pandemic context, and it is unclear whether  these same mechanisms can explain current inflationary trends. To address these shortcomings and identify new research areas, the workshop will gather top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices. 
+**Description** <br> Increases in food price inflation and volatility in recent years have renewed focus on the determinants and impacts of food price changes, as well as on the importance of reliable food  price forecasts. The USDA Food Price Outlook (FPO) tracks and forecasts food price changes and FPO forecasts inform USDA agencies, industry, academia, and the public and rank second in  web traffic among ERS data products. Even after recent refinements, the current FPO approach  to forecasting food prices could be further improved by incorporating market conditions such as  energy costs, wages, labor availability, transportation congestion, and market concentration,  which have recently been cited as drivers of record-breaking inflation rates. Macroeconomic  conditions that potentially affect retail demand, including the money supply, exchange rates, and core inflation, have only been examined in a pre-pandemic context, and it is unclear whether  these same mechanisms can explain current inflationary trends. To address these shortcomings and identify new research areas, the workshop will gather top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices. 
 
-**Target Audience** Experts from government, academia, and industry in evaluating and forecasting food prices.
+**Target Audience** <br> Empirical researchers from government, academia, and industry in evaluating and forecasting food prices.
 
-**Expected Outcomes** The workshop's main goals are to present and discuss the research that has been developed under the Strategic Priority Grant on the topic of food prices and forecasting that was sponsored by the USDA-ERS, foster the establishment of research partnerships between attendees, and to gather papers for the publication of a journal special issue.
+**Expected Outcomes** <br> The workshop's main goals are to present and discuss the research that has been developed under the Strategic Priority Grant on the topic of food prices and forecasting that was sponsored by the USDA-ERS, foster the establishment of research partnerships between attendees, and to gather papers for the publication of a journal special issue.
 
 
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+  }
+  .event-link {
+    display: block;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  .schedule-table th, .schedule-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .schedule-table th {
+    background-color: #f2f2f2;
+  }
+  .session-time {
+    font-weight: bold;
+  }
+  .break-row {
+    background-color: #f9f9f9;
+  }
+  .networking-row {
+    background-color: #e9f7e9;
+  }
+</style>
+
+# Event Details
+
+[**Wednesday, July 31, 2024, 8:00AM - 6:00PM**](day1.html){target="_blank"}
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="session-time">8:00 AM - 8:30 AM</td>
+      <td>Registration and Coffee</td>
+    </tr>
+    <tr>
+      <td class="session-time">8:30 AM - 8:40 AM</td>
+      <td>Introduction</td>
+    </tr>
+    <tr>
+      <td class="session-time">8:40 AM - 9:10 AM</td>
+      <td>Keynote Speaker</td>
+    </tr>
+    <tr>
+      <td class="session-time">9:10 AM - 9:40 AM</td>
+      <td>U.S. Inflation in the Context of International Price Changes</td>
+    </tr>
+    <tr>
+      <td class="session-time">9:40 AM - 10:10 AM</td>
+      <td>Policy Responses to Food Price Inflation</td>
+    </tr>
+    <tr>
+      <td class="session-time">10:10 AM - 10:30 AM</td>
+      <td>Moderated Discussion/Q&A</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">10:30 AM - 10:45 AM</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td class="session-time">10:45 AM - 11:45 AM</td>
+      <td>Retrospective Analysis on Food Price Inflation</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">11:45 AM - 1:00 PM</td>
+      <td>Lunch Break</td>
+    </tr>
+    <tr>
+      <td class="session-time">1:00 PM - 2:15 PM</td>
+      <td>Methods for Evaluating and Forecasting Food Price Changes</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">2:15 PM - 2:30 PM</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td class="session-time">2:30 PM - 3:30 PM</td>
+      <td>Understanding Determinants of Food Prices for Forecasting</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">3:30 PM - 3:45 PM</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td class="session-time">3:45 PM - 4:45 PM</td>
+      <td>Impacts of Food Price Changes</td>
+    </tr>
+    <tr>
+      <td class="session-time">4:45 PM - 5:00 PM</td>
+      <td>Concluding Remarks</td>
+    </tr>
+    <tr class="networking-row">
+      <td class="session-time">5:00 PM - 6:00 PM</td>
+      <td>Networking Reception</td>
+    </tr>
+  </tbody>
+</table>
+
+[**Thursday, August 1, 2024, 8:00AM - 12:30PM**](day2.html){target="_blank"}
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Session</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="session-time">8:00 AM - 8:30 AM</td>
+      <td>Registration and Coffee</td>
+    </tr>
+    <tr>
+      <td class="session-time">8:30 AM - 9:30 AM</td>
+      <td>Public Data Resources</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">9:30 AM - 9:45 AM</td>
+      <td>Break</td>
+    </tr>
+    <tr>
+      <td class="session-time">9:45 AM - 10:45 AM</td>
+      <td>Private Data Collection and Research</td>
+    </tr>
+    <tr class="break-row">
+      <td class="session-time">10:45 AM - 12:00 PM</td>
+      <td>Breakout Sessions</td>
+    </tr>
+    <tr>
+      <td class="session-time">12:00 PM - 12:30 PM</td>
+      <td>Closing Remarks</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<!--
 ## Event Details
 
-[**Wednesday, July 31, 2024, 8:00AM - 6:00PM**](day1.html) 
+[**Wednesday, July 31, 2024, 8:00AM - 6:00PM**](day1.html){target="_blank"}
 
 | Time  | Session        |
 |----------------------|----------------------------------------------------------------------|
@@ -46,7 +202,7 @@ site: distill::distill_website
 | 5:00 PM - 6:00 PM    | Networking Reception                                                 |
 
 
-[**Thursday, August 1, 2024, 8:00AM - 12:30PM **](day2.html) 
+[**Thursday, August 1, 2024, 8:00AM - 12:30PM **](day2.html){target="_blank"} 
 
 | Time   | Session        |
 |----------------------|----------------------------------------------------------------------|
@@ -56,30 +212,13 @@ site: distill::distill_website
 | 9:45 AM - 10:45 AM   | Private Data Collection and Research                                 |
 | 10:45 AM - 12:00 PM  | Breakout Sessions                                                    |
 | 12:00 PM - 12:30 PM  | Closing Remarks                                                      |
-
-
-
-<!--
-## Post-Workshop Survey
-
-<div class="row"> 
-<div class="col-4"> <a href="about.html" class="btn btn-primary btn-block">About Us</a> </div> 
-<br>
-<div class="col-6"> <a href="resources.html" class="btn btn-primary btn-block">Additional Resources</a> </div> 
-</div>
-
-<br>
-
-
 -->
+
+
 
 ## Registration
-You can register for the workshop [here](https://www.aaea.org/meetings/2024-aaea-annual-meeting/registration-travel/registration).
+You can register for the workshop [here](https://www.aaea.org/meetings/2024-aaea-annual-meeting/registration-travel/registration){target="_blank"}.
 
-
-<!--
-For more information about how to participate in future workshops, please email Dr. Lauren Chenarides at [Lauren.Chenarides@colostate.edu](Lauren.Chenarides@colostate.edu){target="_blank"}.
--->
 
 
 ```{r setup, include=FALSE}

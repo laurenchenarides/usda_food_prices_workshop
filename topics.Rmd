@@ -1,5 +1,5 @@
 ---
-title: "Discussion Topics"
+title: "Day 2 - Breakout Sessions"
 output: distill::distill_article
 ---
 
@@ -7,23 +7,83 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Breakout Sessions
-
 Attendees will be divided into groups of 6 to 7 participants with a mix of university faculty, graduate students, government employees, and private sector professionals to discuss and identify stakeholders’ needs, underutilized information, and potential improvements in evaluating and forecasting food prices. 
 
-
+<!--
 <span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
 
 | Topic  | Discussants |
 |------------------------------------------|-----------------------------------------------------------------------------------|
-| Concentration                            | [James MacDonald](macdonald.html), [Metin Çakir](cakir.html)                      |
+| Concentration and IO                     | [James MacDonald](macdonald.html), [Metin Çakir](cakir.html)                      |
 | Forecasting                              | [Aaron Smith](smith.html), [Matthew MacLachlan](maclachlan.html)                   |
 | Impacts of Price Changes                 | [Anne Byrne](byrne.html), [Abigail Okrent](okrent.html)                        |
 | Input Price Pass-Through                 | [Jude Bayham](bayham.html), [Kailin Kroetz](kroetz.html)                        |
-| International                            | [Simon Somogyi](somogyi.html), [John Baffes](baffes.html)                        |
+| International Markets                    | [Simon Somogyi](somogyi.html), [John Baffes](baffes.html)                        |
 | Price Indexes                            | [Chen Zhen](zhen.html), [Ana Aizcorbe](aizcorbe.html)                           |
+-->
+
+<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
+
+<style>
+  .discussion-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  .discussion-table th, .discussion-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  .discussion-table th {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<table class="discussion-table">
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Discussants</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Concentration and IO</td>
+      <td><a href="speaker/macdonald.Rmd" target="_blank">James MacDonald</a>, <a href="speaker/cakir.Rmd" target="_blank">Metin Çakir</a></td>
+    </tr>
+    <tr>
+      <td>Forecasting</td>
+      <td><a href="speaker/smith.Rmd" target="_blank">Aaron Smith</a>, <a href="speaker/maclachlan.Rmd" target="_blank">Matthew MacLachlan</a></td>
+    </tr>
+    <tr>
+      <td>Impacts of Price Changes</td>
+      <td><a href="speaker/byrne.Rmd" target="_blank">Anne Byrne</a>, <a href="speaker/okrent.Rmd" target="_blank">Abigail Okrent</a></td>
+    </tr>
+    <tr>
+      <td>Input Price Pass-Through</td>
+      <td><a href="speaker/bayham.Rmd" target="_blank">Jude Bayham</a>, <a href="speaker/kroetz.Rmd" target="_blank">Kailin Kroetz</a></td>
+    </tr>
+    <tr>
+      <td>International Markets</td>
+      <td><a href="speaker/somogyi.Rmd" target="_blank">Simon Somogyi</a>, <a href="speaker/baffes.Rmd" target="_blank">John Baffes</a></td>
+    </tr>
+    <tr>
+      <td>Price Indexes</td>
+      <td><a href="speaker/zhen.Rmd" target="_blank">Chen Zhen</a>, <a href="speaker/aizcorbe.Rmd" target="_blank">Ana Aizcorbe</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 
+```{r echo=FALSE}
+htmltools::HTML('
+<div style="text-align: center; margin-top: 20px;">
+  <a href="people.html#participants" target="_blank" style="font-size: 18px; color: blue; text-decoration: underline;">Find Your Discussion Group Here</a>
+</div>
+')
+```
 
 <!-- ################## -->
 

@@ -1,0 +1,24 @@
+---
+title: "Places"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE}
+htmltools::HTML('<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TRzNzIw6AdL4qhMX_Z5q4uTLVh31B_g&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>')
+```
+
+<!-- ################## -->
+
+<div style="padding-bottom: 60px;"></div>
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
+</div>
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "About this Workshop"
+description: |
+  The purpose of this workshop is to gather top experts from government, academia, and industry to identify stakeholders’ needs, underutilized information, and the best methods for evaluating and forecasting food prices.  The format of the workshop is a series of panel presentations followed by a discussion breakout session designed for attendees to discuss common research topics and possibly establish research collaboration partnerships.
+  
+  The workshop is led by agricultural economists Drs. and [Lauren Chenarides](https://www.linkedin.com/in/laurenchenarides/) from Colorado State University, [Megan Sweitzer](https://www.linkedin.com/in/megan-sweitzer/)from the USDA Economic Research Service, and [Matthew MacLachlan](https://www.linkedin.com/in/matthew-maclachlan-67247320/)from Cornell University.
+  
+  The workshop is supported by funding from the USDA Economic Research Service.
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

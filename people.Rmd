@@ -13,206 +13,245 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Opening Speaker
 
 <!-- Spiro Stefanou -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="spiro.html" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
-USDA-ERS
-
-## Presenters
-
-<!-- Michael Adjemian -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Michael_Adjemian.png" alt="Michael Adjemian" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="adjemian.html" style="font-size: 16px; font-weight: bold;">Michael Adjemian</a></div></div>')`
-University of Georgia
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="speakers/spiro.html" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
 
 
-<!-- Ana Aizcorbe -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Ana_Aizcorbe.png" alt="Ana Aizcorbe" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="aizcorbe.html" style="font-size: 16px; font-weight: bold;">Ana Aizcorbe</a></div></div>')`
-Bureau of Economic Analysis
-
-
-<!-- Julian Alston -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Julian_Alston.png" alt="Julian Alston" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="alston.html" style="font-size: 16px; font-weight: bold;">Julian Alston</a></div></div>')`
-University of California, Davis
-
-
-<!-- John Baffes -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/John_Baffes.png" alt="John Baffes" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="baffes.html" style="font-size: 16px; font-weight: bold;">John Baffes</a></div></div>')`
-World Bank
-
-
-<!-- Jude Bayham -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Jude_Bayham.jpg" alt="Jude Bayham" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="bayham.html" style="font-size: 16px; font-weight: bold;">Jude Bayham</a></div></div>')`
-Colorado State University
-
-
-<!-- Anne Byrne -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Anne_Byrne.jpg" alt="Anne Byrne" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="byrne.html" style="font-size: 16px; font-weight: bold;">Anne Byrne</a></div></div>')`
-USDA-ERS
-
-
-<!-- Metin Çakır -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Metin_Cakir.jpg" alt="Metin Çakır" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="cakir.html" style="font-size: 16px; font-weight: bold;">Metin Çakır</a></div></div>')`
-University of Minnesota
-
-
-<!-- Lauren Chenarides -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/lauren.jpg" alt="Lauren Chenarides" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="chenarides.html" style="font-size: 16px; font-weight: bold;">Lauren Chenarides</a></div></div>')`
-Colorado State University
-
-
-<!-- Catherine Cullinane-Thomas -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Catherine_Thomas.jpg" alt="Catherine Cullinane-Thomas" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="thomas.html" style="font-size: 16px; font-weight: bold;">Catherine Cullinane-Thomas</a></div></div>')`
-USDA-ERS
-
-
-<!-- Doug Edmonds -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Doug_Edmonds.jpg" alt="Doug Edmonds" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="edmonds.html" style="font-size: 16px; font-weight: bold;">Doug Edmonds</a></div></div>')`
-DecaData
-
-
-<!-- Xiaoli Etienne -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Xiaoli_Etienne.jpg" alt="Xiaoli Etienne" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="etienne.html" style="font-size: 16px; font-weight: bold;">Xiaoli Etienne</a></div></div>')`
-University of Idaho
-
-
-<!-- Leo Feler -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Leo_Feler.jpeg" alt="Leo Feler" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="feler.html" style="font-size: 16px; font-weight: bold;">Leo Feler</a></div></div>')`
-Numerator/Federal Reserve Bank of Chicago
-
-
-<!-- Raghav Goyal -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Raghav_Goyal.jpg" alt="Raghav Goyal" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="goyal.html" style="font-size: 16px; font-weight: bold;">Raghav Goyal</a></div></div>')`
-Louisiana State University
-
-
-<!-- Matthew MacLachlan -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Matthew_MacLachlan.png" alt="Matthew MacLachlan" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="maclachlan.html" style="font-size: 16px; font-weight: bold;">Matthew MacLachlan</a></div></div>')`
-Cornell University
-
-
-<!-- Kaitlyn Malakoff -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Kaitlyn_Malakoff.jpg" alt="Kaitlyn Malakoff" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="malakoff.html" style="font-size: 16px; font-weight: bold;">Kaitlyn Malakoff</a></div></div>')`
-Arizona State University
-
-
-<!-- Aparna Mathur -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Aparna_Mathur.jpg" alt="Aparna Mathur" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="mathur.html" style="font-size: 16px; font-weight: bold;">Aparna Mathur</a></div></div>')`
-Amazon
-
-
-<!-- Seth Meyer -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Seth_Meyer.jpg" alt="Seth Meyer" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="meyer.html" style="font-size: 16px; font-weight: bold;">Seth Meyer</a></div></div>')`
-USDA 
-
-
-<!-- Mary Muth -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Mary_Muth.jpg" alt="Mary Muth" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="muth.html" style="font-size: 16px; font-weight: bold;">Mary Muth</a></div></div>')`
-RTI International
-
+## Keynote Address
 
 <!-- David Ortega -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/David_Ortega.png" alt="David Ortega" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="ortega.html" style="font-size: 16px; font-weight: bold;">David Ortega</a></div></div>')`
-Michigan State University
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/David_Ortega.png" alt="David Ortega" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="speakers/ortega.html" style="font-size: 16px; font-weight: bold;">David Ortega</a></div></div>')`
 
+## Presenters & Discussants
 
-<!-- Steve Reed -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Steve_Reed.jpg" alt="Steve Reed" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="reed.html" style="font-size: 16px; font-weight: bold;">Steve Reed</a></div></div>')`
-Bureau of Labor Statistics
+```{r, echo=FALSE}
+htmltools::HTML('
+<style>
+  .presenter-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .presenter-item {
+    text-align: center;
+    margin: 5px;
+    width: calc(33% - 10px); /* Adjust width to fit three items per row */
+  }
+  .presenter-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+</style>
 
+<div class="presenter-grid">
+  <div class="presenter-item">
+    <img src="images/Michael_Adjemian.png" alt="Michael Adjemian" class="presenter-image">
+    <br>
+    <a href="speakers/adjemian.html" target="_blank" style="font-size: 16px; font-weight: bold;">Michael Adjemian</a>
+  </div>
 
-<!-- Francisco Scott -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Francisco_Scott.jpg" alt="Francisco Scott" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="scott.html" style="font-size: 16px; font-weight: bold;">Francisco Scott</a></div></div>')`
-Federal Reserve Bank of Kansas City
+  <div class="presenter-item">
+    <img src="images/Ana_Aizcorbe.png" alt="Ana Aizcorbe" class="presenter-image">
+    <br>
+    <a href="speakers/aizcorbe.html" target="_blank" style="font-size: 16px; font-weight: bold;">Ana Aizcorbe</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Julian_Alston.png" alt="Julian Alston" class="presenter-image">
+    <br>
+    <a href="speakers/alston.html" target="_blank" style="font-size: 16px; font-weight: bold;">Julian Alston</a>
+  </div>
 
-<!-- Aaron Smith -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Aaron_Smith.jpg" alt="Aaron Smith" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="smith.html" style="font-size: 16px; font-weight: bold;">Aaron Smith</a></div></div>')`
-University of California, Berkeley
+  <div class="presenter-item">
+    <img src="images/John_Baffes.png" alt="John Baffes" class="presenter-image">
+    <br>
+    <a href="speakers/baffes.html" target="_blank" style="font-size: 16px; font-weight: bold;">John Baffes</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Jude_Bayham.jpg" alt="Jude Bayham" class="presenter-image">
+    <br>
+    <a href="speakers/bayham.html" target="_blank" style="font-size: 16px; font-weight: bold;">Jude Bayham</a>
+  </div>
 
-<!-- Megan Sweitzer -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="sweitzer.html" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a></div></div>')`
-USDA-ERS
+  <div class="presenter-item">
+    <img src="images/Anne_Byrne.jpg" alt="Anne Byrne" class="presenter-image">
+    <br>
+    <a href="speakers/byrne.html" target="_blank" style="font-size: 16px; font-weight: bold;">Anne Byrne</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Metin_Cakir.jpg" alt="Metin Çakır" class="presenter-image">
+    <br>
+    <a href="speakers/cakir.html" target="_blank" style="font-size: 16px; font-weight: bold;">Metin Çakır</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/lauren.jpg" alt="Lauren Chenarides" class="presenter-image">
+    <br>
+    <a href="speakers/chenarides.html" target="_blank" style="font-size: 16px; font-weight: bold;">Lauren Chenarides</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Catherine_Thomas.jpg" alt="Catherine Cullinane-Thomas" class="presenter-image">
+    <br>
+    <a href="speakers/thomas.html" target="_blank" style="font-size: 16px; font-weight: bold;">Catherine Cullinane-Thomas</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Doug_Edmonds.jpg" alt="Doug Edmonds" class="presenter-image">
+    <br>
+    <a href="speakers/edmonds.html" target="_blank" style="font-size: 16px; font-weight: bold;">Doug Edmonds</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Xiaoli_Etienne.jpg" alt="Xiaoli Etienne" class="presenter-image">
+    <br>
+    <a href="speakers/etienne.html" target="_blank" style="font-size: 16px; font-weight: bold;">Xiaoli Etienne</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Leo_Feler.jpeg" alt="Leo Feler" class="presenter-image">
+    <br>
+    <a href="speakers/feler.html" target="_blank" style="font-size: 16px; font-weight: bold;">Leo Feler</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Raghav_Goyal.jpg" alt="Raghav Goyal" class="presenter-image">
+    <br>
+    <a href="speakers/goyal.html" target="_blank" style="font-size: 16px; font-weight: bold;">Raghav Goyal</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Kailin_Kroetz.jpg" alt="Kailin Kroetz" class="presenter-image">
+    <br>
+    <a href="speakers/kroetz.html" target="_blank" style="font-size: 16px; font-weight: bold;">Kailin Kroetz</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Matthew_MacLachlan.png" alt="Matthew MacLachlan" class="presenter-image">
+    <br>
+    <a href="speakers/maclachlan.html" target="_blank" style="font-size: 16px; font-weight: bold;">Matthew MacLachlan</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/James_MacDonald.jpg" alt="James MacDonald" class="presenter-image">
+    <br>
+    <a href="speakers/macdonald.html" target="_blank" style="font-size: 16px; font-weight: bold;">James MacDonald</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Kaitlyn_Malakoff.jpg" alt="Kaitlyn Malakoff" class="presenter-image">
+    <br>
+    <a href="speakers/malakoff.html" target="_blank" style="font-size: 16px; font-weight: bold;">Kaitlyn Malakoff</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Aparna_Mathur.jpg" alt="Aparna Mathur" class="presenter-image">
+    <br>
+    <a href="speakers/mathur.html" target="_blank" style="font-size: 16px; font-weight: bold;">Aparna Mathur</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Seth_Meyer.jpg" alt="Seth Meyer" class="presenter-image">
+    <br>
+    <a href="speakers/meyer.html" target="_blank" style="font-size: 16px; font-weight: bold;">Seth Meyer</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Mary_Muth.jpg" alt="Mary Muth" class="presenter-image">
+    <br>
+    <a href="speakers/muth.html" target="_blank" style="font-size: 16px; font-weight: bold;">Mary Muth</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Abby_Okrent.jpg" alt="Abigail Okrent" class="presenter-image">
+    <br>
+    <a href="speakers/okrent.html" target="_blank" style="font-size: 16px; font-weight: bold;">Abigail Okrent</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Steve_Reed.jpg" alt="Steve Reed" class="presenter-image">
+    <br>
+    <a href="speakers/reed.html" target="_blank" style="font-size: 16px; font-weight: bold;">Steve Reed</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Francisco_Scott.jpg" alt="Francisco Scott" class="presenter-image">
+    <br>
+    <a href="speakers/scott.html" target="_blank" style="font-size: 16px; font-weight: bold;">Francisco Scott</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Aaron_Smith.jpg" alt="Aaron Smith" class="presenter-image">
+    <br>
+    <a href="speakers/smith.html" target="_blank" style="font-size: 16px; font-weight: bold;">Aaron Smith</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Simon_Somogyi.jpg" alt="Simon Somogyi" class="presenter-image">
+    <br>
+    <a href="speakers/somogyi.html" target="_blank" style="font-size: 16px; font-weight: bold;">Simon Somogyi</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" class="presenter-image">
+    <br>
+    <a href="speakers/sweitzer.html" target="_blank" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a>
+  </div>
+
+  <div class="presenter-item">
+    <img src="images/Chen_Zhen.jpg" alt="Chen Zhen" class="presenter-image">
+    <br>
+    <a href="speakers/zhen.html" target="_blank" style="font-size: 16px; font-weight: bold;">Chen Zhen</a>
+  </div>
+  
+</div>
+')
+```
 
 
 <!-- ################## -->
-
-
-## Breakout Session Mediators
-<!-- Ana Aizcorbe -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Ana_Aizcorbe.png" alt="Ana Aizcorbe" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="aizcorbe.html" style="font-size: 16px; font-weight: bold;">Ana Aizcorbe</a></div></div>')`
-Bureau of Economic Analysis
-
-
-<!-- John Baffes -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/John_Baffes.png" alt="John Baffes" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="baffes.html" style="font-size: 16px; font-weight: bold;">John Baffes</a></div></div>')`
-World Bank
-
-
-<!-- Jude Bayham -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Jude_Bayham.jpg" alt="Jude Bayham" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="bayham.html" style="font-size: 16px; font-weight: bold;">Jude Bayham</a></div></div>')`
-Colorado State University
-
-
-<!-- Anne Byrne -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Anne_Byrne.jpg" alt="Anne Byrne" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="byrne.html" style="font-size: 16px; font-weight: bold;">Anne Byrne</a></div></div>')`
-USDA-ERS
-
-
-<!-- Metin Çakır -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Metin_Cakir.jpg" alt="Metin Çakır" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="cakir.html" style="font-size: 16px; font-weight: bold;">Metin Çakır</a></div></div>')`
-University of Minnesota
-
-
-<!-- Kailin Kroetz -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Kailin_Kroetz.jpg" alt="Kailin Kroetz" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="kroetz.html" style="font-size: 16px; font-weight: bold;">Kailin Kroetz</a></div></div>')`
-Arizona State University
-
-
-<!-- James MacDonald -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/James_MacDonald.jpg" alt="James MacDonald" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="macdonald.html" style="font-size: 16px; font-weight: bold;">James MacDonald</a></div></div>')`
-University of Maryland
-
-
-<!-- Matthew MacLachlan -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Matthew_MacLachlan.png" alt="Matthew MacLachlan" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="maclachlan.html" style="font-size: 16px; font-weight: bold;">Matthew MacLachlan</a></div></div>')`
-Cornell University
-
-
-<!-- Abigail Okrent -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Abby_Okrent.jpg" alt="Abigail Okrent" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="okrent.html" style="font-size: 16px; font-weight: bold;">Abigail Okrent</a></div></div>')`
-USDA-ERS
-
-
-<!-- Aaron Smith -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Aaron_Smith.jpg" alt="Aaron Smith" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="smith.html" style="font-size: 16px; font-weight: bold;">Aaron Smith</a></div></div>')`
-University of California, Berkeley
-
-
-<!-- Simon Somogyi -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Simon_Somogyi.jpg" alt="Simon Somogyi" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="somogyi.html" style="font-size: 16px; font-weight: bold;">Simon Somogyi</a></div></div>')`
-Texas A&M University
-
-
-<!-- Chen Zhen -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Chen_Zhen.jpg" alt="Chen Zhen" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="zhen.html" style="font-size: 16px; font-weight: bold;">Chen Zhen</a></div></div>')`
-University of Georgia
-
-
-<!-- ################## -->
-
-
 
 ## Masters of Ceremonies
 
-<!-- Megan Sweitzer -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="sweitzer.html" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a></div></div>')`
-USDA-ERS
+```{r, echo=FALSE}
+htmltools::HTML('
+<style>
+  .side-by-side {
+    display: flex;
+    justify-content: center; /* Centers the items horizontally */
+    flex-wrap: nowrap; /* Prevents wrapping to ensure side-by-side display */
+  }
+  .side-item {
+    text-align: center;
+    margin: 10px;
+    width: 240px; /* Adjust width as needed to fit both items in the available space */
+  }
+  .side-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+</style>
 
+<div class="side-by-side">
+  <div class="side-item">
+    <img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" class="side-image">
+    <br>
+    <a href="speakers/sweitzer.html" target="_blank" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a>
+  </div>
 
-<!-- Ricky Volpe -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Richard_Volpe.jpg" alt="Ricky Volpe" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="volpe.html" style="font-size: 16px; font-weight: bold;">Ricky Volpe</a></div></div>')`
-California Polytechnic State University
-
-
+  <div class="side-item">
+    <img src="images/Richard_Volpe.jpg" alt="Ricky Volpe" class="side-image">
+    <br>
+    <a href="speakers/volpe.html" target="_blank" style="font-size: 16px; font-weight: bold;">Ricky Volpe</a>
+  </div>
+</div>
+')
+```
 
 
 <!-- ################## -->
@@ -220,163 +259,348 @@ California Polytechnic State University
 
 ## Travel Grant Recipients
 
-<!-- Ifedotun Aina -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Ifedotun_Aina.png" alt="Ifedotun Aina" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="aina.html" style="font-size: 16px; font-weight: bold;">Ifedotun Aina</a></div></div>')`
-Postdoctoral research fellow, University of Cape Town
+```{r, echo=FALSE}
+htmltools::HTML('
+<style>
+  .presenter-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .presenter-item {
+    text-align: center;
+    margin: 5px;
+    width: calc(33% - 10px); /* Adjust width to fit three items per row */
+  }
+  .presenter-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+</style>
 
+<div class="presenter-grid">
+  <div class="presenter-item">
+    <img src="images/Ifedotun_Aina.png" alt="Ifedotun Aina" class="presenter-image">
+    <br>
+    <a href="students/aina.html" target="_blank" style="font-size: 16px; font-weight: bold;">Ifedotun Aina</a>
+  </div>
 
-<!-- Love Ayinde -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Love_Ayinde.png" alt="Love Ayinde" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="ayinde.html" style="font-size: 16px; font-weight: bold;">Love Ayinde</a></div></div>')`
-Incoming master's student, University of Missouri
+  <div class="presenter-item">
+    <img src="images/Love_Ayinde.png" alt="Love Ayinde" class="presenter-image">
+    <br>
+    <a href="students/ayinde.html" target="_blank" style="font-size: 16px; font-weight: bold;">Love Ayinde</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Bingyan_Dai.png" alt="Bingyan Dai" class="presenter-image">
+    <br>
+    <a href="students/dai.html" target="_blank" style="font-size: 16px; font-weight: bold;">Bingyan Dai</a>
+  </div>
 
-<!-- Bingyan Dai -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Bingyan_Dai.png" alt="Bingyan Dai" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="dai.html" style="font-size: 16px; font-weight: bold;">Bingyan Dai</a></div></div>')`
-Ph.D. student, Cornell University
+  <div class="presenter-item">
+    <img src="images/Jungkeon_Jo.jpg" alt="Jungkeon Jo" class="presenter-image">
+    <br>
+    <a href="students/jo.html" target="_blank" style="font-size: 16px; font-weight: bold;">Jungkeon Jo</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Pratyoosh_Kashyap.jpeg" alt="Pratyoosh Kashyap" class="presenter-image">
+    <br>
+    <a href="students/kashyap.html" target="_blank" style="font-size: 16px; font-weight: bold;">Pratyoosh Kashyap</a>
+  </div>
 
-<!-- Jungkeon Jo -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Jungkeon_Jo.jpg" alt="Jungkeon Jo" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="jo.html" style="font-size: 16px; font-weight: bold;">Jungkeon Jo</a></div></div>')`
-Ph.D. candidate, University of Georgia
+  <div class="presenter-item">
+    <img src="images/Mengxue_Li.png" alt="Mengxue Li" class="presenter-image">
+    <br>
+    <a href="students/li_m.html" target="_blank" style="font-size: 16px; font-weight: bold;">Mengxue Li</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Wei_Li.JPG" alt="Wei Li" class="presenter-image">
+    <br>
+    <a href="students/li_w.html" target="_blank" style="font-size: 16px; font-weight: bold;">Wei Li</a>
+  </div>
 
-<!-- Pratyoosh Kashyap -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Pratyoosh_Kashyap.jpeg" alt="Pratyoosh Kashyap" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="kashyap.html" style="font-size: 16px; font-weight: bold;">Pratyoosh Kashyap</a></div></div>')`
-Postdoctoral research fellow, Virginia Tech
+  <div class="presenter-item">
+    <img src="images/Weifang_Liang.jpg" alt="Weifang Liang" class="presenter-image">
+    <br>
+    <a href="students/liang.html" target="_blank" style="font-size: 16px; font-weight: bold;">Weifang Liang</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Yiyuan_Miao.jpg" alt="Yiyuan Miao" class="presenter-image">
+    <br>
+    <a href="students/miao.html" target="_blank" style="font-size: 16px; font-weight: bold;">Yiyuan Miao</a>
+  </div>
 
-<!-- Mengxue Li -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Mengxue_Li.png" alt="Mengxue Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="li_m.html" style="font-size: 16px; font-weight: bold;">Mengxue Li</a></div></div>')`
-Ph.D. student, Tuskegee University
+  <div class="presenter-item">
+    <img src="images/Rundong_Peng.jpeg" alt="Rundong Peng" class="presenter-image">
+    <br>
+    <a href="students/peng.html" target="_blank" style="font-size: 16px; font-weight: bold;">Rundong Peng</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Fei_Qin.jpg" alt="Fei Qin" class="presenter-image">
+    <br>
+    <a href="students/qin.html" target="_blank" style="font-size: 16px; font-weight: bold;">Fei Qin</a>
+  </div>
 
-<!-- Wei Li -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Wei_Li.JPG" alt="Wei Li" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="li_w.html" style="font-size: 16px; font-weight: bold;">Wei Li</a></div></div>')`
-Ph.D. student, Texas A&M University
+  <div class="presenter-item">
+    <img src="images/Mohammad_Rahman.jpg" alt="Mohammad Rahman" class="presenter-image">
+    <br>
+    <a href="students/rahman.html" target="_blank" style="font-size: 16px; font-weight: bold;">Mohammad Rahman</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Jiayu_Sun.jpeg" alt="Jiayu Sun" class="presenter-image">
+    <br>
+    <a href="students/sun.html" target="_blank" style="font-size: 16px; font-weight: bold;">Jiayu Sun</a>
+  </div>
 
-<!-- Weifang Liang -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Weifang_Liang.jpg" alt="Weifang Liang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="liang.html" style="font-size: 16px; font-weight: bold;">Weifang Liang</a></div></div>')`
-Ph.D. student, Texas A&M University
+  <div class="presenter-item">
+    <img src="images/Camila_Ulloa.jpg" alt="Camila Ulloa" class="presenter-image">
+    <br>
+    <a href="students/ulloa.html" target="_blank" style="font-size: 16px; font-weight: bold;">Camila Ulloa</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Kelsey_Vourazeris.jpg" alt="Kelsey Vourazeris" class="presenter-image">
+    <br>
+    <a href="students/vourazeris.html" target="_blank" style="font-size: 16px; font-weight: bold;">Kelsey Vourazeris</a>
+  </div>
 
-<!-- Yiyuan Miao -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Yiyuan_Miao.jpg" alt="Yiyuan Miao" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="miao.html" style="font-size: 16px; font-weight: bold;">Yiyuan Miao</a></div></div>')`
-Ph.D. candidate, Renmin University of China
+  <div class="presenter-item">
+    <img src="images/Duoyu_Wang.png" alt="Duoyu Wang" class="presenter-image">
+    <br>
+    <a href="students/wang.html" target="_blank" style="font-size: 16px; font-weight: bold;">Duoyu Wang</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Rebecca_Wasserman-Olin.png" alt="Rebecca Wasserman-Olin" class="presenter-image">
+    <br>
+    <a href="students/wasserman.html" target="_blank" style="font-size: 16px; font-weight: bold;">Rebecca Wasserman-Olin</a>
+  </div>
 
-<!-- Rundong Peng -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Rundong_Peng.jpeg" alt="Rundong Peng" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="peng.html" style="font-size: 16px; font-weight: bold;">Rundong Peng</a></div></div>')`
-Master's student, Purdue University 
+  <div class="presenter-item">
+    <img src="images/Shuo_Yu.jpg" alt="Shuo Yu" class="presenter-image">
+    <br>
+    <a href="students/yu.html" target="_blank" style="font-size: 16px; font-weight: bold;">Shuo Yu</a>
+  </div>
 
+  <div class="presenter-item">
+    <img src="images/Jason_Zhao.jpg" alt="Jianqiang (Jason) Zhao" class="presenter-image">
+    <br>
+    <a href="students/zhao.html" target="_blank" style="font-size: 16px; font-weight: bold;">Jianqiang (Jason) Zhao</a>
+  </div>
 
-<!-- Fei Qin -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Fei_Qin.jpg" alt="Fei Qin" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="qin.html" style="font-size: 16px; font-weight: bold;">Fei Qin</a></div></div>')`
-Postdoctoral research fellow, Arizona State University
-
-
-<!-- Mohammad Rahman -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Mohammad_Rahman.jpg" alt="Mohammad Rahman" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="rahman.html" style="font-size: 16px; font-weight: bold;">Mohammad Rahman</a></div></div>')`
-Postdoctoral research fellow, Washington State University
-
-
-<!-- Jiayu Sun -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Jiayu_Sun.jpeg" alt="Jiayu Sun" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="sun.html" style="font-size: 16px; font-weight: bold;">Jiayu Sun</a></div></div>')`
-Ph.D. candidate, Michigan State University
-
-
-<!-- Camila Ulloa -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Camila_Ulloa.jpg" alt="Camila Ulloa" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="ulloa.html" style="font-size: 16px; font-weight: bold;">Camila Ulloa</a></div></div>')`
-Ph.D. student, Purdue University
-
-
-<!-- Kelsey Vourazeris -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Kelsey_Vourazeris.jpg" alt="Kelsey Vourazeris" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="vourazeris.html" style="font-size: 16px; font-weight: bold;">Kelsey Vourazeris</a></div></div>')`
-Ph.D. student, Arizona State University
-
-
-<!-- Duoyu Wang -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Duoyu_Wang.png" alt="Duoyu Wang" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="wang.html" style="font-size: 16px; font-weight: bold;">Duoyu Wang</a></div></div>')`
-Ph.D. candidate, Colorado State University
-
-
-<!-- Rebecca Wasserman-Olin -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Rebecca_Wasserman-Olin.png" alt="Rebecca Wasserman-Olin" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="wasserman.html" style="font-size: 16px; font-weight: bold;">Rebecca Wasserman-Olin</a></div></div>')`
-Ph.D. student, Colorado State University
-
-
-<!-- Shuo Yu -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Shuo_Yu.jpg" alt="Shuo Yu" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="yu.html" style="font-size: 16px; font-weight: bold;">Shuo Yu</a></div></div>')`
-Ph.D. candidate, University of California, Berkeley
-
-
-<!-- Jianqiang (Jason) Zhao -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Jason_Zhao.jpg" alt="Jianqiang (Jason) Zhao" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="zhao.html" style="font-size: 16px; font-weight: bold;">Jianqiang (Jason) Zhao</a></div></div>')`
-Ph.D. student, Cornell University
-
-
-<!-- Siwen Zhou -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Siwen_Zhou.jpeg" alt="Siwen Zhou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="zhou.html" style="font-size: 16px; font-weight: bold;">Siwen Zhou</a></div></div>')`
-Ph.D. candidate, Colorado State University
-
-
+  <div class="presenter-item">
+    <img src="images/Siwen_Zhou.jpeg" alt="Siwen Zhou" class="presenter-image">
+    <br>
+    <a href="students/zhou.html" target="_blank" style="font-size: 16px; font-weight: bold;">Siwen Zhou</a>
+  </div>
+</div>
+')
+```
 
 <!-- ################## -->
 
 
-
 ## Organizing Committee 
 
+```{r, echo=FALSE}
+htmltools::HTML('
+<style>
+  .organizers-grid {
+    display: flex;
+    justify-content: center; /* Centers the items horizontally */
+    align-items: center; /* Aligns items vertically */
+    flex-wrap: nowrap; /* Prevents wrapping to ensure side-by-side display */
+  }
+  .organizer-item {
+    text-align: center;
+    margin: 5px;
+    width: 200px; /* Adjust width to ensure all items fit in a single row */
+  }
+  .organizer-image {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+</style>
 
-<!-- Lauren Chenarides -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/lauren.jpg" alt="Lauren Chenarides" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="chenarides.html" style="font-size: 16px; font-weight: bold;">Lauren Chenarides</a></div></div>')`
-Colorado State University
+<div class="organizers-grid">
+  <div class="organizer-item">
+    <img src="images/lauren.jpg" alt="Lauren Chenarides" class="organizer-image">
+    <br>
+    <a href="speakers/chenarides.html" target="_blank" style="font-size: 16px; font-weight: bold;">Lauren Chenarides</a>
+  </div>
 
+  <div class="organizer-item">
+    <img src="images/Matthew_MacLachlan.png" alt="Matthew MacLachlan" class="organizer-image">
+    <br>
+    <a href="speakers/maclachlan.html" target="_blank" style="font-size: 16px; font-weight: bold;">Matthew MacLachlan</a>
+  </div>
 
-<!-- Matthew MacLachlan -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Matthew_MacLachlan.png" alt="Matthew MacLachlan" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="maclachlan.html" style="font-size: 16px; font-weight: bold;">Matthew MacLachlan</a></div></div>')`
-Cornell University
-
-
-<!-- Megan Sweitzer -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="sweitzer.html" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a></div></div>')`
-USDA-ERS
-
+  <div class="organizer-item">
+    <img src="images/Megan_Sweitzer.jpeg" alt="Megan Sweitzer" class="organizer-image">
+    <br>
+    <a href="speakers/sweitzer.html" target="_blank" style="font-size: 16px; font-weight: bold;">Megan Sweitzer</a>
+  </div>
+</div>
+')
+```
 
 
 ## Support 
 
 <!-- Taís Menezes -->
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/tais.jpg" alt="Taís Menezes" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="menezes.html" style="font-size: 16px; font-weight: bold;">Taís Menezes</a></div></div>')`
-Ph.D. Student, Colorado State University
+`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/tais.jpg" alt="Taís Menezes" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="students/menezes.html" style="font-size: 16px; font-weight: bold;">Taís Menezes</a></div></div>')`
+
 
 
 
 <!-- ################## -->
-
-
 
 
 ## Sponsors
 
-:::float-left
+```{r, echo=FALSE}
+htmltools::HTML('
+<style>
+  .sponsor-logos {
+    text-align: center; /* Center the logos if necessary */
+  }
+  .sponsor-logos img {
+    width: 400px; /* Fixed width for all logos */
+    height: 200px; /* Fixed height for all logos */
+    object-fit: contain; /* Ensures the image is scaled correctly within the dimensions */
+  }
+</style>
 
-<img src="images/ERS_USDA_logo.png" width="200px">
-
-<br>
-
-<img src="images/AAEA_logo.jpg" width="200px">
-
-:::
-
+<div class="sponsor-logos">
+  <img src="images/ERS_USDA_logo.png" alt="ERS USDA Logo">
+  <br>
+  <img src="images/AAEA_logo.jpg" alt="AAEA Logo">
+</div>
+')
+```
 
 
 <!-- ################## -->
 
 
+## Participants {#participants}
+
+<style>
+.participants-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+.participants-table th, .participants-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+.participants-table th {
+    background-color: #f2f2f2;
+}
+</style>
+
+<table class="participants-table">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Institution</th>
+      <th>Discussion Group</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Michael K. Adjemian</td><td>University of Georgia</td><td></td></tr>
+    <tr><td>M. Arsene J. Agossadou</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Ifedotun V. Aina</td><td>University of Cape Town</td><td></td></tr>
+    <tr><td>Julian M. Alston</td><td>University of California, Davis</td><td></td></tr>
+    <tr><td>Andrew E. Anderson</td><td>University of Arkansas</td><td></td></tr>
+    <tr><td>David P. Anderson</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Love J. Ayinde</td><td>University of Missouri, Columbia</td><td></td></tr>
+    <tr><td>Anukul Bhattarai</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Siddhartha S. Bora</td><td>West Virginia University</td><td></td></tr>
+    <tr><td>Tatiana Borisova</td><td>USDA</td><td></td></tr>
+    <tr><td>Anne T. Byrne</td><td>Economic Research Service USDA</td><td></td></tr>
+    <tr><td>Lauren Chenarides</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Leah Costlow</td><td>Tufts University</td><td></td></tr>
+    <tr><td>Catherine M. Cullinane Thomas</td><td>USDA Economic Research Service</td><td></td></tr>
+    <tr><td>Bingyan Dai</td><td>Cornell University</td><td></td></tr>
+    <tr><td>George C. Davis</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Xiaoli L. Etienne</td><td>University of Idaho</td><td></td></tr>
+    <tr><td>Derek Farnsworth</td><td>University of Florida</td><td></td></tr>
+    <tr><td>Doo Bong Han</td><td>Korea Rural Economic Institute</td><td></td></tr>
+    <tr><td>Sionegael Ikeme</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Olga Isengildina Massa</td><td>Virginia Tech University</td><td></td></tr>
+    <tr><td>Didarul Islam</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Jungkeon Jo</td><td>University of Georgia</td><td></td></tr>
+    <tr><td>Sangnyeol Jung</td><td>Southwest Minnesota State University</td><td></td></tr>
+    <tr><td>Pratyoosh Kashyap</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Wonseok Lee</td><td>Oklahoma State University</td><td></td></tr>
+    <tr><td>Mengxue Li</td><td>Tuskegee University</td><td></td></tr>
+    <tr><td>Wei Li</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Weifang Liang</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Lin Lin</td><td>Michigan State University</td><td></td></tr>
+    <tr><td>Yong Liu</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Wuit Yi Lwin</td><td>Oklahoma State University</td><td></td></tr>
+    <tr><td>James M. MacDonald</td><td>University of Maryland</td><td></td></tr>
+    <tr><td>Matthew J. MacLachlan</td><td>Cornell University</td><td></td></tr>
+    <tr><td>Kaitlyn L. Malakoff</td><td>Arizona State University</td><td></td></tr>
+    <tr><td>Lisa Mancino</td><td>USDA, Economic Research Service</td><td></td></tr>
+    <tr><td>William N. McWilliams</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Tais C. de Menezes</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Yiyuan Miao</td><td>Renmin University of China</td><td></td></tr>
+    <tr><td>Mary K. Muth</td><td>RTI International</td><td></td></tr>
+    <tr><td>Ly Nguyen</td><td>Florida A&M University</td><td></td></tr>
+    <tr><td>Abigail M. Okrent</td><td>USDA-Economic Research Service</td><td></td></tr>
+    <tr><td>Sihyun Park</td><td>The Pennsylvania State University</td><td></td></tr>
+    <tr><td>Ujjwol Paudel</td><td>Arizona State University</td><td></td></tr>
+    <tr><td>Rundong Peng</td><td>Purdue University</td><td></td></tr>
+    <tr><td>Ana Melissa Perez Castano</td><td>University of Minnesota</td><td></td></tr>
+    <tr><td>Jon C. Phillips</td><td>California State Polytechnic University, Pomona</td><td></td></tr>
+    <tr><td>Germán Puga</td><td>University of Adelaide</td><td></td></tr>
+    <tr><td>Fei Qin</td><td>Arizona State University</td><td></td></tr>
+    <tr><td>Leonard-Allen A. Quaye</td><td>Virginia Tech</td><td></td></tr>
+    <tr><td>Mohammad M. Rahman</td><td>Washington State University</td><td></td></tr>
+    <tr><td>David Renke</td><td>Utah State University</td><td></td></tr>
+    <tr><td>Luca Rigotti</td><td>Cornell University</td><td></td></tr>
+    <tr><td>Beatrice Robson</td><td>University of Georgia</td><td></td></tr>
+    <tr><td>Simon Somogyi</td><td>Texas A&M University</td><td></td></tr>
+    <tr><td>Shamar L. Stewart</td><td>Virginia Tech University</td><td></td></tr>
+    <tr><td>Jiayu Sun</td><td>Michigan State University</td><td></td></tr>
+    <tr><td>Jae-hoon Sung</td><td>Korean Rural Economic Institution</td><td></td></tr>
+    <tr><td>Megan D. Sweitzer</td><td>USDA-Economic Research Service</td><td></td></tr>
+    <tr><td>Homa Taheri</td><td>Indiana University</td><td></td></tr>
+    <tr><td>Amanda Tian</td><td>Kansas State University</td><td></td></tr>
+    <tr><td>Dat Q. Tran, PhD</td><td>EDR</td><td></td></tr>
+    <tr><td>Camila Ulloa</td><td>Purdue University</td><td></td></tr>
+    <tr><td>Richard J. Volpe, III</td><td>California Polytechnic State University</td><td></td></tr>
+    <tr><td>Kelsey Vourazeris</td><td>Arizona State University</td><td></td></tr>
+    <tr><td>Duoyu Wang</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Linjie Wang</td><td>Huazhong Agricultural University</td><td></td></tr>
+    <tr><td>Rebecca Wasserman-Olin</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Lei Xu</td><td>The Ohio State University</td><td></td></tr>
+    <tr><td>Sungeun Yoon</td><td>University of Florida</td><td></td></tr>
+    <tr><td>Shuo Yu</td><td>University of California, Berkeley</td><td></td></tr>
+    <tr><td>Eliana Zeballos</td><td>USDA - Economic Research Services</td><td></td></tr>
+    <tr><td>Wenjie Zhan</td><td>University of California, Davis</td><td></td></tr>
+    <tr><td>Jianqiang Zhao</td><td>Cornell University</td><td></td></tr>
+    <tr><td>Xiaoyong Zheng</td><td>North Carolina State University</td><td></td></tr>
+    <tr><td>Siwen Zhou</td><td>Colorado State University</td><td></td></tr>
+  </tbody>
+</table>
 
 
-## Participants
+
+<!--
 | Name | Institution | Email | 
 |-------------------------------------|----------------------------------|-----------------------------------------------------|
 |	Michael K. Adjemian	|	University of Georgia	|		|
@@ -455,9 +679,7 @@ Ph.D. Student, Colorado State University
 |	Jianqiang Zhao	|	Cornell University	|		|
 |	Xiaoyong Zheng	|	North Carolina State University	|		|
 |	Siwen Zhou	|	Colorado State University	|		|
-
-
-
+-->
 
 <!-- ################## -->
 
@@ -468,29 +690,6 @@ Ph.D. Student, Colorado State University
   <a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<span style="font-size: 20px; font-weight: bold;">**Total Time: 5 minutes**</span>
-
-We value your time and perspectives in shaping the development of this dashboard.
-
-### Thank You from Spiro Stefanou
-
-`r htmltools::HTML('<div style="display: flex; justify-content: left-align;"><div style="text-align: center; margin: 10px;"><img src="images/spiro.jpg" alt="Spiro Stefanou" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;"><br><a target="_blank" href="https://www.ers.usda.gov/authors/ers-staff-directory/spiro-stefanou/" style="font-size: 16px; font-weight: bold;">Spiro Stefanou</a></div></div>')`
-
-
--->
 
 
 

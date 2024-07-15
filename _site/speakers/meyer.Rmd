@@ -1,0 +1,32 @@
+---
+title: "Seth Meyer"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Seth_Meyer.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Dr. Seth Meyer was appointed USDA’s Chief Economist in January of 2021, returning to USDA after two years. Prior to his return, Seth was a Research Professor and the Associate Director for the Food and Agricultural Policy Research Institute (FAPRI) at the University of Missouri. FAPRI is well known for its agricultural policy and market analysis, being called on by Congress and the United States Department of Agriculture (USDA) for its insight into commodity production, price, farm income and trade impacts from various agricultural policies including Farm Bill proposals, trade agreements and disruptions, and crop insurance. Dr. Meyer was previously the head of the World Agricultural Outlook Board (WAOB) in the Office of the Chief Economist (OCE), the agency at USDA charged with bringing together USDA resources in the assessment of crops around the world. The OCE also publishes those finding in the ‘WASDE’ report which is closely watched by agricultural markets here and abroad. Previously, Dr. Meyer served  as an economist with the Food and Agricultural Organization (FAO) of the United Nations and as a visiting scholar at several research institutions around the world. Dr. Meyer grew up in eastern Iowa and has a Bachelor’s and Master’s degree from Iowa State University and a Ph.D. in Agricultural Economics from the University of Missouri. 
+
+**Presentation Title:** Pending
+
+**Abstract:** Pending
+
+
+:::
+
+
+
+
+
+
+
+
+
