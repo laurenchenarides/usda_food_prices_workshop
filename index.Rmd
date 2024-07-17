@@ -23,8 +23,10 @@ site: distill::distill_website
 
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
   body {
-    font-family: Arial, sans-serif;
+    font-family: 'Public Sans', sans-serif;
     line-height: 1.6;
     margin: 20px;
   }
@@ -49,6 +51,7 @@ site: distill::distill_website
   }
   .session-time {
     font-weight: bold;
+    width: 25%; /* Adjust the width of the Time column */
   }
   .break-row {
     background-color: #f9f9f9;

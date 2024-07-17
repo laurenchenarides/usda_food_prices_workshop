@@ -1,0 +1,31 @@
+---
+title: "Leo Feler"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Leo_Feler.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Leo Feler is Chief Economist at Numerator and a visiting economist at the Federal Reserve Bank of Chicago. At Numerator, Dr. Feler provides thought leadership and analyses on the US economy and the state of the US consumer to C-suite executives of leading CPGs and retailers and to Wall Street analysts. At the Federal Reserve, Dr. Feler works with a team of economists to nowcast retail sales and inflation using Numerator’s household panel data. Dr. Feler previously served as senior economist at the UCLA Anderson School of Management and taught MBA-level courses on economic forecasting and emerging markets. Prior to that, Dr. Feler was an assistant professor at Johns Hopkins University and a consultant with Boston Consulting Group. Dr. Feler has served as an expert witness on commercial litigation and regulatory matters and has casework experience in mergers & antitrust. He received his PhD in economics from Brown University, his MA in International Policy from Stanford University, and his BA in Economics and International Relations from Stanford University.
+
+**Presentation Title:** Using Panel Data on the Everyday Purchases of 150,000 Representative US Households to Measure Consumer Behavior in Real-Time
+
+**Abstract:** Numerator collects purchase data from receipts, emails, and linked loyalty accounts from a static panel of 150,000 representative US households. This data is available for free for academic use to researchers affiliated with US universities. Using this data, Numerator can track the US Census Bureau's Advance Monthly Sales for Retail and Food Services report. Whereas the US Census report is top-down (based on surveying retailers about their revenues), Numerator's analysis is bottom-up (based on receipts and purchase data from verified consumers). This difference allows Numerator to segment changes in retail sales by consumer demographics, looking at the behaviors of low, middle, and high-income consumers, by race/ethnicity, by generation/cohort, and by region of the country. This difference also allows Numerator to look within retailers to see what consumers are buying (e.g., essentials vs. discretionary purchases, brand name vs. private label items). This session will also cover additional topics that researchers may be interested in when using Numerator data, for example, tracking the purchases of SNAP/WIC recipients as SNAP/WIC benefits change and tracking how consumers adjust to food inflation.
+
+:::
+
+
+
+
+
+
+
+
+

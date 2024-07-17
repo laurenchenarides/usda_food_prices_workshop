@@ -8,40 +8,42 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
   body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
+    font-family: 'Public Sans', sans-serif;
   }
+
   .agenda-table {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 20px;
   }
+
   .agenda-table th, .agenda-table td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
   }
+
   .agenda-table th {
-    background-color: #f2f2f2;
+    background-color: #f4f4f4;
+    color: #333;
   }
-  .session-time {
-    font-weight: bold;
+
+  .agenda-table td a {
+    color: #23408F; /* Matching the color used for headers */
   }
+
+  .agenda-table .session-time {
+    width: 15%; /* Adjust the width of the Time column */
+  }
+
   .break-row {
-    background-color: #f9f9f9;
+    background-color: #e0f4f9; /* Light blue color specifically for break rows */
   }
-  .networking-row {
-    background-color: #e9f7e9;
-  }
-  .btn {
-    background-color: black;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  
+  .agenda-table tbody tr:nth-child(odd):not(.break-row) {
+    background-color: #f9f9f9; /* Apply grey shading only to non-break odd rows */
   }
 </style>
 
@@ -51,6 +53,7 @@ knitr::opts_chunk$set(echo = TRUE)
   <thead>
     <tr>
       <th>Time</th>
+      <th>Session Title</th>
       <th>Description</th>
       <th>Speakers/Moderators</th>
     </tr>
@@ -59,95 +62,102 @@ knitr::opts_chunk$set(echo = TRUE)
     <tr>
       <td class="session-time">8:00 AM - 8:30 AM</td>
       <td>Registration and Coffee</td>
+      <td>Welcome remarks by the workshop organizers.</td>
       <td></td>
     </tr>
     <tr>
       <td class="session-time">8:30 AM - 8:40 AM</td>
       <td>Introduction</td>
+      <td>Introducion to the workshop.</td>
       <td><a href="speakers/spiro.html" target="_blank">Spiro Stefanou</a></td>
     </tr>
     <tr>
       <td class="session-time">8:40 AM - 9:10 AM</td>
       <td>Keynote Speaker</td>
+      <td>Keynote address on recent food price trends.</td>
       <td><a href="speakers/ortega.html" target="_blank">David Ortega</a></td>
     </tr>
     <tr>
       <td class="session-time">9:10 AM - 9:40 AM</td>
       <td>U.S. Inflation in the Context of International Price Changes</td>
+      <td>Speaker on international food price trends and how they impact U.S. inflation.</td>
       <td><a href="speakers/baffes.html" target="_blank">John Baffes</a></td>
     </tr>
     <tr>
       <td class="session-time">9:40 AM - 10:10 AM</td>
       <td>Policy Responses to Food Price Inflation</td>
+      <td>Discussion on monitoring and addressing food price inflation.</td>
       <td><a href="speakers/meyer.html" target="_blank">Seth Meyer</a></td>
     </tr>
     <tr>
       <td class="session-time">10:10 AM - 10:30 AM</td>
       <td>Moderated Discussion/Q&A</td>
+      <td>Recap of presentations given by speakers for sessions 1-3.</td>
       <td><a href="speakers/spiro.html" target="_blank">Spiro Stefanou</a>, <a href="speakers/ortega.html" target="_blank">David Ortega</a>, <a href="speakers/baffes.html" target="_blank">John Baffes</a>, and <a href="speakers/meyer.html" target="_blank">Seth Meyer</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">10:30 AM - 10:45 AM</td>
       <td>Break</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td class="session-time">10:45 AM - 11:45 AM</td>
       <td>Retrospective Analysis on Food Price Inflation</td>
+      <td>Examination of retrospective data related to food price inflation and identification of price drivers.</td>
       <td><a href="speakers/adjemian.html" target="_blank">Michael Adjemian</a>, <a href="speakers/scott.html" target="_blank">Francisco Scott</a>, <a href="speakers/cakir.html" target="_blank">Metin Çakir</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">11:45 AM - 1:00 PM</td>
       <td>Lunch Break</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
-      <td class="session-time">1:00 PM - 1:15 PM</td>
-      <td>Methods for Evaluating and Forecasting Food Price Changes - Introduction</td>
-      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a></td>
-    </tr>
-    <tr>
-      <td class="session-time">1:15 PM - 2:00 PM</td>
-      <td>Methods for Evaluating and Forecasting Food Price Changes - Panel</td>
-      <td><a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, and <a href="speakers/smith.html" target="_blank">Aaron Smith</a></td>
-    </tr>
-    <tr>
-      <td class="session-time">2:00 PM - 2:15 PM</td>
-      <td>Moderated Discussion/Q&A</td>
-      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, and <a href="speakers/smith.html" target="_blank">Aaron Smith</a></td>
+      <td class="session-time">1:00 PM - 2:15 PM</td>
+      <td>Methods for Evaluating and Forecasting Food Price Changes</td>
+      <td>Overview of different forecasts and methods used by organizations like Food Price Outlook, MTED, and RRED and uses across governments, industry, and the public.</td>
+      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, <a href="speakers/smith.html" target="_blank">Aaron Smith</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">2:15 PM - 2:30 PM</td>
       <td>Break</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td class="session-time">2:30 PM - 3:30 PM</td>
       <td>Understanding Determinants of Food Prices for Forecasting</td>
-      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/malakoff.html" target="_blank">Kaitlyn Malakoff</a>, <a href="speakers/bayham.html" target="_blank">Jude Bayham</a>, and <a href="speakers/etienne.html" target="_blank">Xiaoli Etienne</a></td>
+      <td>Research presentations highlighting research to improve food price forecasting, including leading indicators of food price changes, energy prices, and factors driving prices in specific markets including beef and seafood.</td>
+      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/malakoff.html" target="_blank">Kaitlyn Malakoff</a>, <a href="speakers/bayham.html" target="_blank">Jude Bayham</a>, <a href="speakers/etienne.html" target="_blank">Xiaoli Etienne</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">3:30 PM - 3:45 PM</td>
       <td>Break</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td class="session-time">3:45 PM - 4:45 PM</td>
       <td>Impacts of Food Price Changes</td>
-      <td><a href="speakers/chenarides.html" target="_blank">Lauren Chenarides</a>, <a href="speakers/alston.html" target="_blank">Julian Alston</a>, and <a href="speakers/byrne.html" target="_blank">Anne Byrne</a></td>
+      <td>Presentation on the impacts of food price inflation on price markups, consumer welfare, and food security.</td>
+      <td><a href="speakers/chenarides.html" target="_blank">Lauren Chenarides</a>, <a href="speakers/alston.html" target="_blank">Julian Alston</a>, <a href="speakers/byrne.html" target="_blank">Anne Byrne</a></td>
     </tr>
     <tr>
       <td class="session-time">4:45 PM - 5:00 PM</td>
       <td>Concluding Remarks</td>
+      <td>Recap of day 1 sessions and what to expect for day 2.</td>
       <td></td>
     </tr>
-    <tr class="networking-row">
+    <tr>
       <td class="session-time">5:00 PM - 6:00 PM</td>
       <td>Networking Reception</td>
+      <td>Join us for a networking reception located in the hotel. For dinner recommendations near the hotel, please visit the <a href="places.html" target="_blank">Places</a> page on the workshop website.</td>
       <td></td>
     </tr>
   </tbody>
 </table>
+
 
 <!--
 ## Agenda

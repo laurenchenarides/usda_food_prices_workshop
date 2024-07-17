@@ -1,0 +1,32 @@
+---
+title: "Mary Muth"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Mary_Muth.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Dr. Mary K. Muth is Senior Director, Food Economics & Policy at RTI International. She conducts research to analyze and evaluate the impacts of policies, regulations, and other initiatives in the areas of nutrition, food safety, food waste, food pricing, food labeling, and food reformulation. She is lead author of the book Using Scanner Data for Food Policy Research published by Elsevier Academic Press and has collaborated with the U.S. Department of Agriculture’s Economic Research Service to assess and document scanner data, conduct analyses of scanner data, and create the Food-at-home Monthly Area Prices (F-MAP) data product. She received her PhD from North Carolina State University, master’s degree from Cornell University, and bachelor’s degree from University of California at Davis.
+
+**Presentation Title:** Sources and Analyses of Food Label Data from Proprietary Sources
+
+**Abstract:** Store and household scanner data include product attributes at the barcode level that can be used to classify products for conducting analyses of food prices at a disaggregated level. For example, proprietary scanner data contain information on product attributes such as package type, whether the product is organic, and nutrient content. For some applications, additional or more specific product attributes from product labels may be desired and can be obtained from proprietary sources. The sources and content of proprietary label data and examples of analyses using the data will be presented.
+
+
+:::
+
+
+
+
+
+
+
+
+

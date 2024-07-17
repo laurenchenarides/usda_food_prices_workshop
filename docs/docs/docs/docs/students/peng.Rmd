@@ -1,0 +1,28 @@
+---
+title: "Rundong Peng"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Rundong_Peng.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Rundong Peng is a master's student in Agricultural Economics at Purdue University and an incoming PhD student at Michigan State University. With a BS in Machinery Systems Engineering from Purdue, Rundong combines technical expertise with a deep understanding of agricultural economics. His master's thesis focuses on analyzing cointegration in high-dimensional price series, providing valuable insights into the interconnectedness of hog markets in China. Rundong has actively participated in research projects, including estimating sparse VAR/VECM models using penalized least squares to investigate pork production in China and assessing drivers of fertilizer price spikes in Africa through panel data. His research aims to optimize production agriculture and enhance market efficiency. 
+
+
+:::
+
+
+
+
+
+
+
+
+

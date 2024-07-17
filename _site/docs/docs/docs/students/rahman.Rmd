@@ -1,0 +1,28 @@
+---
+title: "Mohammad Rahman"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Mohammad_Rahman.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Mohammad Maksudur Rahman is a Postdoctoral Research Associate at the School of Economic Sciences, Washington State University. He earned his Ph.D. in Economics from the same institution in May 2023. He has an undergraduate degree in Development Studies and master’s degrees in Agricultural and Applied Economics and Statistics. His primary research interests are agricultural economics, animal disease economics, international trade, and applied econometrics. His research encompasses productivity and efficiency analysis, as well as policy analysis, contributing to a comprehensive understanding of economic dynamics and policy implications. His current projects include studying the impacts of tick-borne diseases on US-Mexico livestock trade, the effects of highly pathogenic avian influenza (HPAI) on global poultry exports, and the determinants of public investment in animal health. 
+
+
+:::
+
+
+
+
+
+
+
+
+

@@ -66,30 +66,30 @@ d-appendix {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #6667ab;
+  --bkgd-color:       #23408F;
 }
 
 .distill-site-footer {
   --text-color:       rgba(255, 255, 255, 0.8);
   --text-size:        15px;
   --hover-color:      white;
-  --bkgd-color:       #6667ab;
+  --bkgd-color:       #23408F;
 }
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
 
 body {
-  background-color: #f4f4f4;
+  background-color: #FFFFFF;
 }
 
 h2 {
-  color: #6667ab; /* This sets the color of h3 headers to the purple used in the header */
+  color: #23408F; /* This sets the color of h3 headers to the purple used in the header */
   font-family: var(--heading-font); /* Ensures the font family for h3 is consistent with other headers */
 }
 
 h3 {
-  color: #6667ab; /* This sets the color of h3 headers to the purple used in the header */
+  color: #23408F; /* This sets the color of h3 headers to the purple used in the header */
   font-family: var(--heading-font); /* Ensures the font family for h3 is consistent with other headers */
 }
 

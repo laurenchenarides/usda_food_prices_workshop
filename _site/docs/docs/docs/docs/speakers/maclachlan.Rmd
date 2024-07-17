@@ -1,0 +1,37 @@
+---
+title: "Matthew MacLachlan"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Matthew_MacLachlan.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Matthew MacLachlan is an assistant professor of veterinary business and entrepreneurship at Cornell University's Center for Veterinary Business and Entrepreneurship. From 2016–2023, he contributed to the ERS’s forecasts in the Markets and Trade and Food Economics Divisions.  His research focuses on the methods used when assessing economic issues related to food markets, risk, animal health, and the public management of biological hazards.
+
+**Presentation Title:** Research and development of food price forecasting—optimal selection of leading indicators
+
+**Abstract:** The advent of COVID-19 ended an era of stable US retail food prices that followed the world food price crisis of 2010–2012. Pandemic-related disruptions, avian influenza outbreaks, and the Russia-Ukraine war drove 2022 food-at-home inflation to its highest rate since 1974 (11.4%). In 2023, US Department of Agriculture (USDA) economists responded to these changes by updating food price forecasts with statistical learning protocols to select time-series models and prediction intervals to convey their uncertainty. We characterize the public good provided by these “adaptive” inflation forecasts and enhance them by continuously selecting exogenous variables, improving their precision and explanatory power. The all-items-less-food-and-energy (“core”) index helps predict food prices until 2017; then, the money supply, wholesale-food prices, and food service wages help generate optimal forecasts. The strong relationships between food prices and other prices and the money supply indicate the sensitivity of food markets to macroeconomic forces and government policy choices.
+
+
+**Presentation Title:** The landscape and challenges of nationally representative forecasting
+
+**Abstract:** The federal government provides many publicly available and internal forecasts and projections, which aid diverse stakeholders. The USDA - Economic Research Service economists contribute specialized expertise on future economic conditions along the food supply chain. These include the farm economy, production, storage, intermediate markets for agricultural inputs, trade and transportation, and retail food markets. The forecasted systems' complexity and overlap with other USDA agency missions motivate interagency collaboration, notably with the Office of the Chief Economist. The diversity of objectives, available data, and audiences have historically encumbered standardization. However, advancements in statistical methods, operational practices, and computation resources provide opportunities for harmonization to the extent possible. This presentation introduces leaders from government, academia, and industry in identifying and implementing best practices to enhance the accuracy and informativeness of forecasts and projections.
+
+
+:::
+
+
+
+
+
+
+
+
+

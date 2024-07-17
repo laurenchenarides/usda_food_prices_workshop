@@ -25,6 +25,12 @@ Attendees will be divided into groups of 6 to 7 participants with a mix of unive
 <span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
 
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
+  body {
+    font-family: 'Public Sans', sans-serif;
+  }
+  
   .discussion-table {
     width: 100%;
     border-collapse: collapse;
@@ -50,27 +56,27 @@ Attendees will be divided into groups of 6 to 7 participants with a mix of unive
   <tbody>
     <tr>
       <td>Concentration and IO</td>
-      <td><a href="speaker/macdonald.Rmd" target="_blank">James MacDonald</a>, <a href="speaker/cakir.Rmd" target="_blank">Metin Çakir</a></td>
+      <td><a href="speakers/macdonald.Rmd" target="_blank">James MacDonald</a>, <a href="speakers/cakir.Rmd" target="_blank">Metin Çakir</a></td>
     </tr>
     <tr>
       <td>Forecasting</td>
-      <td><a href="speaker/smith.Rmd" target="_blank">Aaron Smith</a>, <a href="speaker/maclachlan.Rmd" target="_blank">Matthew MacLachlan</a></td>
+      <td><a href="speakers/smith.Rmd" target="_blank">Aaron Smith</a>, <a href="speakers/maclachlan.Rmd" target="_blank">Matthew MacLachlan</a></td>
     </tr>
     <tr>
       <td>Impacts of Price Changes</td>
-      <td><a href="speaker/byrne.Rmd" target="_blank">Anne Byrne</a>, <a href="speaker/okrent.Rmd" target="_blank">Abigail Okrent</a></td>
+      <td><a href="speakers/byrne.Rmd" target="_blank">Anne Byrne</a>, <a href="speakers/okrent.Rmd" target="_blank">Abigail Okrent</a></td>
     </tr>
     <tr>
       <td>Input Price Pass-Through</td>
-      <td><a href="speaker/bayham.Rmd" target="_blank">Jude Bayham</a>, <a href="speaker/kroetz.Rmd" target="_blank">Kailin Kroetz</a></td>
+      <td><a href="speakers/bayham.Rmd" target="_blank">Jude Bayham</a>, <a href="speakers/kroetz.Rmd" target="_blank">Kailin Kroetz</a></td>
     </tr>
     <tr>
       <td>International Markets</td>
-      <td><a href="speaker/somogyi.Rmd" target="_blank">Simon Somogyi</a>, <a href="speaker/baffes.Rmd" target="_blank">John Baffes</a></td>
+      <td><a href="speakers/somogyi.Rmd" target="_blank">Simon Somogyi</a>, <a href="speakers/baffes.Rmd" target="_blank">John Baffes</a></td>
     </tr>
     <tr>
       <td>Price Indexes</td>
-      <td><a href="speaker/zhen.Rmd" target="_blank">Chen Zhen</a>, <a href="speaker/aizcorbe.Rmd" target="_blank">Ana Aizcorbe</a></td>
+      <td><a href="speakers/zhen.Rmd" target="_blank">Chen Zhen</a>, <a href="speakers/aizcorbe.Rmd" target="_blank">Ana Aizcorbe</a></td>
     </tr>
   </tbody>
 </table>
@@ -84,6 +90,16 @@ htmltools::HTML('
 </div>
 ')
 ```
+
+<br>
+<br>
+
+<body>
+    <h2>Facilitation Guide</h2>
+    <iframe src="Facilitator guide_07-16-2024.pdf" width="100%" height="600px">
+       Please download the PDF to view it: <a href="Facilitator guide_07-16-2024.pdf">Download PDF</a>.
+    </iframe>
+</body>
 
 <!-- ################## -->
 

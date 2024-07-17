@@ -1,0 +1,28 @@
+---
+title: "Weifang Liang"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Weifang_Liang.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Weifang Liang is a Ph.D. student at Texas A&M University, majoring in Agricultural Economics. Her research focuses on econometrics, aiming to apply data science techniques in the Agricultural field. She is currently working on developing advanced forecasting models for food prices in the United States. In addition to research, she served as Texas A&M data science student ambassador from 2022 to 2023.
+
+
+:::
+
+
+
+
+
+
+
+
+

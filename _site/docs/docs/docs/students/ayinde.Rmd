@@ -1,0 +1,28 @@
+---
+title: "Love Ayinde"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Love_Ayinde.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Love Jesjuwonlo Ayinde is an incoming master's student in data science and analytics at the University of Missouri. He recently graduated from Ohio Wesleyan University with a double major in Computer Science and Quantitative Economics. He mentors students as a Student Success Coach with AmeriCorps, teaching Mathematics and Computer Science. He also works with data analysis and strategic planning, including analyses of prices and sell-through rates. 
+
+
+:::
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+---
+title: "Rebecca Wasserman-Olin"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Rebecca_Wasserman-Olin.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Rebecca Wasserman-Olin is a Ph.D. student in Agriculture and Resource Economics at Colorado State University and the incoming AAEA-GSS Chair-elect for 2024-2025. Her dissertation examines the tradeoffs in supply chains from regional food purchasing policies by public institutions. She holds a B.S. from the University of Wisconsin-Madison and an M.S. from Cornell University, where she studied consumer habits regarding local produce. Rebecca has worked as a community organizer and economic researcher in Minnesota, aiding farmers in integrating conservation into their practices, and as a researcher at Cornell, supporting New York's regional food systems. 
+
+
+:::
+
+
+
+
+
+
+
+
+

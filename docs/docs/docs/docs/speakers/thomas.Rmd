@@ -1,0 +1,32 @@
+---
+title: "Catherine Cullinane-Thomas"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Catherine_Thomas.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Catherine Cullinane-Thomas is an agricultural economist in the Diet, Safety, and Health Economics Branch in the Food Economics Division (FED) of the USDA Economic Research Service. She is a member of the ERS household and retail scanner data team. Cathy’s research is focused on increasing data quality and usability, empowering data users, and building community. Prior to joining ERS in 2022, Cathy worked as an economist with the U.S. Geological Survey, researching how public lands, natural resource use, and federal programs and investments impact regional economies and livelihoods. Cathy has expertise in regional economics, simulation modeling, survey development, and data modeling and visualization. Cathy earned an M.S. degree in agricultural and resource economics and a B.S. degree in mathematics from Colorado State University.
+
+**Presentation Title:** Circana retail and household scanner data – an overview of ERS data holdings and uses
+
+**Abstract:** ERS acquires Circana (formerly IRI) retail and household scanner data for use in food economics research. This presentation will describe Circana scanner data resources, ERS add-on resources including store weights and ERS Food Purchase Group (EFPG) classifications, data uses, and opportunities for collaboration.
+
+
+:::
+
+
+
+
+
+
+
+
+
