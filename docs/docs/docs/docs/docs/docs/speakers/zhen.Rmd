@@ -1,0 +1,28 @@
+---
+title: "Chen Zhen"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Chen_Zhen.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Chen Zhen is the Graduate Coordinator and GA Athletic Association Professor in Food Choice, Obesity & Health in the Department of Agricultural and Applied Economics at the University of Georgia. Dr. Zhen develops policy-relevant structural models of consumer food behavior estimated with large-scale household and retail scanner data. The overarching goal of his research is to promote the use of these high-dimensional, yet practical, models to predict outcomes of innovative nutrition policy proposals. He has published extensively on issues such as habit formation in beverages and tobacco, unintended consequences of sugar-sweetened beverage (SSB) taxes, and the efficiency of volume- vs. calorie-based SSB taxes. His research on SSB taxes has been featured in New York Times, NPR, and other national and local media. His current research includes panel food price indexes, SSB restrictions in the Supplemental Nutrition Assistance Program, food demand in Sub-Saharan Africa, unhealthy food taxes and healthy food subsidies, shelf-nutrition labeling, and the healthy retail food environment. 
+
+
+:::
+
+
+
+
+
+
+
+
+

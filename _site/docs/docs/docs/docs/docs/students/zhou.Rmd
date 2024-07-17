@@ -1,0 +1,28 @@
+---
+title: "Siwen Zhou"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Siwen_Zhou.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Siwen Zhou is a Ph.D. candidate in the Department of Agricultural and Resource Economics at Colorado State University. She earned her B.A. in Public Management from Henan University of Economics and Law and an M.S. in Labor Economics from Shaanxi Normal University in China. Siwen's previous research focused on the impact of contemporary issues on China's rural poor, particularly concerning children's health and education, aiming to help underserved populations reach their full potential. Her Ph.D. dissertation explores the determinants and consequences of health disparities and social inequality among U.S. households, with a special focus on household food security. Her research interests span food policy, health economics, immigrant welfare, development economics and labor economics. 
+
+
+:::
+
+
+
+
+
+
+
+
+

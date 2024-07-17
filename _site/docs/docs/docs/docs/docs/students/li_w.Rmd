@@ -1,0 +1,28 @@
+---
+title: "Wei Li"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Mengxue_Li.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Wei Li is a Ph.D. student in the Department of Agricultural Economics at Texas A&M University. After completing her undergraduate studies in Finance at the Southwestern University of Finance and Economics in China, she obtained an M.S. in Economics from Texas A&M University. Wei is expected to complete her Ph.D. in 2026. Her research focuses on international development, global markets, and food security. She investigates how access to resources, information, and opportunities influence household decisions, economic mobility, and human capital investments among rural populations. Currently, she is working on projects that investigate the impacts of irrigation access on migration patterns, as well as examining the role of gender dynamics in agricultural sales and markets within Sub-Saharan African contexts.
+
+
+:::
+
+
+
+
+
+
+
+
+

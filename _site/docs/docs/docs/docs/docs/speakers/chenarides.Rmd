@@ -1,0 +1,31 @@
+---
+title: "Lauren Chenarides"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/lauren.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Lauren Chenarides is an Assistant Professor in the Department of Agricultural and Resource Economics. She holds an undergraduate degree from the College of the Holy Cross, where she majored in Mathematics, and a Ph.D. in Agricultural, Environmental, and Regional Economics from Pennsylvania State University, where she graduated in 2017. Dr. Chenarides’ research background is in food economics, studying the nexus between food choice, retailer competition, and public policy. Her research focuses on understanding barriers to accessing affordable, healthy foods and the consequences of poor food access on consumer spending, diet, and health; analyzing trends and developments in food retailer competition, market concentration, and marketing strategies; and, examining the impact of entry by non-traditional food retailers on local competition. Dr. Chenarides is an Associate Editor for the American Journal of Agricultural Economics and a Board Member of the Council on Food, Agricultural, and Resource Economics, translating academic research into educational programming for policymakers and stakeholders in the federal administration. 
+
+**Presentation Title:** Price Gouging During the Pandemic: Evidence from Scanner Data
+
+**Abstract:** This paper examines the dynamics of retail food pricing during the COVID-19 pandemic, focusing on the two-year period from December 2019 through December 2021. Using a unique dataset capturing item-level wholesale and retail prices, we apply an event-study approach to investigate the impact of state-of-emergency declarations that activated price-gouging regulations on retail markups. Our findings contribute to the understanding of market behavior in the face of supply and demand shocks.
+
+:::
+
+
+
+
+
+
+
+
+

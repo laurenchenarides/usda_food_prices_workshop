@@ -1,0 +1,31 @@
+---
+title: "Anne Byrne"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Anne_Byrne.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Anne Byrne is a research agricultural economist in the ERS Food Markets Branch. Her research focuses on how consumers access and afford food. She analyzes economic features of the food landscape—including retail food markets, food banks, and other private food assistance services—and geographic variation of food availability. She also analyzes consumer food behavior, particularly among low income and resource limited households, including use of food assistance and substitution across products and outlets. Her work has been published in the American Journal of Agricultural Economics, Food Policy, and Applied Economic Perspectives and Policy, among other outlets.
+
+**Presentation Title:** Food Prices from the Consumer’s Point of View
+
+**Abstract:** This interactive presentation explores the customer experience of food prices. It looks at how customer experiences become translate into raw data and how raw data translates into overall measures of food prices.  Using “food price artifacts” to build price change measures, we explore how staple product prices change, the emergence of new products and stores, geographic variation in prices, and issues of data quality.
+
+:::
+
+
+
+
+
+
+
+
+
