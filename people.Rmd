@@ -64,7 +64,7 @@ htmltools::HTML('
   </div>
 
   <div class="presenter-item">
-    <img src="images/John_Baffes.png" alt="John Baffes" class="presenter-image">
+    <img src="images/John_Baffes.jpg" alt="John Baffes" class="presenter-image">
     <br>
     <a href="speakers/baffes.html" target="_blank" style="font-size: 16px; font-weight: bold;">John Baffes</a>
   </div>
@@ -124,7 +124,7 @@ htmltools::HTML('
   </div>
 
   <div class="presenter-item">
-    <img src="images/Kailin_Kroetz.jpg" alt="Kailin Kroetz" class="presenter-image">
+    <img src="images/Kailin_Kroetz.png" alt="Kailin Kroetz" class="presenter-image">
     <br>
     <a href="speakers/kroetz.html" target="_blank" style="font-size: 16px; font-weight: bold;">Kailin Kroetz</a>
   </div>
@@ -519,90 +519,109 @@ htmltools::HTML('
     </tr>
   </thead>
   <tbody>
-    <tr><td>Michael K. Adjemian</td><td>University of Georgia</td><td></td></tr>
-    <tr><td>M. Arsene J. Agossadou</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Ifedotun V. Aina</td><td>University of Cape Town</td><td></td></tr>
-    <tr><td>Julian M. Alston</td><td>University of California, Davis</td><td></td></tr>
-    <tr><td>Andrew E. Anderson</td><td>University of Arkansas</td><td></td></tr>
-    <tr><td>David P. Anderson</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Love J. Ayinde</td><td>University of Missouri, Columbia</td><td></td></tr>
-    <tr><td>Anukul Bhattarai</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Siddhartha S. Bora</td><td>West Virginia University</td><td></td></tr>
-    <tr><td>Tatiana Borisova</td><td>USDA</td><td></td></tr>
-    <tr><td>Anne T. Byrne</td><td>Economic Research Service USDA</td><td></td></tr>
+    <tr><td>Michael K. Adjemian</td><td>University of Georgia</td><td>3</td></tr>
+    <tr><td>M. Arsene J. Agossadou</td><td>Texas A&M University</td><td>5</td></tr>
+    <tr><td>Ifedotun V. Aina</td><td>University of Cape Town</td><td>7</td></tr>
+    <tr><td>Ana Aizcorbe</td><td>Bureau of Economic Analysis</td><td>7</td></tr>
+    <tr><td>Julian M. Alston</td><td>University of California, Davis</td><td>5</td></tr>
+    <tr><td>Andrew E. Anderson</td><td>University of Arkansas</td><td>4</td></tr>
+    <tr><td>David P. Anderson</td><td>Texas A&M University</td><td>1</td></tr>
+    <tr><td>Love J. Ayinde</td><td>University of Missouri, Columbia</td><td>11</td></tr>
+    <tr><td>John Baffes</td><td>World Bank</td><td>10</td></tr>
+    <tr><td>Joseph V. Balagtas</td><td>Purdue University</td><td>5</td></tr>
+    <tr><td>Jude Bayham</td><td>Colorado State University</td><td>7</td></tr>
+    <tr><td>Anukul Bhattarai</td><td>Virginia Tech</td><td>2</td></tr>
+    <tr><td>Siddhartha S. Bora</td><td>West Virginia University</td><td>4</td></tr>
+    <tr><td>Tatiana Borisova</td><td>USDA</td><td>3</td></tr>
+    <tr><td>Kathryn A. Boys</td><td>North Carolina State University</td><td>9</td></tr>
+    <tr><td>Anne T. Byrne</td><td>Economic Research Service USDA</td><td>5</td></tr>
+    <tr><td>Metin Çakir</td><td>University of Minnesota</td><td>2</td></tr>
     <tr><td>Lauren Chenarides</td><td>Colorado State University</td><td></td></tr>
-    <tr><td>Leah Costlow</td><td>Tufts University</td><td></td></tr>
-    <tr><td>Catherine M. Cullinane Thomas</td><td>USDA Economic Research Service</td><td></td></tr>
-    <tr><td>Bingyan Dai</td><td>Cornell University</td><td></td></tr>
-    <tr><td>George C. Davis</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Xiaoli L. Etienne</td><td>University of Idaho</td><td></td></tr>
-    <tr><td>Derek Farnsworth</td><td>University of Florida</td><td></td></tr>
-    <tr><td>Doo Bong Han</td><td>Korea Rural Economic Institute</td><td></td></tr>
-    <tr><td>Sionegael Ikeme</td><td>Colorado State University</td><td></td></tr>
-    <tr><td>Olga Isengildina Massa</td><td>Virginia Tech University</td><td></td></tr>
-    <tr><td>Didarul Islam</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Jungkeon Jo</td><td>University of Georgia</td><td></td></tr>
-    <tr><td>Sangnyeol Jung</td><td>Southwest Minnesota State University</td><td></td></tr>
-    <tr><td>Pratyoosh Kashyap</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Wonseok Lee</td><td>Oklahoma State University</td><td></td></tr>
-    <tr><td>Mengxue Li</td><td>Tuskegee University</td><td></td></tr>
-    <tr><td>Wei Li</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Weifang Liang</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Lin Lin</td><td>Michigan State University</td><td></td></tr>
-    <tr><td>Yong Liu</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Wuit Yi Lwin</td><td>Oklahoma State University</td><td></td></tr>
-    <tr><td>James M. MacDonald</td><td>University of Maryland</td><td></td></tr>
-    <tr><td>Matthew J. MacLachlan</td><td>Cornell University</td><td></td></tr>
-    <tr><td>Kaitlyn L. Malakoff</td><td>Arizona State University</td><td></td></tr>
-    <tr><td>Lisa Mancino</td><td>USDA, Economic Research Service</td><td></td></tr>
-    <tr><td>William N. McWilliams</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Tais C. de Menezes</td><td>Colorado State University</td><td></td></tr>
-    <tr><td>Yiyuan Miao</td><td>Renmin University of China</td><td></td></tr>
-    <tr><td>Mary K. Muth</td><td>RTI International</td><td></td></tr>
-    <tr><td>Ly Nguyen</td><td>Florida A&M University</td><td></td></tr>
-    <tr><td>Abigail M. Okrent</td><td>USDA-Economic Research Service</td><td></td></tr>
-    <tr><td>Sihyun Park</td><td>The Pennsylvania State University</td><td></td></tr>
-    <tr><td>Ujjwol Paudel</td><td>Arizona State University</td><td></td></tr>
-    <tr><td>Rundong Peng</td><td>Purdue University</td><td></td></tr>
-    <tr><td>Ana Melissa Perez Castano</td><td>University of Minnesota</td><td></td></tr>
-    <tr><td>Jon C. Phillips</td><td>California State Polytechnic University, Pomona</td><td></td></tr>
-    <tr><td>Germán Puga</td><td>University of Adelaide</td><td></td></tr>
-    <tr><td>Fei Qin</td><td>Arizona State University</td><td></td></tr>
-    <tr><td>Leonard-Allen A. Quaye</td><td>Virginia Tech</td><td></td></tr>
-    <tr><td>Mohammad M. Rahman</td><td>Washington State University</td><td></td></tr>
-    <tr><td>David Renke</td><td>Utah State University</td><td></td></tr>
-    <tr><td>Luca Rigotti</td><td>Cornell University</td><td></td></tr>
-    <tr><td>Beatrice Robson</td><td>University of Georgia</td><td></td></tr>
-    <tr><td>Simon Somogyi</td><td>Texas A&M University</td><td></td></tr>
-    <tr><td>Shamar L. Stewart</td><td>Virginia Tech University</td><td></td></tr>
-    <tr><td>Jiayu Sun</td><td>Michigan State University</td><td></td></tr>
-    <tr><td>Jae-hoon Sung</td><td>Korean Rural Economic Institution</td><td></td></tr>
-    <tr><td>Megan D. Sweitzer</td><td>USDA-Economic Research Service</td><td></td></tr>
-    <tr><td>Homa Taheri</td><td>Indiana University</td><td></td></tr>
-    <tr><td>Amanda Tian</td><td>Kansas State University</td><td></td></tr>
-    <tr><td>Dat Q. Tran, PhD</td><td>EDR</td><td></td></tr>
-    <tr><td>Camila Ulloa</td><td>Purdue University</td><td></td></tr>
-    <tr><td>Richard J. Volpe, III</td><td>California Polytechnic State University</td><td></td></tr>
-    <tr><td>Kelsey Vourazeris</td><td>Arizona State University</td><td></td></tr>
-    <tr><td>Duoyu Wang</td><td>Colorado State University</td><td></td></tr>
-    <tr><td>Linjie Wang</td><td>Huazhong Agricultural University</td><td></td></tr>
-    <tr><td>Rebecca Wasserman-Olin</td><td>Colorado State University</td><td></td></tr>
-    <tr><td>Lei Xu</td><td>The Ohio State University</td><td></td></tr>
-    <tr><td>Sungeun Yoon</td><td>University of Florida</td><td></td></tr>
-    <tr><td>Shuo Yu</td><td>University of California, Berkeley</td><td></td></tr>
-    <tr><td>Eliana Zeballos</td><td>USDA - Economic Research Services</td><td></td></tr>
-    <tr><td>Wenjie Zhan</td><td>University of California, Davis</td><td></td></tr>
-    <tr><td>Jianqiang Zhao</td><td>Cornell University</td><td></td></tr>
-    <tr><td>Xiaoyong Zheng</td><td>North Carolina State University</td><td></td></tr>
-    <tr><td>Siwen Zhou</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Leah Costlow</td><td>Tufts University</td><td>2</td></tr>
+    <tr><td>Catherine M. Cullinane-Thomas</td><td>USDA Economic Research Service</td><td>12</td></tr>
+    <tr><td>Bingyan Dai</td><td>Cornell University</td><td>1</td></tr>
+    <tr><td>George C. Davis</td><td>Virginia Tech</td><td>6</td></tr>
+    <tr><td>Doug Edmonds</td><td>DecaData</td><td>9</td></tr>
+    <tr><td>Xiaoli L. Etienne</td><td>University of Idaho</td><td>6</td></tr>
+    <tr><td>Derek Farnsworth</td><td>University of Florida</td><td>1</td></tr>
+    <tr><td>Leo Feler</td><td>Numerator</td><td>11</td></tr>
+    <tr><td>Raghav Goyal</td><td>Louisiana State University</td><td>4</td></tr>
+    <tr><td>Doo Bong Han</td><td>Korea Rural Economic Institute</td><td>9</td></tr>
+    <tr><td>Sionegael Ikeme</td><td>Colorado State University</td><td>10</td></tr>
+    <tr><td>Olga Isengildina Massa</td><td>Virginia Tech University</td><td>8</td></tr>
+    <tr><td>Didarul Islam</td><td>Virginia Tech</td><td>7</td></tr>
+    <tr><td>Jungkeon Jo</td><td>University of Georgia</td><td>8</td></tr>
+    <tr><td>Sangnyeol Jung</td><td>Southwest Minnesota State University</td><td>12</td></tr>
+    <tr><td>Pratyoosh Kashyap</td><td>Virginia Tech</td><td>4</td></tr>
+    <tr><td>Kailin Kroetz</td><td>Arizona State University</td><td>8</td></tr>
+    <tr><td>Wonseok Lee</td><td>Oklahoma State University</td><td>10</td></tr>
+    <tr><td>Mengxue Li</td><td>Tuskegee University</td><td>11</td></tr>
+    <tr><td>Wei Li</td><td>Texas A&M University</td><td>9</td></tr>
+    <tr><td>Weifang Liang</td><td>Texas A&M University</td><td>3</td></tr>
+    <tr><td>Lin Lin</td><td>Michigan State University</td><td>5</td></tr>
+    <tr><td>Yong Liu</td><td>Texas A&M University</td><td>8</td></tr>
+    <tr><td>Wuit Yi Lwin</td><td>Oklahoma State University</td><td>10</td></tr>
+    <tr><td>James M. MacDonald</td><td>University of Maryland</td><td>1</td></tr>
+    <tr><td>Matthew J. MacLachlan</td><td>Cornell University</td><td>4</td></tr>
+    <tr><td>Kaitlyn L. Malakoff</td><td>Arizona State University</td><td>6</td></tr>
+    <tr><td>Lisa Mancino</td><td>USDA, Economic Research Service</td><td>7</td></tr>
+    <tr><td>Aparna Mathur</td><td>Amazon</td><td>12</td></tr>
+    <tr><td>William N. McWilliams</td><td>Virginia Tech</td><td>4</td></tr>
+    <tr><td>Tais C. de Menezes</td><td>Colorado State University</td><td>2</td></tr>
+    <tr><td>Seth Meyer</td><td>USDA-ERS/Office of Chief Economist</td><td>3</td></tr>
+    <tr><td>Yiyuan Miao</td><td>Renmin University of China</td><td>1</td></tr>
+    <tr><td>Mary K. Muth</td><td>RTI International</td><td>11</td></tr>
+    <tr><td>Ly Nguyen</td><td>Florida A&M University</td><td>5</td></tr>
+    <tr><td>Abigail M. Okrent</td><td>USDA-Economic Research Service</td><td>6</td></tr>
+    <tr><td>David Ortega</td><td>Michigan State University</td><td>2</td></tr>
+    <tr><td>Sihyun Park</td><td>The Pennsylvania State University</td><td>12</td></tr>
+    <tr><td>Ujjwol Paudel</td><td>Arizona State University</td><td>9</td></tr>
+    <tr><td>Rundong Peng</td><td>Purdue University</td><td>5</td></tr>
+    <tr><td>Ana Melissa Perez Castano</td><td>University of Minnesota</td><td>2</td></tr>
+    <tr><td>Jon C. Phillips</td><td>California State Polytechnic University, Pomona</td><td>6</td></tr>
+    <tr><td>Germán Puga</td><td>University of Adelaide</td><td>11</td></tr>
+    <tr><td>Fei Qin</td><td>Arizona State University</td><td>1</td></tr>
+    <tr><td>Leonard-Allen A. Quaye</td><td>Virginia Tech</td><td>8</td></tr>
+    <tr><td>Mohammad M. Rahman</td><td>Washington State University</td><td>10</td></tr>
+    <tr><td>Steve Reed</td><td>Bureau of Labor Statistics</td><td>7</td></tr>
+    <tr><td>David Renke</td><td>Utah State University</td><td>6</td></tr>
+    <tr><td>Luca Rigotti</td><td>Cornell University</td><td>8</td></tr>
+    <tr><td>Daniela Rivera-Cintron</td><td>University of Puerto Rico-Mayagüez</td><td>11</td></tr>
+    <tr><td>Beatrice Robson</td><td>University of Georgia</td><td>12</td></tr>
+    <tr><td>Francisco Scott</td><td>Federal Reserve Bank</td><td>1</td></tr>
+    <tr><td>Aaron Smith</td><td>University of California, Berkeley</td><td>3</td></tr>
+    <tr><td>Simon Somogyi</td><td>Texas A&M University</td><td>9</td></tr>
+    <tr><td>Spiro Stafanou</td><td>USDA-ERS</td><td>8</td></tr>
+    <tr><td>Shamar L. Stewart</td><td>Virginia Tech University</td><td>10</td></tr>
+    <tr><td>Jiayu Sun</td><td>Michigan State University</td><td>5</td></tr>
+    <tr><td>Jae-hoon Sung</td><td>Korean Rural Economic Institution</td><td>2</td></tr>
+    <tr><td>Megan D. Sweitzer</td><td>USDA-Economic Research Service</td><td>11</td></tr>
+    <tr><td>Homa Taheri</td><td>Indiana University</td><td>9</td></tr>
+    <tr><td>Amanda Tian</td><td>Kansas State University</td><td>6</td></tr>
+    <tr><td>Dat Q. Tran</td><td>EDR</td><td>3</td></tr>
+    <tr><td>Camila Ulloa</td><td>Purdue University</td><td>12</td></tr>
+    <tr><td>Richard J. Volpe, III</td><td>California Polytechnic State University</td><td>7</td></tr>
+    <tr><td>Kelsey Vourazeris</td><td>Arizona State University</td><td>4</td></tr>
+    <tr><td>Duoyu Wang</td><td>Colorado State University</td><td>6</td></tr>
+    <tr><td>Linjie Wang</td><td>Huazhong Agricultural University</td><td>10</td></tr>
+    <tr><td>Rebecca Wasserman-Olin</td><td>Colorado State University</td><td>8</td></tr>
+    <tr><td>Lei Xu</td><td>Ohio State University</td><td>1</td></tr>
+    <tr><td>Sungeun Yoon</td><td>University of Florida</td><td>2</td></tr>
+    <tr><td>Shuo Yu</td><td>University of California, Berkeley</td><td>9</td></tr>
+    <tr><td>Eliana Zeballos</td><td>USDA - Economic Research Services</td><td>7</td></tr>
+    <tr><td>Wenjie Zhan</td><td>University of California, Davis</td><td>4</td></tr>
+    <tr><td>Jianqiang Zhao</td><td>Cornell University</td><td>3</td></tr>
+    <tr><td>Chen Zhen</td><td>University of Georgia</td><td>11</td></tr>
+    <tr><td>Xiaoyong Zheng</td><td>North Carolina State University</td><td>3</td></tr>
+    <tr><td>Siwen Zhou</td><td>Colorado State University</td><td>12</td></tr>
   </tbody>
 </table>
 
 
 
 <!--
-| Name | Institution | Email | 
-|-------------------------------------|----------------------------------|-----------------------------------------------------|
+| Name | Institution | Discussion Group | 
+|-------------------------------------|----------------------------------|--------------|
 |	Michael K. Adjemian	|	University of Georgia	|		|
 |	M. Arsene J. Agossadou	|	Texas A&M University	|		|
 |	Ifedotun V. Aina	|	University of Cape Town	|		|

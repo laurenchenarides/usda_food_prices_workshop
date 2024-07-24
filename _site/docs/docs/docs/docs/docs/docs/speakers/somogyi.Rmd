@@ -1,0 +1,28 @@
+---
+title: "Simon Somogyi"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Simon_Somogyi.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Simon Somogyi is a professor at Texas A&M University in the Department of Agricultural Economics, where he holds the Dr. Kerry Litzenberg Endowed Chair in Sales & Economics and serves as the Director of the Weston Agri-food Sales Program. He is the lead author of the semi-annual Texas A&M Food Price Predictor and was previously a co-author of Canada’s Food Price Report, an annual publication forecasting Canadian food prices. His teaching and research focus on food and agribusiness sales and distribution management, food price forecasting, and advancements in smart and virtual food retailing.  
+
+
+:::
+
+
+
+
+
+
+
+
+

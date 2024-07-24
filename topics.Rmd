@@ -13,13 +13,13 @@ Attendees will be divided into groups of 6 to 7 participants with a mix of unive
 <span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
 
 | Topic  | Discussants |
-|------------------------------------------|-----------------------------------------------------------------------------------|
-| Concentration and IO                     | [James MacDonald](macdonald.html), [Metin Çakir](cakir.html)                      |
-| Forecasting                              | [Aaron Smith](smith.html), [Matthew MacLachlan](maclachlan.html)                   |
-| Impacts of Price Changes                 | [Anne Byrne](byrne.html), [Abigail Okrent](okrent.html)                        |
-| Input Price Pass-Through                 | [Jude Bayham](bayham.html), [Kailin Kroetz](kroetz.html)                        |
-| International Markets                    | [Simon Somogyi](somogyi.html), [John Baffes](baffes.html)                        |
-| Price Indexes                            | [Chen Zhen](zhen.html), [Ana Aizcorbe](aizcorbe.html)                           |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| Concentration and IO                     | [James MacDonald](macdonald.html) (Group 1), [Metin Çakir](cakir.html) (Group 2)                      |
+| Forecasting                              | [Aaron Smith](smith.html) (Group 3), [Matthew MacLachlan](maclachlan.html) (Group 4)                  |
+| Impacts of Price Changes                 | [Anne Byrne](byrne.html) (Group 5), [Abigail Okrent](okrent.html) (Group 6)                        |
+| Input Price Pass-Through                 | [Jude Bayham](bayham.html) (Group 7), [Kailin Kroetz](kroetz.html) (Group 8)                       |
+| International Markets                    | [Simon Somogyi](somogyi.html) (Group 9), [John Baffes](baffes.html) (Group 10)                        |
+| Price Indexes                            | [Chen Zhen](zhen.html) (Group 11), [Ana Aizcorbe](aizcorbe.html) (Group 12)                           |
 -->
 
 <span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
@@ -56,27 +56,27 @@ Attendees will be divided into groups of 6 to 7 participants with a mix of unive
   <tbody>
     <tr>
       <td>Concentration and IO</td>
-      <td><a href="speakers/macdonald.html" target="_blank">James MacDonald</a>, <a href="speakers/cakir.html" target="_blank">Metin Çakir</a></td>
+      <td><a href="speakers/macdonald.html" target="_blank">James MacDonald (Group 1)</a>, <a href="speakers/cakir.html" target="_blank">Metin Çakir (Group 2)</a></td>
     </tr>
     <tr>
       <td>Forecasting</td>
-      <td><a href="speakers/smith.html" target="_blank">Aaron Smith</a>, <a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a></td>
+      <td><a href="speakers/smith.html" target="_blank">Aaron Smith (Group 3)</a>, <a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan (Group 4)</a></td>
     </tr>
     <tr>
       <td>Impacts of Price Changes</td>
-      <td><a href="speakers/byrne.html" target="_blank">Anne Byrne</a>, <a href="speakers/okrent.html" target="_blank">Abigail Okrent</a></td>
+      <td><a href="speakers/byrne.html" target="_blank">Anne Byrne (Group 5)</a>, <a href="speakers/okrent.html" target="_blank">Abigail Okrent (Group 6)</a></td>
     </tr>
     <tr>
       <td>Input Price Pass-Through</td>
-      <td><a href="speakers/bayham.html" target="_blank">Jude Bayham</a>, <a href="speakers/kroetz.html" target="_blank">Kailin Kroetz</a></td>
+      <td><a href="speakers/bayham.html" target="_blank">Jude Bayham (Group 7)</a>, <a href="speakers/kroetz.html" target="_blank">Kailin Kroetz (Group 8)</a></td>
     </tr>
     <tr>
       <td>International Markets</td>
-      <td><a href="speakers/somogyi.html" target="_blank">Simon Somogyi</a>, <a href="speakers/baffes.html" target="_blank">John Baffes</a></td>
+      <td><a href="speakers/somogyi.html" target="_blank">Simon Somogyi (Group 9)</a>, <a href="speakers/baffes.html" target="_blank">John Baffes (Group 10)</a></td>
     </tr>
     <tr>
       <td>Price Indexes</td>
-      <td><a href="speakers/zhen.html" target="_blank">Chen Zhen</a>, <a href="speakers/aizcorbe.html" target="_blank">Ana Aizcorbe</a></td>
+      <td><a href="speakers/zhen.html" target="_blank">Chen Zhen (Group 11)</a>, <a href="speakers/aizcorbe.html" target="_blank">Ana Aizcorbe (Group 12)</a></td>
     </tr>
   </tbody>
 </table>

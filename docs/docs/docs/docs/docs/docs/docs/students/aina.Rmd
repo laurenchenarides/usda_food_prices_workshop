@@ -1,0 +1,28 @@
+---
+title: "Ifedotun Aina"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Ifedotun_Aina.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Ifedotun Aina is a postdoctoral research fellow at the School of Economics, University of Cape Town, South Africa. He conducts research on food price analysis and resource management, combining economic and environmental modelling methods. His research intersects environmental economics, agricultural economics, and behavioral economics, applying econometric techniques and applied economic. Ifedotun was a visiting scholar at the International Institute for Applied Systems Analysis (IIASA) in Austria, and a recipient of several awards from the South African National Research Foundation and the European Union’s Intra-Africa academic mobility scheme. 
+
+
+:::
+
+
+
+
+
+
+
+
+

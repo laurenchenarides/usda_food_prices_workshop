@@ -3,7 +3,7 @@
 library(rmarkdown)
 
 # Set the working directory to the folder containing the Rmd files
-setwd("C:/Users/lachenar/OneDrive - Colostate/Documents/GitProjectsWithR/usda_food_prices_workshop/speakers")
+setwd("C:/Users/tatac/Documents/usda_food_prices_workshop/speakers")
 
 # List all Rmd files in the directory
 rmd_files <- list.files(pattern = "\\.Rmd$")
@@ -18,7 +18,7 @@ for(file in rmd_files) {
 library(rmarkdown)
 
 # Set the working directory to the folder containing the Rmd files
-setwd("C:/Users/lachenar/OneDrive - Colostate/Documents/GitProjectsWithR/usda_food_prices_workshop/students")
+setwd("C:/Users/tatac/Documents/usda_food_prices_workshop/students")
 
 # List all Rmd files in the directory
 rmd_files <- list.files(pattern = "\\.Rmd$")

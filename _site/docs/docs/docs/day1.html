@@ -2173,121 +2173,96 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
   </style>
-  <style type="text/css">
-  /* base variables */
-
-  /* Edit the CSS properties in this file to create a custom
-     Distill theme. Only edit values in the right column
-     for each row; values shown are the CSS defaults.
-     To return any property to the default,
-     you may set its value to: unset
-     All rows must end with a semi-colon.                      */
-
-  /* Optional: embed custom fonts here with `@import`          */
-  /* This must remain at the top of this file.                 */
-
-
-  @import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk');
-  @import url('https://fonts.googleapis.com/css2?family=Archivo');
-  @import url('https://fonts.googleapis.com/css2?family=Public+Sans');
+  <style type="text/css">@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700&display=swap');
 
   html {
-    /*-- Main font sizes --*/
     --title-size:      50px;
-    --body-size:       1.06rem;
+    --body-size:       16px;  /* adjusted for readability */
     --code-size:       14px;
-    --aside-size:      12px;
-    --fig-cap-size:    13px;
-    /*-- Main font colors --*/
+    --aside-size:      14px;
+    --fig-cap-size:    12px;
+
     --title-color:     #000000;
     --header-color:    rgba(0, 0, 0, 0.8);
     --body-color:      rgba(0, 0, 0, 0.8);
     --aside-color:     rgba(0, 0, 0, 0.6);
     --fig-cap-color:   rgba(0, 0, 0, 0.6);
-    /*-- Specify custom fonts ~~~ must be imported above   --*/
-    --heading-font:    "Archivo", sans-serif;
-    --mono-font:       monospace;
+
+    --heading-font:    "Public Sans", sans-serif;
+    --mono-font:       "Roboto Mono", monospace;
     --body-font:       "Public Sans", sans-serif;
-    --navbar-font:     "Family Grotesk", sans-serif;  /* websites + blogs only */
+    --navbar-font:     "Public Sans", sans-serif;
   }
 
-  /*-- ARTICLE METADATA --*/
-  d-byline {
-    --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
-    --body-color:      rgba(0, 0, 0, 0.8);
-  }
-
-  /*-- ARTICLE TABLE OF CONTENTS --*/
-  .d-contents {
-    --heading-size:    18px;
-    --contents-size:   13px;
-  }
-
-  /*-- ARTICLE APPENDIX --*/
-  d-appendix {
-    --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
-    --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
-  }
-
-  /*-- WEBSITE HEADER + FOOTER --*/
-  /* These properties only apply to Distill sites and blogs  */
-
-  .distill-site-header {
-    --title-size:       18px;
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #23408F;
-  }
-
-  .distill-site-footer {
-    --text-color:       rgba(255, 255, 255, 0.8);
-    --text-size:        15px;
-    --hover-color:      white;
-    --bkgd-color:       #23408F;
-  }
-
-  /*-- Additional custom styles --*/
-  /* Add any additional CSS rules below                      */
-
+  /* Ensure text contrast ratio of at least 4.5:1 */
   body {
     background-color: #FFFFFF;
+    color: var(--body-color);
+    font-family: var(--body-font);
+    line-height: 1.5;
   }
 
-  h2 {
-    color: #23408F; /* This sets the color of h3 headers to the purple used in the header */
-    font-family: var(--heading-font); /* Ensures the font family for h3 is consistent with other headers */
+  h1, h2, h3, h4, h5, h6 {
+    color: #23408F;  /* Ensuring sufficient contrast */
+    font-family: var(--heading-font);
   }
 
-  h3 {
-    color: #23408F; /* This sets the color of h3 headers to the purple used in the header */
-    font-family: var(--heading-font); /* Ensures the font family for h3 is consistent with other headers */
+  /* Enhance visibility of links */
+  a {
+    color: #005ea2; /* High contrast for links */
+    text-decoration: underline; /* Underline links for better visibility */
   }
 
-  /* Table customization */
+  /* Style for tables */
   table {
-    font-size: 0.9rem; /* Smaller font size for tables */
-    border-collapse: collapse; /* Collapse borders */
-    width: 100%; /* Optional: makes the table width 100% of its container */
-    margin-bottom: 20px; /* Optional: adds some space below the table */
-  }
-
-  table, th, td {
-    border: 1px solid #ddd; /* Adds border to the table, th, and td elements */
+    border-collapse: collapse;
+    width: 100%;
   }
 
   th, td {
-    padding: 8px; /* Adds padding inside each table cell */
-    text-align: left; /* Aligns text to the left; adjust as needed */
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
   }
 
   th {
-    background-color: #f4f4f4; /* Optional: sets a background color for table headers */
-    color: #333; /* Optional: sets the text color for table headers */
+    background-color: #f4f4f4;
+    color: #333;
+  }
+
+  /* Customize buttons and interactive elements */
+  button {
+    background-color: #23408F;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 8px;
+  }
+
+  /* Footer styling */
+  .distill-site-footer {
+    --text-color:       rgba(255, 255, 255, 0.8);
+    --text-size:        14px;
+    --hover-color:      white;
+    --bkgd-color:       #23408F;
+    padding: 10px;
+    text-align: center;
+  }
+
+  /* Header styling */
+  .distill-site-header {
+    --title-size:       24px;
+    --text-color:       rgba(255, 255, 255, 0.8);
+    --text-size:        16px;
+    --hover-color:      white;
+    --bkgd-color:       #23408F;
+    padding: 10px 20px;
   }</style>
   <style type="text/css">
   /* base style */
@@ -2501,40 +2476,42 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <style>
+  @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
+
   body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
+    font-family: 'Public Sans', sans-serif;
   }
+
   .agenda-table {
     width: 100%;
     border-collapse: collapse;
-    margin-bottom: 20px;
   }
+
   .agenda-table th, .agenda-table td {
     border: 1px solid #ddd;
     padding: 8px;
     text-align: left;
   }
+
   .agenda-table th {
-    background-color: #f2f2f2;
+    background-color: #f4f4f4;
+    color: #333;
   }
-  .session-time {
-    font-weight: bold;
+
+  .agenda-table td a {
+    color: #23408F; /* Matching the color used for headers */
   }
+
+  .agenda-table .session-time {
+    width: 15%; /* Adjust the width of the Time column */
+  }
+
   .break-row {
-    background-color: #f9f9f9;
+    background-color: #e0f4f9; /* Light blue color specifically for break rows */
   }
-  .networking-row {
-    background-color: #e9f7e9;
-  }
-  .btn {
-    background-color: black;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
+  
+  .agenda-table tbody tr:nth-child(odd):not(.break-row) {
+    background-color: #f9f9f9; /* Apply grey shading only to non-break odd rows */
   }
 </style>
 <h2 id="agenda">Agenda</h2>
@@ -2543,6 +2520,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <tr>
 <th>
 Time
+</th>
+<th>
+Session Title
 </th>
 <th>
 Description
@@ -2561,6 +2541,9 @@ Speakers/Moderators
 Registration and Coffee
 </td>
 <td>
+Organizers of the workshop say welcome
+</td>
+<td>
 </td>
 </tr>
 <tr>
@@ -2569,6 +2552,9 @@ Registration and Coffee
 </td>
 <td>
 Introduction
+</td>
+<td>
+Introducion to the workshop.
 </td>
 <td>
 <a href="speakers/spiro.html" target="_blank">Spiro Stefanou</a>
@@ -2582,6 +2568,9 @@ Introduction
 Keynote Speaker
 </td>
 <td>
+Keynote address on recent food price trends.
+</td>
+<td>
 <a href="speakers/ortega.html" target="_blank">David Ortega</a>
 </td>
 </tr>
@@ -2591,6 +2580,9 @@ Keynote Speaker
 </td>
 <td>
 U.S. Inflation in the Context of International Price Changes
+</td>
+<td>
+Speaker on international food price trends and how they impact U.S. inflation.
 </td>
 <td>
 <a href="speakers/baffes.html" target="_blank">John Baffes</a>
@@ -2604,6 +2596,9 @@ U.S. Inflation in the Context of International Price Changes
 Policy Responses to Food Price Inflation
 </td>
 <td>
+Discussion on monitoring and addressing food price inflation.
+</td>
+<td>
 <a href="speakers/meyer.html" target="_blank">Seth Meyer</a>
 </td>
 </tr>
@@ -2613,6 +2608,9 @@ Policy Responses to Food Price Inflation
 </td>
 <td>
 Moderated Discussion/Q&amp;A
+</td>
+<td>
+Recap of presentations given by speakers for sessions 1-3.
 </td>
 <td>
 <a href="speakers/spiro.html" target="_blank">Spiro Stefanou</a>, <a href="speakers/ortega.html" target="_blank">David Ortega</a>, <a href="speakers/baffes.html" target="_blank">John Baffes</a>, and <a href="speakers/meyer.html" target="_blank">Seth Meyer</a>
@@ -2627,6 +2625,8 @@ Break
 </td>
 <td>
 </td>
+<td>
+</td>
 </tr>
 <tr>
 <td class="session-time">
@@ -2634,6 +2634,9 @@ Break
 </td>
 <td>
 Retrospective Analysis on Food Price Inflation
+</td>
+<td>
+Examination of retrospective data related to food price inflation and identification of price drivers.
 </td>
 <td>
 <a href="speakers/adjemian.html" target="_blank">Michael Adjemian</a>, <a href="speakers/scott.html" target="_blank">Francisco Scott</a>, <a href="speakers/cakir.html" target="_blank">Metin Çakir</a>
@@ -2648,38 +2651,21 @@ Lunch Break
 </td>
 <td>
 </td>
-</tr>
-<tr>
-<td class="session-time">
-1:00 PM - 1:15 PM
-</td>
 <td>
-Methods for Evaluating and Forecasting Food Price Changes - Introduction
-</td>
-<td>
-<a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>
 </td>
 </tr>
 <tr>
 <td class="session-time">
-1:15 PM - 2:00 PM
+1:00 PM - 2:15 PM
 </td>
 <td>
-Methods for Evaluating and Forecasting Food Price Changes - Panel
+Methods for Evaluating and Forecasting Food Price Changes
 </td>
 <td>
-<a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, and <a href="speakers/smith.html" target="_blank">Aaron Smith</a>
-</td>
-</tr>
-<tr>
-<td class="session-time">
-2:00 PM - 2:15 PM
+Overview of different forecasts and methods used by organizations like Food Price Outlook, MTED, and RRED and uses across governments, industry, and the public.
 </td>
 <td>
-Moderated Discussion/Q&amp;A
-</td>
-<td>
-<a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, and <a href="speakers/smith.html" target="_blank">Aaron Smith</a>
+<a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, <a href="speakers/smith.html" target="_blank">Aaron Smith</a>
 </td>
 </tr>
 <tr class="break-row">
@@ -2688,6 +2674,8 @@ Moderated Discussion/Q&amp;A
 </td>
 <td>
 Break
+</td>
+<td>
 </td>
 <td>
 </td>
@@ -2700,7 +2688,10 @@ Break
 Understanding Determinants of Food Prices for Forecasting
 </td>
 <td>
-<a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/malakoff.html" target="_blank">Kaitlyn Malakoff</a>, <a href="speakers/bayham.html" target="_blank">Jude Bayham</a>, and <a href="speakers/etienne.html" target="_blank">Xiaoli Etienne</a>
+Research presentations highlighting research to improve food price forecasting, including leading indicators of food price changes, energy prices, and factors driving prices in specific markets including beef and seafood.
+</td>
+<td>
+<a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/malakoff.html" target="_blank">Kaitlyn Malakoff</a>, <a href="speakers/bayham.html" target="_blank">Jude Bayham</a>, <a href="speakers/etienne.html" target="_blank">Xiaoli Etienne</a>
 </td>
 </tr>
 <tr class="break-row">
@@ -2709,6 +2700,8 @@ Understanding Determinants of Food Prices for Forecasting
 </td>
 <td>
 Break
+</td>
+<td>
 </td>
 <td>
 </td>
@@ -2721,7 +2714,10 @@ Break
 Impacts of Food Price Changes
 </td>
 <td>
-<a href="speakers/chenarides.html" target="_blank">Lauren Chenarides</a>, <a href="speakers/alston.html" target="_blank">Julian Alston</a>, and <a href="speakers/byrne.html" target="_blank">Anne Byrne</a>
+Presentation on the impacts of food price inflation on price markups, consumer welfare, and food security.
+</td>
+<td>
+<a href="speakers/chenarides.html" target="_blank">Lauren Chenarides</a>, <a href="speakers/alston.html" target="_blank">Julian Alston</a>, <a href="speakers/byrne.html" target="_blank">Anne Byrne</a>
 </td>
 </tr>
 <tr>
@@ -2732,14 +2728,20 @@ Impacts of Food Price Changes
 Concluding Remarks
 </td>
 <td>
+Recap of day 1 sessions and what to expect for day 2.
+</td>
+<td>
 </td>
 </tr>
-<tr class="networking-row">
+<tr>
 <td class="session-time">
 5:00 PM - 6:00 PM
 </td>
 <td>
 Networking Reception
+</td>
+<td>
+Join us for a networking reception located in the hotel. For dinner recommendations, please visit the <a href="places.html" target="_blank">Places</a> page on the workshop website.
 </td>
 <td>
 </td>

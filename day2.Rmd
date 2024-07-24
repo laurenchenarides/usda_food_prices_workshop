@@ -63,7 +63,7 @@ knitr::opts_chunk$set(echo = TRUE)
       <td class="session-time">8:30 AM - 9:30 AM</td>
       <td>Public Data Resources</td>
       <td>Overview of publicly available data resources related to food price inflation, including BLS Consumer Price Index (CPI), USDA Food-at-Home Monthly Area Prices (F-MAP), and BEA Personal Consumer Expenditures (PCE). How to access and utilize these resources effectively.</td>
-      <td><a href="speakers/reed.html" target="_blank">Steve Reed</a>, <a href="speakers/sweitzer.html" target="_blank">Megan Sweitzer</a>, <a href="speakers/aizcorbe.html" target="_blank">Ana Aizcorbe</a></td>
+      <td><a href="speakers/reed.html" target="_blank">Steve Reed</a>, <a href="speakers/aizcorbe.html" target="_blank">Ana Aizcorbe</a>, <a href="speakers/sweitzer.html" target="_blank">Megan Sweitzer</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">9:30 AM - 9:45 AM</td>

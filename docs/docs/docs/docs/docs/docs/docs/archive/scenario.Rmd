@@ -1,0 +1,83 @@
+---
+title: "How Can the Dashboard Help You with Your Research?"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Activity: Using the Dashboard
+
+<font size="8">**Time: 15 minutes**</font>
+
+**Objective:** You will use the dashboard to find information about the dataset assigned to your breakout group (see table below). You will be asked a series of questions that are aimed to find specific data usage statistics for your assigned dataset.
+
+| Breakout Group   | Assigned Dataset | 
+|--------|----------------|
+| Group 1  |   Census of Agriculture      | 
+| Group 2  |   FoodAPS      | 
+| Group 3  |   Current Population Survey -- Food Security Supplement      | 
+| Group 4  |   Food Access Research Atlas      | 
+
+### Tasks
+
+**UPDATE SCENARIOS TO MATCH THE FUNCTIONALITY OF THE SITE**
+**USE CONSISTENT PHRASING TO HAVE THEM ANSWER QUESTIONS WHERE WE KNOW THE RIGHT ANSWERS**
+**HAVE THEM FIND THE "RIGHT ANSWER"**
+
+
+**As you navigate the dashboard to answer the questions below, please make use of the chat feature in Zoom to provide comments, in real time, about your experience. Our note takers will be collecting your feedback.**
+
+1. **Locate your assigned dataset:** Given the USDA-produced dataset have you been assigned, navigate to the location on the page where you can filter through the list of datasets.
+
+Example dataset: Farm to School Census
+
+2. **Identify an expert:** Who can we ask for help?
+
+Answer: Becca Jablonski
+
+
+3. **Identify five papers we can read:** What papers can we read?
+
+Answer: Big Hunger
+
+
+4. Where is a good place to do a literature review?
+
+Answer: Journal of Hunger and Environmental Nutrition
+
+
+5. Where might publish? 
+
+Answer: 
+
+6. But, what if I want to target an Ag Econ journal?
+
+Answer: Go to "All Science Journal Classification Subfields", Select "Economics and Econometrics"
+
+
+7. If time allows, clear your filter and pick a new dataset. 
+
+
+## Reflection Questions
+
+**(8 minutes)**
+
+**After you have gone through the dashboard and answered the questions, we will reconvene as a group to answer the following reflection questions.**
+
+  - What features of the dashboard did you find particularly useful or surprising?
+  - What limitations or problems did you encounter while navigating the dashboard?
+  - What features would you add to the dashboard?
+
+Thank you for sharing
+
+<!--===================================-->
+<div style="text-align: center;">
+  <a href="share.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Go to Large Group Share</a>
+</div>
+
+
+<!--
+**Purpose:** Imagine you're in the process of drafting a research paper and you need to identify relevant datasets for your analysis. The goal is to use the dashboard to find datasets that allow you to answer your research question. 
+-->

@@ -13,11 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <img src="images/Steve_Reed.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
 
-**Bio:** Pending
+**Bio:** Steve Reed is an economist in the Consumer Price Index program at the Bureau of Labor Statistics. He has been with the Bureau of Labor Statistics since 1998, after receiving a B.A. in Economics from the College of William and Mary and a M.A. in Economics from the University of Maryland. He is the author of a handful of articles related to the CPI, and is a frequent speaker, interviewee, and even podcast guest. 
 
-**Presentation Title:** Pending
+**Presentation Title:** Overview of BLS food price data
 
-**Abstract:** Pending
+**Abstract:** The price programs of the Bureau of Labor Statistics produce a wide array of data on food prices. This talk will provide an overview of the data from the import and export price program (MXPI), the Producer Price Index (PPI), and the Consumer Price Index (CPI). We will look at how to obtain data most easily, and go through actual data from each program, focusing on fruit prices as an example.
 
 
 :::

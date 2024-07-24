@@ -237,6 +237,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!--
 # Prepare the docs directory
+setwd("C:/Users/tatac/Documents/usda_food_prices_workshop")
 system('powershell -command "Remove-Item -Recurse -Force docs/*"')
 system('powershell -command "Copy-Item -Recurse -Force _site/* docs/"')
 -->
