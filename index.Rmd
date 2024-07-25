@@ -59,6 +59,42 @@ site: distill::distill_website
   .networking-row {
     background-color: #e9f7e9;
   }
+  /* Navbar styling */
+  .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: #333;
+  }
+  .navbar a {
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    background-color: #575757;
+  }
+  .navbar-toggle {
+    display: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: white;
+  }
+  @media (max-width: 768px) {
+    .navbar-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+    .navbar-links.active {
+      display: flex;
+    }
+    .navbar-toggle {
+      display: block;
+    }
+  }
 </style>
 
 ## Event Details
@@ -177,6 +213,22 @@ site: distill::distill_website
   </tbody>
 </table>
 
+## Registration
+You can register for the workshop [here](https://www.aaea.org/meetings/2024-aaea-annual-meeting/registration-travel/registration){target="_blank"}.
+
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+```
+
+
+
 
 <!--
 ## Event Details
@@ -214,23 +266,6 @@ site: distill::distill_website
 | 10:45 AM - 12:00 PM  | Breakout Sessions                                                    |
 | 12:00 PM - 12:30 PM  | Closing Remarks                                                      |
 -->
-
-
-
-## Registration
-You can register for the workshop [here](https://www.aaea.org/meetings/2024-aaea-annual-meeting/registration-travel/registration){target="_blank"}.
-
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
-
-```
-
-
 
 
 

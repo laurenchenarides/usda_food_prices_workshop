@@ -1,0 +1,28 @@
+---
+title: "Mengxue Li"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Mengxue_Li.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Mengxue Li is in her 1st year of the Ph.D. program in Integrative Public Policy and Development at Tuskegee University. Her current research focuses on the application of machine learning algorithms to time series forecasting, particularly in the domain of food demand. Her ongoing research project is a food pantry project that aims to successfully forecast household visits to food pantries, understand food demand at Alabama food pantries, and benefit the food pantries' operations. Mengxue's research is supported by the USDA National Institute of Food and Agriculture. She holds a Master's in finance from China Agricultural University and a Bachelor of Economics from Nanjing Audit University. Before her Ph.D., she worked in investment roles in the finance industry.
+
+
+:::
+
+
+
+
+
+
+
+
+

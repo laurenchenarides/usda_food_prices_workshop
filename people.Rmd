@@ -536,7 +536,7 @@ htmltools::HTML('
     <tr><td>Kathryn A. Boys</td><td>North Carolina State University</td><td>9</td></tr>
     <tr><td>Anne T. Byrne</td><td>Economic Research Service USDA</td><td>5</td></tr>
     <tr><td>Metin Çakir</td><td>University of Minnesota</td><td>2</td></tr>
-    <tr><td>Lauren Chenarides</td><td>Colorado State University</td><td></td></tr>
+    <tr><td>Lauren Chenarides</td><td>Colorado State University</td><td>5</td></tr>
     <tr><td>Leah Costlow</td><td>Tufts University</td><td>2</td></tr>
     <tr><td>Catherine M. Cullinane-Thomas</td><td>USDA Economic Research Service</td><td>12</td></tr>
     <tr><td>Bingyan Dai</td><td>Cornell University</td><td>1</td></tr>

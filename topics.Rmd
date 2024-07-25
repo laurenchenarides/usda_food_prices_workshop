@@ -9,18 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Attendees will be divided into groups of 6 to 7 participants with a mix of university faculty, graduate students, government employees, and private sector professionals to discuss and identify stakeholders’ needs, underutilized information, and potential improvements in evaluating and forecasting food prices. 
 
-<!--
-<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
-
-| Topic  | Discussants |
-|------------------------------------------|----------------------------------------------------------------------------------------|
-| Concentration and IO                     | [James MacDonald](macdonald.html) (Group 1), [Metin Çakir](cakir.html) (Group 2)                      |
-| Forecasting                              | [Aaron Smith](smith.html) (Group 3), [Matthew MacLachlan](maclachlan.html) (Group 4)                  |
-| Impacts of Price Changes                 | [Anne Byrne](byrne.html) (Group 5), [Abigail Okrent](okrent.html) (Group 6)                        |
-| Input Price Pass-Through                 | [Jude Bayham](bayham.html) (Group 7), [Kailin Kroetz](kroetz.html) (Group 8)                       |
-| International Markets                    | [Simon Somogyi](somogyi.html) (Group 9), [John Baffes](baffes.html) (Group 10)                        |
-| Price Indexes                            | [Chen Zhen](zhen.html) (Group 11), [Ana Aizcorbe](aizcorbe.html) (Group 12)                           |
--->
 
 <span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
 
@@ -82,24 +70,70 @@ Attendees will be divided into groups of 6 to 7 participants with a mix of unive
 </table>
 </div>
 
-
 ```{r echo=FALSE}
 htmltools::HTML('
 <div style="text-align: center; margin-top: 20px;">
   <a href="people.html#participants" target="_blank" style="font-size: 18px; color: blue; text-decoration: underline;">Find Your Discussion Group Here</a>
 </div>
+<br>
+<div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facilitation Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h2 {
+            text-align: center;
+        }
+        iframe {
+            width: 100%;
+            max-width: 100%;
+            height: 600px;
+            border: 1px solid #ccc;
+        }
+        .button-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Facilitation Guide</h2>
+    <iframe src="Facilitator guide_07-22-2024.pdf" width="100%" height="600px">
+       Please download the PDF to view it: <a href="Facilitator guide_07-22-2024.pdf">Download PDF</a>.
+    </iframe>
+    <div class="button-container">
+        <a href="Facilitator guide_07-22-2024.pdf" class="button" target="_blank">Open in New Window</a>
+        <a href="Facilitator guide_07-22-2024.pdf" class="button" download>Download PDF</a>
+    </div>
+</body>
+</html>
+</div>
 ')
 ```
 
-<br>
-<br>
-
-<body>
-    <h2>Facilitation Guide</h2>
-    <iframe src="Facilitator guide_07-16-2024.pdf" width="100%" height="600px">
-       Please download the PDF to view it: <a href="Facilitator guide_07-16-2024.pdf">Download PDF</a>.
-    </iframe>
-</body>
 
 <!-- ################## -->
 
@@ -114,7 +148,18 @@ htmltools::HTML('
 
 
 
+<!--
+<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
 
+| Topic  | Discussants |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| Concentration and IO                     | [James MacDonald](macdonald.html) (Group 1), [Metin Çakir](cakir.html) (Group 2)                      |
+| Forecasting                              | [Aaron Smith](smith.html) (Group 3), [Matthew MacLachlan](maclachlan.html) (Group 4)                  |
+| Impacts of Price Changes                 | [Anne Byrne](byrne.html) (Group 5), [Abigail Okrent](okrent.html) (Group 6)                        |
+| Input Price Pass-Through                 | [Jude Bayham](bayham.html) (Group 7), [Kailin Kroetz](kroetz.html) (Group 8)                       |
+| International Markets                    | [Simon Somogyi](somogyi.html) (Group 9), [John Baffes](baffes.html) (Group 10)                        |
+| Price Indexes                            | [Chen Zhen](zhen.html) (Group 11), [Ana Aizcorbe](aizcorbe.html) (Group 12)                           |
+-->
 <!--
 
 ## Reflection Questions 

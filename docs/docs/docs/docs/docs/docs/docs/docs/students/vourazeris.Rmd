@@ -1,0 +1,28 @@
+---
+title: "Kelsey Vourazeris"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Kelsey_Vourazeris.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Kelsey Vourazeris is a Ph.D. student in Business Administration (Agribusiness) at Arizona State University. She is slated to graduate in May 2025. Kelsey is currently involved in research projects examining the value of information from improved traceability and dynamic modeling of technology adoption in Controlled Environment Agriculture (CEA). She has also constructed financial models for comparing different technological innovations. Additionally, she instructs advanced undergraduate courses in agricultural policy and engage in community outreach opportunities like volunteering at FFA competitions.
+
+
+:::
+
+
+
+
+
+
+
+
+
