@@ -1,0 +1,28 @@
+---
+title: "Fei Qin"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Fei_Qin.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Fei Qin is currently working as a postdoctoral research scholar at the Morrison School of Agribusiness at Arizona State University. She earned her Ph.D. in Agricultural Economics from Purdue University in 2023. Her primary research interests lie at the intersection of agricultural and food economics, industrial organization, and development economics. She has extensive experience in policy evaluation and analyzing large datasets, including retailer and household scanner data, which she leverages to provide insights into the dynamics of the food industry. 
+
+
+:::
+
+
+
+
+
+
+
+
+

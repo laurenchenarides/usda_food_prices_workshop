@@ -21,7 +21,7 @@
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -2263,6 +2263,49 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --hover-color:      white;
     --bkgd-color:       #23408F;
     padding: 10px 20px;
+  }
+
+  /* Basic styles for the navbar */
+  .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: #333;
+  }
+
+  .navbar a {
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+  }
+
+  .navbar a:hover {
+    background-color: #575757;
+  }
+
+  .navbar-toggle {
+    display: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    color: white;
+  }
+
+  @media (max-width: 768px) {
+    .navbar-links {
+      display: none;
+      flex-direction: column;
+      width: 100%;
+    }
+
+    .navbar-links.active {
+      display: flex;
+    }
+
+    .navbar-toggle {
+      display: block;
+    }
   }</style>
   <style type="text/css">
   /* base style */
@@ -2419,7 +2462,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.27.1/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2476,18 +2519,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <p>Attendees will be divided into groups of 6 to 7 participants with a mix of university faculty, graduate students, government employees, and private sector professionals to discuss and identify stakeholders’ needs, underutilized information, and potential improvements in evaluating and forecasting food prices.</p>
-<!--
-<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
-
-| Topic  | Discussants |
-|------------------------------------------|----------------------------------------------------------------------------------------|
-| Concentration and IO                     | [James MacDonald](macdonald.html) (Group 1), [Metin Çakir](cakir.html) (Group 2)                      |
-| Forecasting                              | [Aaron Smith](smith.html) (Group 3), [Matthew MacLachlan](maclachlan.html) (Group 4)                  |
-| Impacts of Price Changes                 | [Anne Byrne](byrne.html) (Group 5), [Abigail Okrent](okrent.html) (Group 6)                        |
-| Input Price Pass-Through                 | [Jude Bayham](bayham.html) (Group 7), [Kailin Kroetz](kroetz.html) (Group 8)                       |
-| International Markets                    | [Simon Somogyi](somogyi.html) (Group 9), [John Baffes](baffes.html) (Group 10)                        |
-| Price Indexes                            | [Chen Zhen](zhen.html) (Group 11), [Ana Aizcorbe](aizcorbe.html) (Group 12)                           |
--->
 <p><span style="font-size: 20px; font-weight: bold;"><strong>Discussion topics</strong></span></p>
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');
@@ -2578,18 +2609,64 @@ Price Indexes
 <div style="text-align: center; margin-top: 20px;">
   <a href="people.html#participants" target="_blank" style="font-size: 18px; color: blue; text-decoration: underline;">Find Your Discussion Group Here</a>
 </div>
+<br>
+<div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Facilitation Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h2 {
+            text-align: center;
+        }
+        iframe {
+            width: 100%;
+            max-width: 100%;
+            height: 600px;
+            border: 1px solid #ccc;
+        }
+        .button-container {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button {
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Facilitation Guide</h2>
+    <iframe src="Facilitator guide_07-22-2024.pdf" width="100%" height="600px">
+       Please download the PDF to view it: <a href="Facilitator guide_07-22-2024.pdf">Download PDF</a>.
+    </iframe>
+    <div class="button-container">
+        <a href="Facilitator guide_07-22-2024.pdf" class="button" target="_blank">Open in New Window</a>
+        <a href="Facilitator guide_07-22-2024.pdf" class="button" download>Download PDF</a>
+    </div>
+</body>
+</html>
+</div>
 
 </div>
-<p><br>
-<br></p>
-<body>
-<h2>
-Facilitation Guide
-</h2>
-<iframe src="Facilitator guide_07-16-2024.pdf" width="100%" height="600px">
-Please download the PDF to view it: <a href="Facilitator guide_07-16-2024.pdf">Download PDF</a>.
-</iframe>
-</body>
 <!-- ################## -->
 <div style="padding-bottom: 60px;">
 
@@ -2598,6 +2675,18 @@ Please download the PDF to view it: <a href="Facilitator guide_07-16-2024.pdf">D
 <div style="text-align: center;">
 <p><a href="index.html" class="btn" style="background-color: black; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block;">Back to Home</a></p>
 </div>
+<!--
+<span style="font-size: 20px; font-weight: bold;">**Discussion topics**</span>
+
+| Topic  | Discussants |
+|------------------------------------------|----------------------------------------------------------------------------------------|
+| Concentration and IO                     | [James MacDonald](macdonald.html) (Group 1), [Metin Çakir](cakir.html) (Group 2)                      |
+| Forecasting                              | [Aaron Smith](smith.html) (Group 3), [Matthew MacLachlan](maclachlan.html) (Group 4)                  |
+| Impacts of Price Changes                 | [Anne Byrne](byrne.html) (Group 5), [Abigail Okrent](okrent.html) (Group 6)                        |
+| Input Price Pass-Through                 | [Jude Bayham](bayham.html) (Group 7), [Kailin Kroetz](kroetz.html) (Group 8)                       |
+| International Markets                    | [Simon Somogyi](somogyi.html) (Group 9), [John Baffes](baffes.html) (Group 10)                        |
+| Price Indexes                            | [Chen Zhen](zhen.html) (Group 11), [Ana Aizcorbe](aizcorbe.html) (Group 12)                           |
+-->
 <!--
 
 ## Reflection Questions 

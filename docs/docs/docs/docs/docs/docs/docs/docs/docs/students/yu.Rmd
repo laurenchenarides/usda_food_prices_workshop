@@ -1,0 +1,28 @@
+---
+title: "Shuo Yu"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Shuo_Yu.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Shuo Yu is a Ph.D. candidate in Agricultural and Resource Economics at the University of California, Berkeley. Her research focuses on the intersection of agricultural policy and environmental economics. In her job market paper, she analyzes the Environmental Quality Incentives Program (EQIP) and its impact on water quality through cover cropping practices. Her innovative approach combines econometric analysis with satellite-derived data to quantify the social value of EQIP. Shuo holds an M.S. in Applied Economics and Management from Cornell University and a B.S. in International Economics and Trade from the University of International Business and Economics. 
+
+
+:::
+
+
+
+
+
+
+
+
+

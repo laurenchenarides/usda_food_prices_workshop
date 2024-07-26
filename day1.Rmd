@@ -117,7 +117,7 @@ knitr::opts_chunk$set(echo = TRUE)
       <td class="session-time">1:00 PM - 2:15 PM</td>
       <td>Methods for Evaluating and Forecasting Food Price Changes</td>
       <td>Overview of different forecasts and methods used by organizations like Food Price Outlook, MTED, and RRED and uses across governments, industry, and the public.</td>
-      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/mathur.html" target="_blank">Aparna Mathur</a>, <a href="speakers/smith.html" target="_blank">Aaron Smith</a></td>
+      <td><a href="speakers/maclachlan.html" target="_blank">Matthew MacLachlan</a>, <a href="speakers/goyal.html" target="_blank">Raghav Goyal</a>, <a href="speakers/raya.html" target="_blank">Albert Raya-Munté</a>, <a href="speakers/smith.html" target="_blank">Aaron Smith</a></td>
     </tr>
     <tr class="break-row">
       <td class="session-time">2:15 PM - 2:30 PM</td>

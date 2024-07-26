@@ -1,0 +1,32 @@
+---
+title: "Xiaoli Etienne"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Xiaoli_Etienne.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Pending
+
+**Presentation Title:** Pending
+
+**Abstract:** Pending
+
+
+:::
+
+
+
+
+
+
+
+
+

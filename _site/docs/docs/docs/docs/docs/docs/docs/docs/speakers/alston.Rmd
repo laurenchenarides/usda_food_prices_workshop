@@ -1,0 +1,31 @@
+---
+title: "Julian Alston"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Julian_Alston.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Julian Alston is a distinguished professor emeritus in the Department of Agricultural and Resource Economics at UC Davis, known for his work on the economics of agricultural and food policy.  His recent projects have emphasized science & technology policy and the economics of agricultural innovation; food & nutrition policy, and the global challenges of poverty, malnutrition, and obesity; and wine economics.  He has published numerous research articles, chapters, and books on these subjects—including The Effects of Farm and Food Policy on Obesity in the United States (2017) with Abigail Okrent.  
+
+**Presentation Title:** The Incidence of Farm Commodity Price Increases on U.S. Food Consumers: Consequences for Healthy Diets, Obesity, and Consumer Welfare – A First Look
+
+**Abstract:** In this paper in process we extend the equilibrium displacement model developed by Okrent and Alston (2012) to allow for multiple cohorts of consumers, disaggregated according to their wealth status, and update the parameters using new data and revised estimation procedures.  We use that model to examine the effects of exogenous changes in M farm commodity prices, and hence in retail prices of N food products, on per capita quantities demanded by each group of consumers.  We translate those changes in per capita demanded of the various food products into measures of healthy eating (the Healthy Eating Index), obesity (BMI and its social cost), and consumer welfare (compensating variation).  The exogenous changes in prices we consider are specified to represent both (1) recent past changes in U.S. farm commodity prices associated with specific causes, and (2) alternative scenarios for future global farm commodity markets reflecting alternative projections of climate change or projections of farm productivity growth, relative to a baseline for specific future years.  An overview of the study and preliminary results will be presented at the workshop.
+
+:::
+
+
+
+
+
+
+
+
+

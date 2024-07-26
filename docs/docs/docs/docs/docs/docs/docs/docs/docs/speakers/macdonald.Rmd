@@ -1,0 +1,28 @@
+---
+title: "James MacDonald"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/James_MacDonald.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** James M. MacDonald is Research Professor in the Department of Agricultural and Resource Economics at the University of Maryland. Prior to joining the University in 2020, he was a senior economist and branch chief at the Economic Research Service of the U.S. Department of Agriculture, where he supervised work on agricultural productivity, technology adoption, and farm performance. His own research focuses on competition in agribusiness industries, and on the changing structure and organization of the farm sector. A Fellow of the Agricultural and Applied Economics Association, MacDonald received a Ph.D. in economics from the State University of New York at Buffalo and a bachelor’s degree from Siena College.
+
+
+:::
+
+
+
+
+
+
+
+
+

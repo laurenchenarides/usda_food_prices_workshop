@@ -1,0 +1,32 @@
+---
+title: "Kaitlyn Malakoff"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Kaitlyn_Malakoff.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Kaitlyn Malakoff is a PhD Student in the School of Sustainability at Arizona State University and a 2023 NMFS-Sea Grant Marine Resource Economics Fellow studying the effects of international trade policies on seafood supply chains in the United States. Other research topics include examining the role of seafood in resilient and equitable food systems and leveraging spatial data to study protected land management.
+
+**Presentation Title:** Tailoring retail food price forecasts to specific markets: lessons from U.S. seafood
+
+**Abstract:** Retail food price forecasts inform expectations and budgeting for stakeholders, including Federal nutritional assistance programs, consumer groups, and industry. We focus on the United States Department of Agriculture’s (USDA) “fish and seafood” price forecast. Following USDA’s current practices, we use a time series seasonal autoregressive integrated moving average (SARIMA) modeling approach with model selection to determine how seafood forecasts can be improved using more refined retail price series. We find substantial reductions in expected SARIMA forecast error of up to 51% and 31% as measured by mean absolute error when disaggregating by product form and species, respectively, suggesting that the aggregate “fish and seafood” forecast does not appropriately proxy for more refined product prices. We then allow for the inclusion of exogenous price determinants in a SARIMAX model framework and compare forecast performance to the SARIMA approach for different types of seafood. Preliminary results suggest that models that minimize information loss include exogenous price determinants, that the selected covariates differ by species and product form, and that a SARIMAX approach can reduce forecast error.
+
+
+:::
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+---
+title: "Jiayu Sun"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Jiayu_Sun.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Jiayu Sun is a Ph.D. candidate in Agricultural, Food, and Resource Economics at Michigan State University, and anticipated to graduate in 2024. Her research program uses economics and behavioral theories, complemented by a range of methodological approaches including experimental methods and machine learning techniques, to better understand consumer food choice behavior and decision-making processes. Currently, she is working on using double machine learning methods to evaluate the market dynamic and entry effects in plant-based meat alternatives industry.
+
+
+:::
+
+
+
+
+
+
+
+
+

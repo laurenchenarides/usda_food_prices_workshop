@@ -1,0 +1,32 @@
+---
+title: "Megan Sweitzer"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Megan_Sweitzer.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Megan Sweitzer is a research agricultural economist in the Food Economics Division of the USDA Economic Research Service. She leads the ERS Food Price Outlook, and her research focuses on food price forecasting, food price data development, and the intersection between food prices and consumer purchasing decisions. She has also specialized in developing and using scanner data for food economics research. She previously held roles conducting economic research and producing federal statistics for the Federal Energy Regulatory Commission and the U.S. Bureau of Labor Statistics.
+
+**Presentation Title:** Food-at-Home Monthly Area Prices: Validating price indexes constructed from retail scanner data
+
+**Abstract:** The USDA Economic Research Service (ERS) developed the Food-at-Home Monthly Area Prices (F-MAP) data product to provide detailed U.S. food price data for economic research and analysis of food prices, consumer purchasing patterns, and the food environment. F-MAP provides monthly food price data over time, across food groupings, and across geographic areas and includes monthly prices for 90 food-at-home (FAH) categories across 15 geographic areas of the United States. These data are constructed using retail scanner data, which offer extensive and detailed data on spatial and temporal food price variation but are collected from a nonprobability sample of retailers. To understand how prices reported by stores in the retail scanner data compare to established sources of retail price data, we benchmark the F-MAP to the Consumer Price Index (CPI) for major food categories and regions. We find strong correlation between the CPI and the scanner data-based price index for all food at home across all geographies but find heterogeneity in the correlations across regions and food categories.
+
+
+:::
+
+
+
+
+
+
+
+
+
