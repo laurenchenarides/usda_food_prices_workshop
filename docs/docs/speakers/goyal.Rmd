@@ -15,10 +15,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Bio:** Dr. Raghav Goyal is an Assistant Professor at Louisiana State University (LSU). As an early-stage researcher and new investigator, his research focuses on applying machine learning techniques in applied economics, forecasting, price analysis, and data analytics. Dr. Goyal’s work, which regularly incorporates econometric and computational programming methods, has been published in leading field journals.
 
-**Presentation Title:** Pending
+**Presentation Title:** Forecasting Food Prices Using Machine Learning: Methods and Accuracy 
 
-**Abstract:** Pending
-
+**Abstract:** The accurate forecasting of food prices is essential for economic planning, policy-making, and market stabilization, directly impacting farmers, retailers, and consumers. Traditional forecasting methods, such as linear regression and time-series analysis, often fall short in capturing the complex, non-linear patterns inherent in food price data. This presentation explores the advancements in machine learning (ML) techniques and their application to food price forecasting, highlighting the superior performance of methods like Artificial Neural Networks (ANN), Support Vector Machines (SVM), Random Forest (RF), Gradient Boosting Machine (GBM), Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Long Short-Term Memory (LSTM), and Generalized Neural Networks (GRNN). Through a detailed examination of various studies and their key results, we demonstrate how ML models perform compared to traditional models in terms of accuracy and reliability. The presentation also delves into the future potential of ML in food price forecasting. The findings suggest that the continued adoption and development of ML techniques will play a crucial role in enhancing economic planning and ensuring food security.
 
 :::
 

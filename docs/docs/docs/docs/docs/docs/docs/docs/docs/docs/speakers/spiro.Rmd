@@ -1,0 +1,23 @@
+---
+title: "Spiro Stefanou"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+:::float-left
+
+<img src="images/spiro.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Spiro Stefanou is the Administrator of the Economic Research Service. He provides leadership and guidance for the agency research, analytical, and technical operations. Since 2015, Dr. Stefanou was a Professor of Economics in the Food and Resource Economics Department at the University of Florida. Dr. Stefanou received his Ph.D. in Agricultural Economics from the University of California, Davis, his M.S. in Agricultural and Resource Economics from the University of Maryland and a Bachelor of Arts in Anthropology from George Washington University.
+
+:::
+
+
+
+

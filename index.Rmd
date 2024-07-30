@@ -21,6 +21,8 @@ site: distill::distill_website
 
 **Expected Outcomes** <br> The workshop's main goals are to present and discuss the research that has been developed under the Strategic Priority Grant on the topic of food prices and forecasting that was sponsored by the USDA-ERS, foster the establishment of research partnerships between attendees, and to gather papers for the publication of a journal special issue.
 
+**Location** <br> Balconies J and K (4th floor)
+
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Public+Sans&display=swap');

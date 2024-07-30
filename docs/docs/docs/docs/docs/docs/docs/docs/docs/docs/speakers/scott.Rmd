@@ -1,0 +1,32 @@
+---
+title: "Francisco Scott"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Francisco_Scott.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Francisco Scott is an economist at the Economic Research Department of the Federal Reserve Bank of Kansas City. His current research focuses on agricultural industrial organization, regional economics, and policy. Francisco joined the Bank in 2021 after completing his Ph.D. in Agricultural Economics at Purdue University.
+
+**Presentation Title:** Identifying passthroughs of shocks to food inflation: some theory, some evidence
+
+**Abstract:** The presentation focuses on the challenges of identifying passthroughs of economic shocks to food inflation.  I derive the main drivers of food inflation from first principles and review the conditions for econometric identification of each component. I also illustrate the complexity of the econometric exercise with two empirical examples.  The first concerns the passthrough of agricultural commodity prices to food prices and the second illustrates the effect of shock to processing capacity to beef inflation.
+
+
+:::
+
+
+
+
+
+
+
+
+

@@ -13,11 +13,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <img src="images/Xiaoli_Etienne.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
 
-**Bio:** Pending
+**Bio:** Dr. Xiaoli Etienne is an Associate Professor of Agricultural Economics at the University of Idaho, where she holds the inaugural Idaho Wheat Commission Bill Flory Endowed Chair in Risk Management. Her research focuses on commodity marketing, price analysis, risk management, energy economics, and policy analysis.   
 
-**Presentation Title:** Pending
+**Presentation Title:** Do energy prices drive food price inflation?
 
-**Abstract:** Pending
+**Abstract:** The recent surge in food prices has reignited the debate regarding the influence of energy prices on food price volatility. As a critical input in the food supply chain, escalating energy costs can significantly increase the expenses incurred by farmers, processors, and distributors, thereby contributing to rising food prices. This paper employs econometric models to analyze historical data on energy prices and food price indices, considering other influencing factors such as weather conditions, geopolitical events, and market demand.  
 
 
 :::

@@ -1,0 +1,28 @@
+---
+title: "Pratyoosh Kashyap"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Pratyoosh_Kashyap.jpeg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Pratyoosh Kashyap is an agricultural economist whose work focuses on applying economic theory and quantitative methods to examine issues in the food systems. His postdoctoral research at Virginia Tech will employ a mixed methods approach to assess the distinct needs of Black, Hispanic, and Tribal agricultural producers in the United States around accessing wholesale food markets. In his doctoral research, Pratyoosh studied relationships between the policy environment, community resources, and the adoption of universal free school meal programs and the Farm to School program in the U.S. Further, he conducted a countrywide consumer survey to examine the welfare implications for the pork market resulting from an African Swine Fever outbreak in the U.S. as well as the impact that different information sources may have on the outcomes. Prior to his PhD, Pratyoosh worked in India with public and international institutions where his research focused on agricultural and livestock value chains development.
+
+
+:::
+
+
+
+
+
+
+
+
+

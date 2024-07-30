@@ -1,0 +1,31 @@
+---
+title: "Ana Aizcorbe"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Ana_Aizcorbe.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Ana Aizcorbe is a research economist at the Bureau of Economic Analysis (BEA), where she conducts research into price index and other measurement issues. Prior to this, she served as BEA’s chief economist where she initiated a Health Satellite Account that allows one to identify the drivers underlying the cost of treating diseases. Dr. Aizcorbe also held positions as an ASA/NSF/BLS research fellow, staff economist at the Federal Reserve Board, visiting fellow at The Brookings Institution, and a research economist in the Bureau of Labor Statistics. She has published a book titled “A Practical Guide to Price Index and Hedonic Techniques” and numerous articles on the theoretical issues underlying price measurement, with empirical applications to the high-technology and service sectors. Dr. Aizcorbe has a B.A. degree in economics from Georgetown University, and a Ph.D. in economics from Boston College.
+
+**Presentation Title:** Personal Consumption Expenditures Price Index for Food Purchased for Off-Premises Consumption
+
+**Abstract:** This presentation will provide an introduction to the data sources and methods used to construct the price index that the Bureau of Economic Analysis uses to deflate personal consumption expenditures on the "Food purchased for off-premises consumption" in the national accounts.
+
+:::
+
+
+
+
+
+
+
+
+
