@@ -23,6 +23,12 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 
+<!-- Contact link for presentations -->
+<div style="margin-top: 20px;">
+  <a href="mailto:kclee11@asu.edu">Contact the author for the presentation slides</a>
+</div>
+
+
 
 
 

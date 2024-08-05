@@ -23,6 +23,11 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 
+<!-- Link to presentation slides -->
+<div style="margin-top: 20px;">
+  <a href="presentations/8-1_Steve_Reed.pptx" target="_blank">Click here to view the presentation slides</a>
+</div>
+
 
 
 

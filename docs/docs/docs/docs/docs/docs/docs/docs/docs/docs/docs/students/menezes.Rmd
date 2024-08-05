@@ -1,0 +1,28 @@
+---
+title: "Taís Menezes"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/tais.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Taís C. de Menezes is a third-year Ph.D. student in the Department of Agricultural and Resource Economics at Colorado State University. She has a master's and a Ph.D. in Applied Economics from the Luiz de Queiroz College of Agriculture (Esalq), University of São Paulo. Taís is also a researcher with the Agricultural Policy team at the Center for Advanced Studies in Applied Economics (CEPEA) at the University of São Paulo in Brazil. She was a Fulbright visiting scholar at Colorado State University in 2021-2022. Her research is focused on agricultural policy, animal health economics, and international trade. Taís’ current research applies computable general equilibrium models to evaluate the potential economic impacts of African swine fever in the United States and Brazil, focusing on livestock and meat international trade.
+
+
+:::
+
+
+
+
+
+
+
+
+

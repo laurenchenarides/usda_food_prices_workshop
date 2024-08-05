@@ -23,6 +23,11 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 
+<!-- Link to presentation slides -->
+<div style="margin-top: 20px;">
+  <a href="presentations/3_Seth_Meyer_public.pptx" target="_blank">Click here to view the presentation slides</a>
+</div>
+
 
 
 

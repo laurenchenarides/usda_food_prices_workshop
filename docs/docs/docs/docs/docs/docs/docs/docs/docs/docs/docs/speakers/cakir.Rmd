@@ -1,0 +1,31 @@
+---
+title: "Metin Çakır"
+output: distill::distill_article
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+:::float-left
+
+<img src="images/Metin_Cakir.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+
+**Bio:** Metin Çakır is a professor in the Department of Applied Economics at the University of Minnesota. Dr. Çakır conducts research in food and agricultural markets and competition, consumer economics, and applied index number theory. He teaches courses in microeconomics, business strategy, managerial economics, and industrial organization. His recent research focuses on price analysis, the economic effects of changes in the food retailing landscape, and investigating the causes and consequences of recent food price inflation. His work is published in leading journals such as the American Journal of Agricultural Economics, Journal of Retailing, and Food Policy and received awards, including a Quality of Research Discovery Award from the American Agricultural Economics Association. Dr. Çakır is a member of the AAEA and served in several different positions in the Association. Currently, he serves as area editor for the Journal of the American Agricultural Economics Association.
+
+**Presentation Title:** Perspectives on High Retail Food Prices during 2020-2022
+
+**Abstract:** The recent food price inflation has sparked lively debates globally in media accounts, policy circles, and academics. A large body of literature has emerged across several fields of economics. However, each study typically focuses on a single or subset of causes, indicating that factors contributing to the recent food price inflation are broadly ranging and complex. This paper provides a comprehensive synthesis of what we learned about the major causes of high food prices in 2020-2022 in the United States and how they differ from those identified in prior food price hikes during the Great Recession of 2008. To provide context, we first discuss stylized facts about the U.S. food industry structure and previous empirical evidence on economy-wide drivers of high food prices. We then survey the literature on drivers of food price surges observed since 2020. We document that price surges in 2020-2022 have some unique factors primarily stemming from the consequences of the COVID-19 pandemic—specifically, U.S. fiscal support and money supply growth are the leading causes. Like in 2008, high oil prices were not a major factor; while high commodity prices might have affected recent food price hikes, it was not found to be one of the primary factors as in 2008. Inflation expectations due to high oil prices, which played a significant role in 2008, were also not found to be an essential cause. Furthermore, the evidence on the role of factors directly related to retailers’ conduct, such as seller’s inflation or price gouging, is mixed. Considering our synthesis, we identify policy priorities and gaps where future research is needed.
+
+:::
+
+
+
+
+
+
+
+
+

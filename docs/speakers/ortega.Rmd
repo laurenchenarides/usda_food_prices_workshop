@@ -23,6 +23,12 @@ knitr::opts_chunk$set(echo = FALSE)
 :::
 
 
+<!-- Link to presentation slides -->
+<div style="margin-top: 20px;">
+  <a href="presentations/1_David_Ortega.pdf" target="_blank">Click here to view the presentation slides</a>
+</div>
+
+
 
 
 

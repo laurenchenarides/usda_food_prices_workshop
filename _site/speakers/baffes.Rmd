@@ -24,6 +24,12 @@ In response, most central banks took decisive action by aggressively increasing 
 :::
 
 
+<!-- Link to presentation slides -->
+<div style="margin-top: 20px;">
+  <a href="presentations/2_John_Baffes.pptx" target="_blank">Click here to view the presentation slides</a>
+</div>
+
+
 
 
 

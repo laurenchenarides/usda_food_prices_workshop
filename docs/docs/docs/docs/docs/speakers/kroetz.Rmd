@@ -11,9 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 :::float-left
 
-<img src="images/Kailin_Kroetz.jpg" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
+<img src="images/Kailin_Kroetz.png" style="width: 120px; height: 120px; object-fit: cover; border-radius: 50%;">
 
-**Bio:** Pending
+**Bio:** Kailin Kroetz is an Assistant Professor of Environmental and Resource Economics in the School of Sustainability. She is also a University Fellow at Resources for the Future (RFF) -- an independent, nonprofit focused on impartial economic research and policy engagement in Washington, DC -- where she worked for 5 years prior to joining ASU. Prior to working at RFF, she received her PhD in Agricultural and Resource Economics from the University of California, Davis. Her research focuses on management decisions and policies related to natural resource use and conservation and has 3 main areas of focus: 1) enhancing seafood sustainability from production to consumption; 2) supporting biodiversity conservation given limited management budgets; and 3) understanding the role of fish products in sustainable food systems. Current research interests include climate resilient fisheries management, the impacts of seafood mislabeling, accounting for uncertainty in large-scale management approaches to mitigate biodiversity loss, and the role of environmental variability on seafood prices and implications for low-income consumers. Kroetz’s research is generally interdisciplinary and related to current policy issues, and therefore integrated with her public service.  Her public service includes an appointment to the Scientific and Statistical Committee of the North Pacific Fishery Management Council and participation on the National Academies of Sciences committee for Assessing Equity in the Distribution of Fisheries Management Benefits. 
 
 
 :::
